@@ -25,7 +25,7 @@ The textual cycle in which the shiurim work through teachings from Keser Shem To
 
 ## Related Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Tefillah|Tefillah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Deveikus|Deveikus]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Emunah|Emunah]] [[concepts/Yirah|Yirah]] [[concepts/Chassidus|Chassidus]] [[concepts/Arizal|Arizal]] [[concepts/Hashem|Hashem]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Tefillah|Tefillah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Deveikus|Deveikus]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Emunah|Emunah]] [[concepts/Yirah|Yirah]] [[concepts/Chassidus|Chassidus]] [[concepts/Arizal|Arizal]] [[concepts/Chinuch|Chinuch]]
 
 ## Connected Sources
 

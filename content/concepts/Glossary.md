@@ -12,3 +12,5 @@ tags:
 Research nodes connected to [[concepts/Glossary|Glossary]].
 
 ## Connected Sources
+
+No sources are connected yet.

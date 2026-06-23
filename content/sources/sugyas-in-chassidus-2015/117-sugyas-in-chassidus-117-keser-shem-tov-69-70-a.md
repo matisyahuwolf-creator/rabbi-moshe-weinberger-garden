@@ -24,7 +24,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 117
 - Shiur ID: 953149
 - Date: Apr 24, 2020

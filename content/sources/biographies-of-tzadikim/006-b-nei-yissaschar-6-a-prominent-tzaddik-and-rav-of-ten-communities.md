@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Bnei Yissaschar
+- Collection: [[collections/bnei-yissaschar|Bnei Yissaschar]]
 - Item number: 6
 - Shiur ID: 823545
 - Date: Dec 28, 1998
@@ -40,9 +40,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/005-rebbe-nachman-m-breslov-biography-5-his-early-years|Rebbe Nachman M'Breslov - Biography (5) His Early Years]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/005-the-toldos-yaakov-yoseph-of-polonoye-5-the-prototype-of-the-tzaddik-2|The Toldos Yaakov Yoseph Of Polonoye (5) The Prototype Of The Tzaddik (2)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/007-no-am-elimelech-7-a-tzaddik-s-responsibility-to-the-world|No’am Elimelech (7) A Tzaddik's Responsibility To The World]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/007-the-toldos-yaakov-yoseph-of-polonoye-7-the-prototype-of-the-tzaddik-4|The Toldos Yaakov Yoseph Of Polonoye (7) The Prototype Of The Tzaddik (4)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/007-the-yid-hakodesh-7-the-beauty-of-the-rebbe-and-talmid-relationship|The Yid Hakodesh (7) The Beauty Of The Rebbe And Talmid Relationship]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
-- [[sources/biographies-of-tzadikim/003-reb-leibele-eiger-3-the-makings-of-a-tzaddik|Reb Leibele Eiger (3) The Makings Of A Tzaddik]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 
 ## Transcript
 

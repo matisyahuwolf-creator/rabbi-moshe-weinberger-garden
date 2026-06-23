@@ -27,6 +27,7 @@ Hashem's immanent presence and the avodah of revealing that presence in every pl
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/160-chaburah-yosef-hatzadik-160-revealing-divine-presence-in-the-darkest-places|Chaburah Yosef HaTzadik (160) Revealing Divine Presence In The Darkest Places]] - Chaburas Yosef HaTzaddik / #160 / Sep 18, 2022
 - [[sources/sugyas-in-chassidus-2015/044-sugyas-in-chassidus-44-holding-hands-with-the-torah|Sugyas In Chassidus (44) Holding Hands With The Torah]] - Sugyas in Chassidus 2015 / #44 / Feb 17, 2017
 - [[sources/sugyas-in-chassidus-2015/043-sugyas-in-chassidus-43|Sugyas In Chassidus (43)]] - Sugyas in Chassidus 2015 / #43 / Feb 10, 2017
 - [[sources/sugyas-in-chassidus-2015/042-sugyas-in-chassidus-42-the-light-within-shines-bright|Sugyas In Chassidus (42) The Light Within Shines Bright]] - Sugyas in Chassidus 2015 / #42 / Feb 03, 2017

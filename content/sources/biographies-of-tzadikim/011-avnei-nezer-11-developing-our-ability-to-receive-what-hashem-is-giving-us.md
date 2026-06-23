@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Avnei Nezer
+- Collection: [[collections/avnei-nezer|Avnei Nezer]]
 - Item number: 11
 - Shiur ID: 823485
 - Date: May 26, 1997
@@ -39,10 +39,10 @@ aliases:
 - [[sources/biographies-of-tzadikim/010-tzemach-tzeddek-10-meditating-on-hashem-s-greatness|Tzemach Tzeddek (10) Meditating On Hashem's Greatness]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/012-baal-shem-tov-12-the-ten-points-to-serving-hashem|Baal Shem Tov (12) The Ten Points To Serving Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/008-reb-leibele-eiger-8-the-everlasting-nature-of-hashem-s-covenant-with-us|Reb Leibele Eiger (8) The Everlasting Nature Of Hashem's Covenant With Us]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/013-baal-shem-tov-13-clinging-to-hashem|Baal Shem Tov (13) Clinging To Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/013-kedushas-levi-13-hashem-s-love-for-his-children|Kedushas Levi (13) Hashem's Love For His Children]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/013-the-be-er-mayim-chaim-13-visualizing-kiddush-hashem|The Be'er Mayim Chaim (13) Visualizing Kiddush Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

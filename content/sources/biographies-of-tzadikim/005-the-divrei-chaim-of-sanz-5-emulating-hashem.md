@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Divrei Chaim of Sanz
+- Collection: [[collections/divrei-chaim-of-sanz|Divrei Chaim of Sanz]]
 - Item number: 5
 - Shiur ID: 823555
 - Date: May 01, 2000
@@ -37,12 +37,12 @@ aliases:
 
 - [[sources/biographies-of-tzadikim/004-noam-elimelech-4-hashem-loves-all-of-our-efforts|Noam Elimelech (4) Hashem Loves All Of Our Efforts]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/005-kedushas-levi-5-why-we-have-to-go-through-darkness-before-attaining-hashem-s-light|Kedushas Levi (5) Why We Have To Go Through Darkness Before Attaining Hashem’s Light]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/007-kozhnitzer-maggid-7-face-to-face-with-hashem|Kozhnitzer Maggid (7) Face To Face With Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/007-the-be-er-mayim-chaim-7-overflowing-love-of-hashem-on-shabbos|The Be'er Mayim Chaim (7) Overflowing Love Of Hashem On Shabbos]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

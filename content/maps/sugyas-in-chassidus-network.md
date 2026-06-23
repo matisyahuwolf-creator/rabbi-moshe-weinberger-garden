@@ -88,11 +88,11 @@ This map organizes the Sugyas in Chassidus shiurim by theme, concept, and learni
 - [[concepts/Tzimtzum|Tzimtzum]] - 6 shiurim
 - [[concepts/Tzaddikim|Tzaddikim]] - 5 shiurim
 - [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] - 4 shiurim
+- [[concepts/Chinuch|Chinuch]] - 4 shiurim
 - [[concepts/Simcha|Simcha]] - 4 shiurim
+- [[concepts/Tafkid|Tafkid]] - 4 shiurim
 - [[concepts/Achdus|Achdus]] - 3 shiurim
 - [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] - 3 shiurim
-- [[concepts/Mahapecha|Mahapecha]] - 2 shiurim
-- [[concepts/Hiskashrus|Hiskashrus]] - 1 shiurim
 
 ## Complete Sugyas Sequence
 

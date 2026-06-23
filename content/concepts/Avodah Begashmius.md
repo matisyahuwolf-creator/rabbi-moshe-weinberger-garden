@@ -21,7 +21,7 @@ Serving Hashem through ordinary physical life: eating, work, the body, and the m
 
 ## Related Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Torah|Torah]] [[concepts/Or|Or]] [[concepts/Heart|Heart]] [[concepts/Shechinah|Shechinah]] [[concepts/Neshama|Neshama]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Rebbe Nachman|Rebbe Nachman]]
+[[concepts/Hashem|Hashem]] [[concepts/Torah|Torah]] [[concepts/Or|Or]] [[concepts/Heart|Heart]] [[concepts/Shechinah|Shechinah]] [[concepts/Neshama|Neshama]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]]
 
 ## Connected Sources
 
@@ -40,3 +40,4 @@ Serving Hashem through ordinary physical life: eating, work, the body, and the m
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Sugyas in Chassidus 2015 / #14 / Dec 18, 2015
 - [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Sugyas in Chassidus 2015 / #13 / Dec 11, 2015
 - [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] - Sugyas in Chassidus 2015 / #9 / Nov 13, 2015
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995

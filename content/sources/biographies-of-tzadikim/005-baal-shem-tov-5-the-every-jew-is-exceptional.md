@@ -23,7 +23,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Baal Shem Tov
+- Collection: [[collections/baal-shem-tov|Baal Shem Tov]]
 - Item number: 5
 - Shiur ID: 823522
 - Date: May 24, 1999
@@ -44,7 +44,7 @@ aliases:
 - [[sources/biographies-of-tzadikim/003-baal-shem-tov-3-biographical-background-from-secrecy-to-revelation|Baal Shem Tov (3) Biographical Background - From Secrecy To Revelation]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 - [[sources/biographies-of-tzadikim/008-baal-shem-tov-8-a-new-way-of-understanding-the-world|Baal Shem Tov (8) A New Way Of Understanding The World]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Foundations of Chassidus, Mesorah of Tzaddikim
-- [[sources/biographies-of-tzadikim/001-baal-shem-tov-1-biographical-background-as-reported-by-his-students|Baal Shem Tov (1) Biographical Background As Reported By His Students]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Baal Shem Tov and Moshiach, Foundations of Chassidus, Mesorah of Tzaddikim
 
 ## Transcript
 

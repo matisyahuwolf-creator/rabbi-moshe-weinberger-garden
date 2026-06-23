@@ -23,7 +23,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Baal Shem Tov
+- Collection: [[collections/baal-shem-tov|Baal Shem Tov]]
 - Item number: 15
 - Shiur ID: 823531
 - Date: Dec 06, 1999

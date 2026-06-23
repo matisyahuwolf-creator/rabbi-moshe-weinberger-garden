@@ -8,6 +8,7 @@ tags:
   - "cataloged"
   - "ein-od-milvado-and-tzimtzum"
   - "finding-hashem-everywhere"
+  - "chinuch"
   - "hashem"
 aliases:
   - "823608"
@@ -21,7 +22,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kedushas Levi
+- Collection: [[collections/kedushas-levi|Kedushas Levi]]
 - Item number: 13
 - Shiur ID: 823608
 - Date: Dec 02, 2002
@@ -31,18 +32,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Hashem|Hashem]]
+[[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]]
 
 ## Related Sources
 
 - [[sources/biographies-of-tzadikim/012-baal-shem-tov-12-the-ten-points-to-serving-hashem|Baal Shem Tov (12) The Ten Points To Serving Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/014-baal-shem-tov-14-clinging-to-hashem-ii|Baal Shem Tov (14) Clinging To Hashem (Ii)]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/014-the-be-er-mayim-chaim-14-dying-for-hashem-daily|The Be'er Mayim Chaim (14) Dying For Hashem Daily]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/010-tzemach-tzeddek-10-meditating-on-hashem-s-greatness|Tzemach Tzeddek (10) Meditating On Hashem's Greatness]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/011-avnei-nezer-11-developing-our-ability-to-receive-what-hashem-is-giving-us|Avnei Nezer (11) Developing Our Ability To Receive What Hashem Is Giving Us]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/013-baal-shem-tov-13-clinging-to-hashem|Baal Shem Tov (13) Clinging To Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/013-the-be-er-mayim-chaim-13-visualizing-kiddush-hashem|The Be'er Mayim Chaim (13) Visualizing Kiddush Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

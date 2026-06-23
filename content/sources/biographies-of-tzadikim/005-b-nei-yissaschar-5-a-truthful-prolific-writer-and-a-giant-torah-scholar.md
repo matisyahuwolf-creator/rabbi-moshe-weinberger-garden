@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Bnei Yissaschar
+- Collection: [[collections/bnei-yissaschar|Bnei Yissaschar]]
 - Item number: 5
 - Shiur ID: 823544
 - Date: Dec 21, 1998
@@ -36,13 +36,13 @@ aliases:
 ## Related Sources
 
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-reb-leibele-eiger-7-his-tisch-torah-and-levaya|Reb Leibele Eiger (7) His Tisch, Torah And Levaya]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/006-reb-areleh-roth-6-kavanah-one-thing-at-a-time|Reb Areleh Roth (6) Kavanah - One Thing At A Time]] - Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 
 ## Transcript
 

@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kedushas Levi
+- Collection: [[collections/kedushas-levi|Kedushas Levi]]
 - Item number: 14
 - Shiur ID: 823609
 - Date: Dec 16, 2002

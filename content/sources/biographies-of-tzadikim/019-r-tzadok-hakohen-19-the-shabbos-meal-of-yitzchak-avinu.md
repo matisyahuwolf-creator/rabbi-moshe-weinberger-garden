@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Rav Tzadok HaKohen
+- Collection: [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]
 - Item number: 19
 - Shiur ID: 824106
 - Date: Jan 06, 1997

@@ -7,6 +7,7 @@ tags:
   - "biographies-of-tzadikim"
   - "cataloged"
   - "achdus"
+  - "chinuch"
 aliases:
   - "823494"
   - "shiur 823494"
@@ -19,7 +20,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Areleh Roth
+- Collection: [[collections/reb-areleh-roth|Reb Areleh Roth]]
 - Item number: 8
 - Shiur ID: 823494
 - Date: Sep 08, 1997
@@ -29,18 +30,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Achdus|Achdus]]
+[[concepts/Achdus|Achdus]] [[concepts/Chinuch|Chinuch]]
 
 ## Related Sources
 
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Chinuch
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Chinuch
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Chinuch
 - [[sources/biographies-of-tzadikim/007-avnei-nezer-7-galus-a-completely-different-existence|Avnei Nezer (7) Galus- A Completely Different Existence]]
 - [[sources/biographies-of-tzadikim/007-b-nei-yissaschar-7-feeling-an-other-s-pain|B'nei Yissaschar (7) Feeling An Other's Pain]]
 - [[sources/biographies-of-tzadikim/007-kedushas-levi-7-every-action-makes-a-difference|Kedushas Levi (7) Every Action Makes A Difference]]
 - [[sources/biographies-of-tzadikim/007-kozhnitzer-maggid-7-face-to-face-with-hashem|Kozhnitzer Maggid (7) Face To Face With Hashem]]
 - [[sources/biographies-of-tzadikim/007-no-am-elimelech-7-a-tzaddik-s-responsibility-to-the-world|No’am Elimelech (7) A Tzaddik's Responsibility To The World]]
-- [[sources/biographies-of-tzadikim/007-r-tzadok-hakohen-7-the-essential-way-of-relieving-our-self-from-suffering-in-hell|R. Tzadok Hakohen (7) The Essential Way Of Relieving Our Self From Suffering In Hell]]
-- [[sources/biographies-of-tzadikim/007-reb-areleh-roth-7-focusing-on-loving-all-jews|Reb Areleh Roth (7) Focusing On Loving All Jews]]
-- [[sources/biographies-of-tzadikim/007-reb-leibele-eiger-7-his-tisch-torah-and-levaya|Reb Leibele Eiger (7) His Tisch, Torah And Levaya]]
 
 ## Transcript
 

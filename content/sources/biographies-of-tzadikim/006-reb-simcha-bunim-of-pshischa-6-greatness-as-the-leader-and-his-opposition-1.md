@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Simcha Bunim of Peshischa
+- Collection: [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]
 - Item number: 6
 - Shiur ID: 823897
 - Date: Nov 19, 2001
@@ -40,9 +40,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/003-reb-simcha-bunim-of-pshischa-3-story-of-his-wedding-day-and-other-stories|Reb Simcha Bunim Of Pshischa (3) Story Of His Wedding Day And Other Stories]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/004-reb-simcha-bunim-of-pshischa-4-hidden-greatness-before-the-days-of-his-leadership|Reb Simcha Bunim Of Pshischa (4) Hidden Greatness Before The Days Of His Leadership]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/008-reb-simcha-bunim-of-pshischa-8-the-wedding-that-ended-the-opposition|Reb Simcha Bunim Of Pshischa (8) The Wedding That Ended The Opposition]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/009-reb-simcha-bunim-of-pshischa-9-death-and-an-assortment-of-teachings|Reb Simcha Bunim Of Pshischa (9) Death And An Assortment Of Teachings]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
-- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - The Shape of a Chassid
 
 ## Transcript
 

@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 12
 - Shiur ID: 823712
 - Date: Jan 31, 2001

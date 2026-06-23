@@ -12,6 +12,7 @@ tags:
   - "arizal"
   - "baal-shem-tov"
   - "chassidus"
+  - "chinuch"
   - "hashem"
   - "kabbalah"
   - "mahapecha"
@@ -33,7 +34,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 5
 - Shiur ID: 842335
 - Date: Oct 16, 2015
@@ -49,18 +50,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Mahapecha|Mahapecha]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddikim|Tzaddikim]]
+[[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Mahapecha|Mahapecha]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddikim|Tzaddikim]]
 
 ## Related Sources
 
-- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Baal Shem Tov, Chassidus, Foundations of Chassidus
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Baal Shem Tov, Chassidus, Chinuch
 - [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
-- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Arizal, Chassidus, Chinuch, Foundations of Chassidus
 - [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Chinuch, Hashem, Kabbalah
 - [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Mahapecha
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Baal Shem Tov, Foundations of Chassidus, Hashem, Kabbalah
-- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Hashem, Kabbalah, Moshiach
 
 ## Transcript
 

@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 21
 - Shiur ID: 823737
 - Date: Apr 19, 2004

@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Bnei Yissaschar
+- Collection: [[collections/bnei-yissaschar|Bnei Yissaschar]]
 - Item number: 8
 - Shiur ID: 823547
 - Date: Jan 11, 1999
@@ -36,13 +36,13 @@ aliases:
 ## Related Sources
 
 - [[sources/biographies-of-tzadikim/007-reb-leibele-eiger-7-his-tisch-torah-and-levaya|Reb Leibele Eiger (7) His Tisch, Torah And Levaya]] - Torah, Speech, and Revelation
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Torah, Speech, and Revelation
 - [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Torah, Speech, and Revelation
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Torah, Speech, and Revelation
 - [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Torah, Speech, and Revelation
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Kabbalah, Kabbalah Brought into Avodah, Torah, Speech, and Revelation
-- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Kabbalah, Kabbalah Brought into Avodah, Torah, Speech, and Revelation
-- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Kabbalah, Kabbalah Brought into Avodah, Torah, Speech, and Revelation
-- [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Kabbalah, Kabbalah Brought into Avodah, Torah, Speech, and Revelation
-- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Kabbalah, Kabbalah Brought into Avodah, Torah, Speech, and Revelation
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Kabbalah Brought into Avodah, Torah, Speech, and Revelation
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Kabbalah Brought into Avodah, Torah, Speech, and Revelation
 
 ## Transcript
 

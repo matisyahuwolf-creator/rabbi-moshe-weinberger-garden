@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 15
 - Shiur ID: 823731
 - Date: Feb 02, 2004

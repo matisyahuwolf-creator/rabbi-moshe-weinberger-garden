@@ -23,10 +23,13 @@ Research nodes connected to [[concepts/Tzaddik|Tzaddik]].
 
 ## Related Concepts
 
-[[concepts/Torah|Torah]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Kavanah|Kavanah]] [[concepts/Neshama|Neshama]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Emunah|Emunah]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Five Shepherds|Five Shepherds]]
+[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Neshama|Neshama]] [[concepts/Emunah|Emunah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Chinuch|Chinuch]] [[concepts/Kavanah|Kavanah]] [[concepts/Mesorah|Mesorah]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/159-chaburah-yosef-hatzadik-159-yosef-the-rebbe-of-all-the-wicked|Chaburah Yosef HaTzadik (159) Yosef The Rebbe of All The Wicked]] - Chaburas Yosef HaTzaddik / #159 / Sep 11, 2022
+- [[sources/chaburas-yosef-hatzaddik/118-chaburah-yosef-hatzadik-118-the-tzadik-s-fire-that-consumes-all-other-fires|Chaburah Yosef HaTzadik (118) The Tzadik's Fire that Consumes all other Fires]] - Chaburas Yosef HaTzaddik / #118 / Jan 03, 2021
+- [[sources/chaburas-yosef-hatzaddik/039-chaburah-yosef-hatzadik-39-yosef-a-tzadik-who-fails|Chaburah Yosef HaTzadik (39) - Yosef A Tzadik Who Fails]] - Chaburas Yosef HaTzaddik / #39 / Sep 17, 2017
 - [[sources/sugyas-in-chassidus-2015/058-sugyas-in-chassidus-58-back-to-the-bal-shem-tov|Sugyas In Chassidus (58) Back To The Bal Shem Tov]] - Sugyas in Chassidus 2015 / #58 / Sep 08, 2017
 - [[sources/sugyas-in-chassidus-2015/057-sugyas-in-chassidus-57-the-essence-of-being-a-soul|Sugyas In Chassidus (57) The Essence of being a Soul]] - Sugyas in Chassidus 2015 / #57 / Jun 23, 2017
 - [[sources/sugyas-in-chassidus-2015/056-sugyas-in-chassidus-56|Sugyas In Chassidus (56)]] - Sugyas in Chassidus 2015 / #56 / Jun 16, 2017
@@ -36,6 +39,11 @@ Research nodes connected to [[concepts/Tzaddik|Tzaddik]].
 - [[sources/sugyas-in-chassidus-2015/052-sugyas-in-chassidus-52-what-it-is-a-chassid-part-3|Sugyas In Chassidus (52) What it is a Chassid? [PART 3]]] - Sugyas in Chassidus 2015 / #52 / May 05, 2017
 - [[sources/sugyas-in-chassidus-2015/051-sugyas-in-chassidus-51-what-it-is-a-chassid-part-2|Sugyas In Chassidus (51) What it is a Chassid? [PART 2]]] - Sugyas in Chassidus 2015 / #51 / Apr 28, 2017
 - [[sources/sugyas-in-chassidus-2015/050-sugyas-in-chassidus-50-what-it-is-a-chassid-part-1|Sugyas In Chassidus (50) What it is a Chassid? [PART 1]]] - Sugyas in Chassidus 2015 / #50 / Apr 21, 2017
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Chaburas Yosef HaTzaddik / #4 / Feb 28, 2016
+- [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Chaburas Yosef HaTzaddik / #3 / Feb 14, 2016
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Chaburas Yosef HaTzaddik / #2 / Feb 07, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/018-sugyas-in-chassidus-18-five-pillars|Sugyas In Chassidus (18) Five Pillars]] - Sugyas in Chassidus 2015 / #18 / Jan 15, 2016
 - [[sources/sugyas-in-chassidus-2015/017-sugyas-in-chassidus-17-rebbe-nachman|Sugyas In Chassidus (17) Rebbe Nachman]] - Sugyas in Chassidus 2015 / #17 / Jan 08, 2016
 - [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Sugyas in Chassidus 2015 / #16 / Jan 01, 2016
@@ -80,6 +88,10 @@ Research nodes connected to [[concepts/Tzaddik|Tzaddik]].
 - [[sources/biographies-of-tzadikim/007-the-toldos-yaakov-yoseph-of-polonoye-7-the-prototype-of-the-tzaddik-4|The Toldos Yaakov Yoseph Of Polonoye (7) The Prototype Of The Tzaddik (4)]] - Toldos Yaakov Yosef of Polnoye / #7 / Jan 08, 1996
 - [[sources/biographies-of-tzadikim/006-the-toldos-yaakov-yoseph-of-polonoye-6-the-prototype-of-the-tzaddik-3|The Toldos Yaakov Yoseph Of Polonoye (6) The Prototype Of The Tzaddik (3)]] - Toldos Yaakov Yosef of Polnoye / #6 / Jan 01, 1996
 - [[sources/biographies-of-tzadikim/005-the-toldos-yaakov-yoseph-of-polonoye-5-the-prototype-of-the-tzaddik-2|The Toldos Yaakov Yoseph Of Polonoye (5) The Prototype Of The Tzaddik (2)]] - Toldos Yaakov Yosef of Polnoye / #5 / Dec 25, 1995
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995

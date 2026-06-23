@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Be'er Mayim Chaim
+- Collection: [[collections/be-er-mayim-chaim|Be'er Mayim Chaim]]
 - Item number: 13
 - Shiur ID: 823516
 - Date: May 04, 1998

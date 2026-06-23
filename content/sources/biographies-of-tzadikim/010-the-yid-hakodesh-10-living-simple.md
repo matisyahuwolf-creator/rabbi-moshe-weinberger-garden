@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Yid HaKodesh
+- Collection: [[collections/yid-hakodesh|Yid HaKodesh]]
 - Item number: 10
 - Shiur ID: 824147
 - Date: May 21, 2001

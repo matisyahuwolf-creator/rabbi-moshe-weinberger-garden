@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 15
 - Shiur ID: 823715
 - Date: Feb 21, 2001

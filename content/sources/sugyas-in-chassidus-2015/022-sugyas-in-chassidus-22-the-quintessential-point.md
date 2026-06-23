@@ -28,7 +28,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 22
 - Shiur ID: 853503
 - Date: Mar 11, 2016
@@ -55,7 +55,7 @@ aliases:
 - [[sources/sugyas-in-chassidus-2015/024-sugyas-in-chassidus-24-a-perfect-place-in-our-soul|Sugyas In Chassidus (24) A Perfect Place In Our Soul]] - Chassidus, Divrei Elokim Chayim, Foundations of Chassidus, Hashem
 - [[sources/sugyas-in-chassidus-2015/025-sugyas-in-chassidus-25-the-life-force-of-hashem-in-this-world|Sugyas In Chassidus (25) The Life-Force Of Hashem In This World]] - Chassidus, Divrei Elokim Chayim, Foundations of Chassidus, Hashem
 - [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Chassidus, Foundations of Chassidus, Hashem, Neshama
-- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Chassidus, Foundations of Chassidus, Hashem, Pnimius HaTorah
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Chassidus, Foundations of Chassidus, Hashem, Neshama
 
 ## Transcript
 

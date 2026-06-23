@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Simcha Bunim of Peshischa
+- Collection: [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]
 - Item number: 9
 - Shiur ID: 823900
 - Date: Jan 07, 2002
@@ -38,11 +38,11 @@ aliases:
 - [[sources/biographies-of-tzadikim/008-reb-simcha-bunim-of-pshischa-8-the-wedding-that-ended-the-opposition|Reb Simcha Bunim Of Pshischa (8) The Wedding That Ended The Opposition]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/006-reb-simcha-bunim-of-pshischa-6-greatness-as-the-leader-and-his-opposition-1|Reb Simcha Bunim Of Pshischa (6) Greatness As The Leader And His Opposition (1)]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/007-reb-simcha-bunim-of-pshischa-7-greatness-as-the-leader-and-his-opposition-2|Reb Simcha Bunim Of Pshischa (7) Greatness As The Leader And His Opposition (2)]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/011-reb-simcha-bunim-of-pshischa-11-importance-of-truth|Reb Simcha Bunim Of Pshischa (11) Importance Of Truth]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/012-reb-simcha-bunim-of-pshischa-12-tzaddik-as-a-spiritual-healer|Reb Simcha Bunim Of Pshischa (12) Tzaddik As A Spiritual Healer]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/008-the-toldos-yaakov-yoseph-of-polonoye-8-the-prototype-of-the-tzaddik-in-the-early-rabbinical-writings-1|The Toldos Yaakov Yoseph Of Polonoye (8) The Prototype Of The Tzaddik In The Early Rabbinical Writings (1)]] - The Shape of a Chassid
 - [[sources/biographies-of-tzadikim/010-no-am-elimelech-10-the-attachment-that-a-tzaddik-has-for-a-sinner|No’am Elimelech (10) The Attachment That A Tzaddik Has For A Sinner]] - The Shape of a Chassid
-- [[sources/biographies-of-tzadikim/010-the-be-er-mayim-chaim-10-when-a-soul-is-in-exile|The Be'er Mayim Chaim (10) When A Soul Is In Exile]] - The Inner Soul of a Jew
 
 ## Transcript
 

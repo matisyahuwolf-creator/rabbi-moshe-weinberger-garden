@@ -22,6 +22,7 @@ Research nodes connected to [[concepts/Simcha|Simcha]].
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Sugyas in Chassidus 2015 / #10 / Nov 20, 2015
 - [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] - Sugyas in Chassidus 2015 / #9 / Nov 13, 2015
 - [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Sugyas in Chassidus 2015 / #2 / Sep 11, 2015

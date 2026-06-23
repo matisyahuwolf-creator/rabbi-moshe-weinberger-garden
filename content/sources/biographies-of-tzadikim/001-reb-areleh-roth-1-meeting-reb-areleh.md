@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Areleh Roth
+- Collection: [[collections/reb-areleh-roth|Reb Areleh Roth]]
 - Item number: 1
 - Shiur ID: 823487
 - Date: Jun 30, 1997

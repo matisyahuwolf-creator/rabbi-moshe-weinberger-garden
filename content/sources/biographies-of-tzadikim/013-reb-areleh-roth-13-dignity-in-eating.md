@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Areleh Roth
+- Collection: [[collections/reb-areleh-roth|Reb Areleh Roth]]
 - Item number: 13
 - Shiur ID: 823499
 - Date: Nov 17, 1997

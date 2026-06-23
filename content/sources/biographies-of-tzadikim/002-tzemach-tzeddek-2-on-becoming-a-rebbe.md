@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Tzemach Tzedek
+- Collection: [[collections/tzemach-tzedek|Tzemach Tzedek]]
 - Item number: 2
 - Shiur ID: 824117
 - Date: Feb 26, 1996

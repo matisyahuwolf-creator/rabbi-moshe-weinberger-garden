@@ -20,7 +20,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 5
 - Shiur ID: 823721
 - Date: Oct 27, 2003

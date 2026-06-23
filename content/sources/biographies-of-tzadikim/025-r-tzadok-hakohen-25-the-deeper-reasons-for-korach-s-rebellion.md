@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Rav Tzadok HaKohen
+- Collection: [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]
 - Item number: 25
 - Shiur ID: 824112
 - Date: Jun 29, 2000

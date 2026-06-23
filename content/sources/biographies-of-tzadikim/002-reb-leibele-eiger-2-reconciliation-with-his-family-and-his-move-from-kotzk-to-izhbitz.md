@@ -20,7 +20,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 2
 - Shiur ID: 823702
 - Date: Oct 02, 2000

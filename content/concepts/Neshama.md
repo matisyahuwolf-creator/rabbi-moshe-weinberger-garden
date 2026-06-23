@@ -23,10 +23,12 @@ The soul's essence, its inner point, and its ability to perceive Hashem through 
 
 ## Related Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Heart|Heart]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Emunah|Emunah]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]]
+[[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Heart|Heart]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Shechinah|Shechinah]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Emunah|Emunah]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/232-chaburah-yosef-hatzadik-232-guiding-each-soul-to-its-inner-core|Chaburah Yosef HaTzadik (232) Guiding Each Soul to Its Inner Core]] - Chaburas Yosef HaTzaddik / #232 / Sep 14, 2025
+- [[sources/chaburas-yosef-hatzaddik/170-chaburah-yosef-hatzadik-170-sparkling-clean-windows-of-the-soul|Chaburah Yosef HaTzadik (170) Sparkling Clean Windows of The Soul]] - Chaburas Yosef HaTzaddik / #170 / Jan 22, 2023
 - [[sources/sugyas-in-chassidus-2015/058-sugyas-in-chassidus-58-back-to-the-bal-shem-tov|Sugyas In Chassidus (58) Back To The Bal Shem Tov]] - Sugyas in Chassidus 2015 / #58 / Sep 08, 2017
 - [[sources/sugyas-in-chassidus-2015/057-sugyas-in-chassidus-57-the-essence-of-being-a-soul|Sugyas In Chassidus (57) The Essence of being a Soul]] - Sugyas in Chassidus 2015 / #57 / Jun 23, 2017
 - [[sources/sugyas-in-chassidus-2015/056-sugyas-in-chassidus-56|Sugyas In Chassidus (56)]] - Sugyas in Chassidus 2015 / #56 / Jun 16, 2017
@@ -52,12 +54,15 @@ The soul's essence, its inner point, and its ability to perceive Hashem through 
 - [[sources/sugyas-in-chassidus-2015/024-sugyas-in-chassidus-24-a-perfect-place-in-our-soul|Sugyas In Chassidus (24) A Perfect Place In Our Soul]] - Sugyas in Chassidus 2015 / #24 / Apr 01, 2016
 - [[sources/sugyas-in-chassidus-2015/023-sugyas-in-chassidus-23-connecting-the-kri-and-the-ksiv|Sugyas In Chassidus (23) Connecting The Kri And The Ksiv]] - Sugyas in Chassidus 2015 / #23 / Mar 18, 2016
 - [[sources/sugyas-in-chassidus-2015/022-sugyas-in-chassidus-22-the-quintessential-point|Sugyas In Chassidus (22) The Quintessential Point]] - Sugyas in Chassidus 2015 / #22 / Mar 11, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
 - [[sources/sugyas-in-chassidus-2015/021-sugyas-in-chassidus-21-through-my-flesh-i-perceive-g-d|Sugyas In Chassidus (21) Through My Flesh I Perceive G-d]] - Sugyas in Chassidus 2015 / #21 / Mar 04, 2016
 - [[sources/sugyas-in-chassidus-2015/020-sugyas-in-chassidus-20-what-is-chassidus|Sugyas In Chassidus (20) What Is Chassidus?]] - Sugyas in Chassidus 2015 / #20 / Feb 26, 2016
 - [[sources/sugyas-in-chassidus-2015/019-sugyas-in-chassidus-19-haikar-chaser-min-hasefer|Sugyas In Chassidus (19) HaIkar Chaser Min HaSefer]] - Sugyas in Chassidus 2015 / #19 / Feb 05, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Sugyas in Chassidus 2015 / #16 / Jan 01, 2016
 - [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Sugyas in Chassidus 2015 / #15 / Dec 25, 2015
 - [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] - Sugyas in Chassidus 2015 / #12 / Dec 04, 2015
 - [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Sugyas in Chassidus 2015 / #4 / Oct 09, 2015
 - [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Sugyas in Chassidus 2015 / #2 / Sep 11, 2015
 - [[sources/biographies-of-tzadikim/010-the-be-er-mayim-chaim-10-when-a-soul-is-in-exile|The Be'er Mayim Chaim (10) When A Soul Is In Exile]] - Be'er Mayim Chaim / #10 / Mar 16, 1998
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995

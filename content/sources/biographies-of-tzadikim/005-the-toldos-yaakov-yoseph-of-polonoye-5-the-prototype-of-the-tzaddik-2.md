@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Toldos Yaakov Yosef of Polnoye
+- Collection: [[collections/toldos-yaakov-yosef-of-polnoye|Toldos Yaakov Yosef of Polnoye]]
 - Item number: 5
 - Shiur ID: 824130
 - Date: Dec 25, 1995
@@ -41,8 +41,8 @@ aliases:
 - [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/006-kozhnitzer-maggid-6-the-belzer-rebbe-comes-to-israel|Kozhnitzer Maggid (6) The Belzer Rebbe Comes To Israel]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/006-the-toldos-yaakov-yoseph-of-polonoye-6-the-prototype-of-the-tzaddik-3|The Toldos Yaakov Yoseph Of Polonoye (6) The Prototype Of The Tzaddik (3)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
-- [[sources/biographies-of-tzadikim/002-avnei-nezer-2-marriage-and-relationship-with-the-kotzker-rebbe|Avnei Nezer (2) Marriage And Relationship With The Kotzker Rebbe]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 
 ## Transcript
 

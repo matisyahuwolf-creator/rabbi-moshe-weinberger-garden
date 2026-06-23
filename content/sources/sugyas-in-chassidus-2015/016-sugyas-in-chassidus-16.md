@@ -9,6 +9,7 @@ tags:
   - "mesorah-of-tzaddikim"
   - "yichud-kavanah-and-mitzvos"
   - "arizal"
+  - "chinuch"
   - "five-shepherds"
   - "hashem"
   - "kabbalah"
@@ -36,7 +37,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 16
 - Shiur ID: 855047
 - Date: Jan 01, 2016
@@ -52,7 +53,7 @@ aliases:
 
 ## Concepts
 
-[[concepts/Arizal|Arizal]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Yichud|Yichud]]
+[[concepts/Arizal|Arizal]] [[concepts/Chinuch|Chinuch]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Yichud|Yichud]]
 
 ## Related Sources
 

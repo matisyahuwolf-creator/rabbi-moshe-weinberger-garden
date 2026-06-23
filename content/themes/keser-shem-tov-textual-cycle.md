@@ -127,6 +127,8 @@ The long textual run through Keser Shem Tov, organized as a navigable study cycl
 - [[sources/biographies-of-tzadikim/021-baal-shem-tov-21-how-can-we-reveal-g-d-through-all-aspects-of-life|Baal Shem Tov (21) How Can We Reveal G-D Through All Aspects Of Life?]] - Baal Shem Tov / #21 / Jan 31, 2000
 - [[sources/biographies-of-tzadikim/022-baal-shem-tov-22-the-need-for-love-and-awe-of-hashem|Baal Shem Tov (22) The Need For Love And Awe Of Hashem]] - Baal Shem Tov / #22 / Feb 07, 2000
 - [[sources/biographies-of-tzadikim/023-baal-shem-tov-23-the-different-paths-in-serving-hashem|Baal Shem Tov (23) The Different Paths In Serving Hashem]] - Baal Shem Tov / #23 / Feb 14, 2000
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- 2 additional archive sources connect through this theme.
 
 ## Network Map
 

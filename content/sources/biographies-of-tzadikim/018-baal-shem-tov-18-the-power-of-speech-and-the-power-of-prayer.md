@@ -24,7 +24,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Baal Shem Tov
+- Collection: [[collections/baal-shem-tov|Baal Shem Tov]]
 - Item number: 18
 - Shiur ID: 823534
 - Date: Jan 03, 2000

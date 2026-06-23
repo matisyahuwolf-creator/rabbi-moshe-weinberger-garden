@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Areleh Roth
+- Collection: [[collections/reb-areleh-roth|Reb Areleh Roth]]
 - Item number: 6
 - Shiur ID: 823492
 - Date: Aug 25, 1997
@@ -40,9 +40,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/005-b-nei-yissaschar-5-a-truthful-prolific-writer-and-a-giant-torah-scholar|B'nei Yissaschar (5) A Truthful, Prolific Writer And A Giant Torah Scholar]] - Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-reb-leibele-eiger-7-his-tisch-torah-and-levaya|Reb Leibele Eiger (7) His Tisch, Torah And Levaya]] - Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/005-avnei-nezer-5-pnimius-versus-externalities|Avnei Nezer (5) Pnimius Versus Externalities]]
-- [[sources/biographies-of-tzadikim/005-baal-shem-tov-5-the-every-jew-is-exceptional|Baal Shem Tov (5) The Every Jew Is Exceptional]]
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Kabbalah Brought into Avodah, Yichud, Kavanah, and Mitzvos
 
 ## Transcript
 

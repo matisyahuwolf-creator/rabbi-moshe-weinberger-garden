@@ -23,10 +23,14 @@ Research nodes connected to [[concepts/Emunah|Emunah]].
 
 ## Related Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Yirah|Yirah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Keser Shem Tov|Keser Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Neshama|Neshama]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Arizal|Arizal]]
+[[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Yirah|Yirah]] [[concepts/Keser Shem Tov|Keser Shem Tov]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chassidus|Chassidus]] [[concepts/Neshama|Neshama]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Chinuch|Chinuch]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/230-chaburah-yosef-hatzadik-230-beyond-limits-living-with-emunah|Chaburah Yosef HaTzadik (230) Beyond Limits - Living with Emunah]] - Chaburas Yosef HaTzaddik / #230 / Jun 15, 2025
+- [[sources/chaburas-yosef-hatzaddik/229-chaburah-yosef-hatzadik-229-holding-on-to-emunah-when-everything-else-disappears|Chaburah Yosef HaTzadik (229) Holding On to Emunah When Everything Else Disappears]] - Chaburas Yosef HaTzaddik / #229 / Jun 08, 2025
+- [[sources/chaburas-yosef-hatzaddik/209-chaburah-yosef-hatzadik-209-emunah-never-letting-go|Chaburah Yosef HaTzadik (209) Emunah, Never Letting Go]] - Chaburas Yosef HaTzaddik / #209 / Sep 22, 2024
+- [[sources/chaburas-yosef-hatzaddik/134-chaburah-yosef-hatzadik-134-constant-renewal-of-emunah|Chaburah Yosef HaTzadik (134) Constant Renewal of Emunah]] - Chaburas Yosef HaTzaddik / #134 / Oct 03, 2021
 - [[sources/sugyas-in-chassidus-2015/107-sugyas-in-chassidus-107-keser-shem-tov-60-61|Sugyas In Chassidus (107) Keser Shem Tov #60 & #61]] - Sugyas in Chassidus 2015 / #107 / Dec 13, 2019
 - [[sources/sugyas-in-chassidus-2015/106-sugyas-in-chassidus-106-keser-shem-tov-58-59|Sugyas In Chassidus (106) Keser Shem Tov #58 & #59]] - Sugyas in Chassidus 2015 / #106 / Nov 29, 2019
 - [[sources/sugyas-in-chassidus-2015/105-sugyas-in-chassidus-105-keser-shem-tov-55-56-57|Sugyas In Chassidus (105) Keser Shem Tov #55 & #56 & #57]] - Sugyas in Chassidus 2015 / #105 / Nov 22, 2019
@@ -40,6 +44,7 @@ Research nodes connected to [[concepts/Emunah|Emunah]].
 - [[sources/sugyas-in-chassidus-2015/097-sugyas-in-chassidus-97-keser-shem-tov-46-b-47|Sugyas In Chassidus (97) Keser Shem Tov #46[b] & #47]] - Sugyas in Chassidus 2015 / #97 / May 24, 2019
 - [[sources/sugyas-in-chassidus-2015/096-sugyas-in-chassidus-96-keser-shem-tov-46-a|Sugyas In Chassidus (96) Keser Shem Tov #46[a]]] - Sugyas in Chassidus 2015 / #96 / May 17, 2019
 - [[sources/sugyas-in-chassidus-2015/095-sugyas-in-chassidus-95-keser-shem-tov-45-46-a|Sugyas In Chassidus (95) Keser Shem Tov #45 & #46[a]]] - Sugyas in Chassidus 2015 / #95 / May 10, 2019
+- [[sources/chaburas-yosef-hatzaddik/062-chaburah-yosef-hatzadik-62-emunah-and-shmiras-bris-two-main-doors-to-yiddishkeit|Chaburah Yosef HaTzadik (62) Emunah and Shmiras Bris, Two Main Doors to Yiddishkeit]] - Chaburas Yosef HaTzaddik / #62 / Jan 20, 2019
 - [[sources/sugyas-in-chassidus-2015/058-sugyas-in-chassidus-58-back-to-the-bal-shem-tov|Sugyas In Chassidus (58) Back To The Bal Shem Tov]] - Sugyas in Chassidus 2015 / #58 / Sep 08, 2017
 - [[sources/sugyas-in-chassidus-2015/057-sugyas-in-chassidus-57-the-essence-of-being-a-soul|Sugyas In Chassidus (57) The Essence of being a Soul]] - Sugyas in Chassidus 2015 / #57 / Jun 23, 2017
 - [[sources/sugyas-in-chassidus-2015/056-sugyas-in-chassidus-56|Sugyas In Chassidus (56)]] - Sugyas in Chassidus 2015 / #56 / Jun 16, 2017
@@ -49,6 +54,8 @@ Research nodes connected to [[concepts/Emunah|Emunah]].
 - [[sources/sugyas-in-chassidus-2015/052-sugyas-in-chassidus-52-what-it-is-a-chassid-part-3|Sugyas In Chassidus (52) What it is a Chassid? [PART 3]]] - Sugyas in Chassidus 2015 / #52 / May 05, 2017
 - [[sources/sugyas-in-chassidus-2015/051-sugyas-in-chassidus-51-what-it-is-a-chassid-part-2|Sugyas In Chassidus (51) What it is a Chassid? [PART 2]]] - Sugyas in Chassidus 2015 / #51 / Apr 28, 2017
 - [[sources/sugyas-in-chassidus-2015/050-sugyas-in-chassidus-50-what-it-is-a-chassid-part-1|Sugyas In Chassidus (50) What it is a Chassid? [PART 1]]] - Sugyas in Chassidus 2015 / #50 / Apr 21, 2017
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Chaburas Yosef HaTzaddik / #4 / Feb 28, 2016
 - [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Sugyas in Chassidus 2015 / #8 / Nov 06, 2015
 - [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Sugyas in Chassidus 2015 / #1 / Sep 04, 2015
 - [[sources/biographies-of-tzadikim/004-tzemach-tzeddek-4-what-does-emunah-really-mean|Tzemach Tzeddek (4) What Does Emunah Really Mean?]] - Tzemach Tzedek / #4 / Mar 18, 1996

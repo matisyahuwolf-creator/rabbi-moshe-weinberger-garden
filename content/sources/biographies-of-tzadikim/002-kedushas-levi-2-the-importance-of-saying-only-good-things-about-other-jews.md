@@ -20,7 +20,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kedushas Levi
+- Collection: [[collections/kedushas-levi|Kedushas Levi]]
 - Item number: 2
 - Shiur ID: 823597
 - Date: Apr 22, 2002

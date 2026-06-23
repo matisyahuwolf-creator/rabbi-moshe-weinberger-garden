@@ -38,9 +38,15 @@ How the secrets of Torah and the language of the Arizal become avodah, feeling, 
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/005-reb-leibele-eiger-5-preparation-before-doing-mitzvos|Reb Leibele Eiger (5) Preparation Before Doing Mitzvos]] - Reb Leibele Eiger / #5 / Nov 06, 2000
 - [[sources/biographies-of-tzadikim/006-reb-areleh-roth-6-kavanah-one-thing-at-a-time|Reb Areleh Roth (6) Kavanah - One Thing At A Time]] - Reb Areleh Roth / #6 / Aug 25, 1997
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/008-b-nei-yissaschar-8-the-chassidic-debate-over-kabbalah|B'nei Yissaschar (8) The Chassidic Debate Over Kabbalah]] - Bnei Yissaschar / #8 / Jan 11, 1999
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/014-no-am-elimelech-14-the-mitzvah-of-struggling|No’am Elimelech (14) The Mitzvah Of Struggling]] - Noam Elimelech / #14 / Jan 05, 2004
 - [[sources/biographies-of-tzadikim/026-kedushas-levi-26-kedusha-through-mitzvos|Kedushas Levi (26) Kedusha Through Mitzvos]] - Kedushas Levi / #26 / Apr 28, 2003
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Chaburas Yosef HaTzaddik / #2 / Feb 07, 2016
+- [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Chaburas Yosef HaTzaddik / #3 / Feb 14, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
 
 ## Network Map
 

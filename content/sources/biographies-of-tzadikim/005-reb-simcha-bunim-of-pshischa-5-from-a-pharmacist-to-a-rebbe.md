@@ -23,7 +23,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Simcha Bunim of Peshischa
+- Collection: [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]
 - Item number: 5
 - Shiur ID: 823896
 - Date: Nov 12, 2001

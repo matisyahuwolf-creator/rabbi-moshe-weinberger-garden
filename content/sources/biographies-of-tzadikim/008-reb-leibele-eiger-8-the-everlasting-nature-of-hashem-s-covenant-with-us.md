@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 8
 - Shiur ID: 823708
 - Date: Nov 27, 2000
@@ -36,13 +36,13 @@ aliases:
 ## Related Sources
 
 - [[sources/biographies-of-tzadikim/007-kozhnitzer-maggid-7-face-to-face-with-hashem|Kozhnitzer Maggid (7) Face To Face With Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/007-the-be-er-mayim-chaim-7-overflowing-love-of-hashem-on-shabbos|The Be'er Mayim Chaim (7) Overflowing Love Of Hashem On Shabbos]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/005-kedushas-levi-5-why-we-have-to-go-through-darkness-before-attaining-hashem-s-light|Kedushas Levi (5) Why We Have To Go Through Darkness Before Attaining Hashem’s Light]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/005-the-divrei-chaim-of-sanz-5-emulating-hashem|The Divrei Chaim Of Sanz (5) Emulating Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/010-tzemach-tzeddek-10-meditating-on-hashem-s-greatness|Tzemach Tzeddek (10) Meditating On Hashem's Greatness]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

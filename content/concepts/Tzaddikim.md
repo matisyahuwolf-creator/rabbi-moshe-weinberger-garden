@@ -17,7 +17,7 @@ Research nodes connected to [[concepts/Tzaddikim|Tzaddikim]].
 
 ## Related Concepts
 
-[[concepts/Tzaddik|Tzaddik]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Tanya|Tanya]] [[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Moshiach|Moshiach]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]]
+[[concepts/Tzaddik|Tzaddik]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Tanya|Tanya]] [[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]]
 
 ## Connected Sources
 
@@ -29,6 +29,7 @@ Research nodes connected to [[concepts/Tzaddikim|Tzaddikim]].
 - [[sources/biographies-of-tzadikim/003-rebbe-nachman-m-breslov-biography-3-understanding-the-value-and-risks-of-stories-of-tzadikim|Rebbe Nachman M'Breslov - Biography (3) Understanding The Value And Risks Of Stories Of Tzadikim]] - Rebbe Nachman of Breslov biography / #3 / Nov 08, 2004
 - [[sources/biographies-of-tzadikim/005-no-am-elimelech-5-the-tzaddikim-s-personal-exile|No’am Elimelech (5) The Tzaddikim's Personal Exile]] - Noam Elimelech / #5 / Oct 27, 2003
 - [[sources/biographies-of-tzadikim/001-no-am-elimelech-1-tzaddikim-s-stories-about-rebbe-elimelech|No’am Elimelech (1) Tzaddikim's Stories About Rebbe Elimelech]] - Noam Elimelech / #1 / Sep 08, 2003
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Reb Mordechai Yosef of Izhbitz / #2 / Jun 28, 1995

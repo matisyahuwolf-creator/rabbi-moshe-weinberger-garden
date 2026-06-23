@@ -22,10 +22,12 @@ Research nodes connected to [[concepts/Torah|Torah]].
 
 ## Related Concepts
 
-[[concepts/Or|Or]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Neshama|Neshama]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Shechinah|Shechinah]] [[concepts/Moshiach|Moshiach]] [[concepts/Chassidus|Chassidus]] [[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]]
+[[concepts/Or|Or]] [[concepts/Hashem|Hashem]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Neshama|Neshama]] [[concepts/Heart|Heart]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Shechinah|Shechinah]] [[concepts/Chinuch|Chinuch]] [[concepts/Chassidus|Chassidus]] [[concepts/Arizal|Arizal]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/131-chaburah-yosef-hatzadik-131-the-fundamental-approach-to-torah-learning|Chaburah Yosef HaTzadik (131) The Fundamental Approach To Torah Learning]] - Chaburas Yosef HaTzaddik / #131 / May 30, 2021
+- [[sources/chaburas-yosef-hatzaddik/129-chaburah-yosef-hatzadik-129-business-approach-torah-learning-by-an-ish-yesodi|Chaburah Yosef HaTzadik (129) Business Approach & Torah Learning By An Ish Yesodi]] - Chaburas Yosef HaTzaddik / #129 / May 09, 2021
 - [[sources/sugyas-in-chassidus-2015/044-sugyas-in-chassidus-44-holding-hands-with-the-torah|Sugyas In Chassidus (44) Holding Hands With The Torah]] - Sugyas in Chassidus 2015 / #44 / Feb 17, 2017
 - [[sources/sugyas-in-chassidus-2015/043-sugyas-in-chassidus-43|Sugyas In Chassidus (43)]] - Sugyas in Chassidus 2015 / #43 / Feb 10, 2017
 - [[sources/sugyas-in-chassidus-2015/042-sugyas-in-chassidus-42-the-light-within-shines-bright|Sugyas In Chassidus (42) The Light Within Shines Bright]] - Sugyas in Chassidus 2015 / #42 / Feb 03, 2017
@@ -38,6 +40,10 @@ Research nodes connected to [[concepts/Torah|Torah]].
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-walking-with-hashem-through-the-journey-of-life|Sugyas In Chassidus (34) Walking With Hashem Through The Journey Of Life]] - Sugyas in Chassidus 2015 / #34 / Nov 11, 2016
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-in-the-darkness-you-will-find-me|Sugyas In Chassidus (34) In The Darkness You Will Find Me]] - Sugyas in Chassidus 2015 / #34 / Nov 04, 2016
 - [[sources/sugyas-in-chassidus-2015/032-sugyas-in-chassidus-32-the-coldness-of-a-jew|Sugyas In Chassidus (32) The Coldness Of A Jew]] - Sugyas in Chassidus 2015 / #32 / Sep 16, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Chaburas Yosef HaTzaddik / #4 / Feb 28, 2016
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Chaburas Yosef HaTzaddik / #2 / Feb 07, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Sugyas in Chassidus 2015 / #16 / Jan 01, 2016
 - [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Sugyas in Chassidus 2015 / #15 / Dec 25, 2015
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Sugyas in Chassidus 2015 / #14 / Dec 18, 2015
@@ -62,6 +68,10 @@ Research nodes connected to [[concepts/Torah|Torah]].
 - [[sources/biographies-of-tzadikim/005-b-nei-yissaschar-5-a-truthful-prolific-writer-and-a-giant-torah-scholar|B'nei Yissaschar (5) A Truthful, Prolific Writer And A Giant Torah Scholar]] - Bnei Yissaschar / #5 / Dec 21, 1998
 - [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Be'er Mayim Chaim / #9 / Mar 09, 1998
 - [[sources/biographies-of-tzadikim/010-avnei-nezer-10-learning-to-recreate-receiving-torah|Avnei Nezer (10) Learning To Recreate Receiving Torah]] - Avnei Nezer / #10 / May 19, 1997
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995

@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 4
 - Shiur ID: 823704
 - Date: Oct 30, 2000

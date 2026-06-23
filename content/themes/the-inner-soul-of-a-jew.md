@@ -72,9 +72,12 @@ The essential neshama point: feeling, coldness, life-force, ratzon, and the part
 - [[sources/biographies-of-tzadikim/005-reb-simcha-bunim-of-pshischa-5-from-a-pharmacist-to-a-rebbe|Reb Simcha Bunim Of Pshischa (5) From A Pharmacist To A Rebbe]] - Reb Simcha Bunim of Peshischa / #5 / Nov 12, 2001
 - [[sources/biographies-of-tzadikim/006-r-tzadok-hakohen-6-integrating-knowledge-of-the-mind-and-the-heart|R. Tzadok Hakohen (6) Integrating Knowledge Of The Mind And The Heart]] - Rav Tzadok HaKohen / #6 / Aug 19, 1996
 - [[sources/biographies-of-tzadikim/006-reb-simcha-bunim-of-pshischa-6-greatness-as-the-leader-and-his-opposition-1|Reb Simcha Bunim Of Pshischa (6) Greatness As The Leader And His Opposition (1)]] - Reb Simcha Bunim of Peshischa / #6 / Nov 19, 2001
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
 - [[sources/biographies-of-tzadikim/007-reb-simcha-bunim-of-pshischa-7-greatness-as-the-leader-and-his-opposition-2|Reb Simcha Bunim Of Pshischa (7) Greatness As The Leader And His Opposition (2)]] - Reb Simcha Bunim of Peshischa / #7 / Dec 03, 2001
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/008-reb-simcha-bunim-of-pshischa-8-the-wedding-that-ended-the-opposition|Reb Simcha Bunim Of Pshischa (8) The Wedding That Ended The Opposition]] - Reb Simcha Bunim of Peshischa / #8 / Dec 24, 2001
 - [[sources/biographies-of-tzadikim/009-r-tzadok-hakohen-9-what-really-lies-in-the-heart-of-the-wicked|R. Tzadok Hakohen (9) What Really Lies In The Heart Of The Wicked]] - Rav Tzadok HaKohen / #9 / Sep 09, 1996
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/009-reb-simcha-bunim-of-pshischa-9-death-and-an-assortment-of-teachings|Reb Simcha Bunim Of Pshischa (9) Death And An Assortment Of Teachings]] - Reb Simcha Bunim of Peshischa / #9 / Jan 07, 2002
 - [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Be'er Mayim Chaim / #9 / Mar 09, 1998
 - [[sources/biographies-of-tzadikim/010-the-be-er-mayim-chaim-10-when-a-soul-is-in-exile|The Be'er Mayim Chaim (10) When A Soul Is In Exile]] - Be'er Mayim Chaim / #10 / Mar 16, 1998
@@ -85,6 +88,8 @@ The essential neshama point: feeling, coldness, life-force, ratzon, and the part
 - [[sources/biographies-of-tzadikim/020-no-am-elimelech-20-passing-through-difficulties-with-simplicity-and-simcha|No’am Elimelech (20) Passing Through Difficulties With Simplicity And Simcha]] - Noam Elimelech / #20 / Mar 15, 2004
 - [[sources/biographies-of-tzadikim/024-no-am-elimelech-24-returning-to-hashem-in-joy|No’am Elimelech (24) Returning To Hashem In Joy]] - Noam Elimelech / #24 / May 24, 2004
 - [[sources/biographies-of-tzadikim/029-kedushas-levi-29-the-heart-s-desire-means-more-to-hashem-than-the-act-itself|Kedushas Levi (29) The Heart's Desire Means More To Hashem Than The Act Itself]] - Kedushas Levi / #29 / Jun 16, 2003
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
+- 12 additional archive sources connect through this theme.
 
 ## Network Map
 

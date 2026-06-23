@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 3
 - Shiur ID: 823719
 - Date: Sep 22, 2003

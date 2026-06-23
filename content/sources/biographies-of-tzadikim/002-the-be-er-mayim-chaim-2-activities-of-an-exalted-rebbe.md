@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Be'er Mayim Chaim
+- Collection: [[collections/be-er-mayim-chaim|Be'er Mayim Chaim]]
 - Item number: 2
 - Shiur ID: 823505
 - Date: Dec 29, 1997

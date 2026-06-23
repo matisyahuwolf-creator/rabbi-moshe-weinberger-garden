@@ -41,7 +41,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Mordechai Yosef of Izhbitz
+- Collection: [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]
 - Item number: 1
 - Shiur ID: 823586
 - Date: Jun 14, 1995
@@ -58,11 +58,11 @@ aliases:
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Foundations of Chassidus
-- [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Chassidus, Foundations of Chassidus
-- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Hashem
-- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Chassidus, Foundations of Chassidus, Hashem, Heart
-- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Chassidus, Foundations of Chassidus, Hashem, Heart
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Baal Shem Tov and Moshiach, Chassidus, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Foundations of Chassidus
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

@@ -31,6 +31,7 @@ Research nodes connected to [[concepts/Moshiach|Moshiach]].
 - [[sources/sugyas-in-chassidus-2015/122-sugyas-in-chassidus-122-keser-shem-tov-75|Sugyas In Chassidus (122) Keser Shem Tov #75]] - Sugyas in Chassidus 2015 / #122 / Jun 12, 2020
 - [[sources/sugyas-in-chassidus-2015/121-sugyas-in-chassidus-121-keser-shem-tov-74|Sugyas In Chassidus (121) Keser Shem Tov #74]] - Sugyas in Chassidus 2015 / #121 / May 22, 2020
 - [[sources/sugyas-in-chassidus-2015/120-sugyas-in-chassidus-120-keser-shem-tov-72-73|Sugyas In Chassidus (120) Keser Shem Tov #72 & #73]] - Sugyas in Chassidus 2015 / #120 / May 15, 2020
+- [[sources/chaburas-yosef-hatzaddik/095-chaburah-yosef-hatzadik-95-during-pekidah-restrained-souls-are-infused-with-the-light-of-moshiach|Chaburah Yosef HaTzadik (95) During Pekidah Restrained Souls Are Infused with The Light of Moshiach]] - Chaburas Yosef HaTzaddik / #95 / May 10, 2020
 - [[sources/sugyas-in-chassidus-2015/119-sugyas-in-chassidus-119-keser-shem-tov-71|Sugyas In Chassidus (119) Keser Shem Tov #71]] - Sugyas in Chassidus 2015 / #119 / May 08, 2020
 - [[sources/sugyas-in-chassidus-2015/118-sugyas-in-chassidus-118-keser-shem-tov-70-b|Sugyas In Chassidus (118) Keser Shem Tov #70[b]]] - Sugyas in Chassidus 2015 / #118 / May 01, 2020
 - [[sources/sugyas-in-chassidus-2015/117-sugyas-in-chassidus-117-keser-shem-tov-69-70-a|Sugyas In Chassidus (117) Keser Shem Tov #69 & #70[a]]] - Sugyas in Chassidus 2015 / #117 / Apr 24, 2020
@@ -40,6 +41,7 @@ Research nodes connected to [[concepts/Moshiach|Moshiach]].
 - [[sources/sugyas-in-chassidus-2015/113-sugyas-in-chassidus-113-keser-shem-tov-65-c|Sugyas In Chassidus (113) Keser Shem Tov #65[c]]] - Sugyas in Chassidus 2015 / #113 / Feb 28, 2020
 - [[sources/sugyas-in-chassidus-2015/112-sugyas-in-chassidus-112-keser-shem-tov-65-b|Sugyas In Chassidus (112) Keser Shem Tov #65[b]]] - Sugyas in Chassidus 2015 / #112 / Feb 21, 2020
 - [[sources/sugyas-in-chassidus-2015/111-sugyas-in-chassidus-111-keser-shem-tov-65-a|Sugyas In Chassidus (111) Keser Shem Tov #65[a]]] - Sugyas in Chassidus 2015 / #111 / Jan 17, 2020
+- [[sources/chaburas-yosef-hatzaddik/086-chaburah-yosef-hatzadik-86-in-the-deepest-darkness-moshiach-s-generation|Chaburah Yosef HaTzadik (86) In The Deepest Darkness - Moshiach's Generation]] - Chaburas Yosef HaTzaddik / #86 / Jan 05, 2020
 - [[sources/sugyas-in-chassidus-2015/110-sugyas-in-chassidus-110-keser-shem-tov-64|Sugyas In Chassidus (110) Keser Shem Tov #64]] - Sugyas in Chassidus 2015 / #110 / Jan 03, 2020
 - [[sources/sugyas-in-chassidus-2015/109-sugyas-in-chassidus-109-keser-shem-tov-63-b|Sugyas In Chassidus (109) Keser Shem Tov #63[b]]] - Sugyas in Chassidus 2015 / #109 / Dec 27, 2019
 - [[sources/sugyas-in-chassidus-2015/108-sugyas-in-chassidus-108-keser-shem-tov-62-63-a|Sugyas In Chassidus (108) Keser Shem Tov #62 & #63[a]]] - Sugyas in Chassidus 2015 / #108 / Dec 20, 2019
@@ -57,4 +59,5 @@ Research nodes connected to [[concepts/Moshiach|Moshiach]].
 - [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Sugyas in Chassidus 2015 / #1 / Sep 04, 2015
 - [[sources/biographies-of-tzadikim/012-the-yid-hakodesh-12-the-coming-of-moshiach|The Yid Hakodesh (12) The Coming Of Moshiach]] - Yid HaKodesh / #12 / Jun 11, 2001
 - [[sources/biographies-of-tzadikim/010-the-toldos-yaakov-yoseph-of-polonoye-10-light-of-moshiach|The Toldos Yaakov Yoseph Of Polonoye (10) Light Of Moshiach]] - Toldos Yaakov Yosef of Polnoye / #10 / Jan 29, 1996
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Reb Mordechai Yosef of Izhbitz / #1 / Jun 14, 1995

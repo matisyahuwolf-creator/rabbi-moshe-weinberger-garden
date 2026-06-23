@@ -25,7 +25,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 28
 - Shiur ID: 857943
 - Date: May 20, 2016
@@ -51,8 +51,8 @@ aliases:
 - [[sources/sugyas-in-chassidus-2015/030-sugyas-in-chassidus-30-tzimtzum-shelo-kepshuto-3|Sugyas In Chassidus (30) Tzimtzum Shelo Kepshuto (3)]] - Deveikus, Ein Od Milvado, Ein Od Milvado and Tzimtzum, Hashem
 - [[sources/sugyas-in-chassidus-2015/031-sugyas-in-chassidus-31-through-the-eyes-of-reb-chaim|Sugyas In Chassidus (31) Through The Eyes Of Reb Chaim]] - Deveikus, Ein Od Milvado, Ein Od Milvado and Tzimtzum, Hashem
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Deveikus, Hashem, Shechinah
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Ein Od Milvado, Ein Od Milvado and Tzimtzum, Hashem
 - [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Hashem, Shechinah
-- [[sources/sugyas-in-chassidus-2015/025-sugyas-in-chassidus-25-the-life-force-of-hashem-in-this-world|Sugyas In Chassidus (25) The Life-Force Of Hashem In This World]] - Hashem
 
 ## Transcript
 

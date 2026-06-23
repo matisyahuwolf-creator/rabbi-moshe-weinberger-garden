@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 13
 - Shiur ID: 823729
 - Date: Dec 29, 2003

@@ -78,8 +78,10 @@ What Chassidus is, why it arrives through the Baal Shem Tov, and how it should b
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/005-baal-shem-tov-5-the-every-jew-is-exceptional|Baal Shem Tov (5) The Every Jew Is Exceptional]] - Baal Shem Tov / #5 / May 24, 1999
 - [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Baal Shem Tov / #6 / May 31, 1999
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/008-baal-shem-tov-8-a-new-way-of-understanding-the-world|Baal Shem Tov (8) A New Way Of Understanding The World]] - Baal Shem Tov / #8 / Oct 04, 1999
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Baal Shem Tov / #9 / Oct 11, 1999
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-baal-shem-tov-10-extracting-the-good-from-the-evil|Baal Shem Tov (10) Extracting The Good From The Evil]] - Baal Shem Tov / #10 / Oct 18, 1999
 - [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Baal Shem Tov / #11 / Nov 01, 1999
 - [[sources/biographies-of-tzadikim/012-baal-shem-tov-12-the-ten-points-to-serving-hashem|Baal Shem Tov (12) The Ten Points To Serving Hashem]] - Baal Shem Tov / #12 / Nov 15, 1999
@@ -93,7 +95,7 @@ What Chassidus is, why it arrives through the Baal Shem Tov, and how it should b
 - [[sources/biographies-of-tzadikim/020-baal-shem-tov-20-channeling-things-towards-good-or-bad-part-ii|Baal Shem Tov (20) Channeling Things Towards Good Or Bad (Part Ii)]] - Baal Shem Tov / #20 / Jan 17, 2000
 - [[sources/biographies-of-tzadikim/021-baal-shem-tov-21-how-can-we-reveal-g-d-through-all-aspects-of-life|Baal Shem Tov (21) How Can We Reveal G-D Through All Aspects Of Life?]] - Baal Shem Tov / #21 / Jan 31, 2000
 - [[sources/biographies-of-tzadikim/022-baal-shem-tov-22-the-need-for-love-and-awe-of-hashem|Baal Shem Tov (22) The Need For Love And Awe Of Hashem]] - Baal Shem Tov / #22 / Feb 07, 2000
-- [[sources/biographies-of-tzadikim/023-baal-shem-tov-23-the-different-paths-in-serving-hashem|Baal Shem Tov (23) The Different Paths In Serving Hashem]] - Baal Shem Tov / #23 / Feb 14, 2000
+- 1 additional archive sources connect through this theme.
 
 ## Network Map
 

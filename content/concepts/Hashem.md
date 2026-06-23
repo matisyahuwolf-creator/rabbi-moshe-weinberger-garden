@@ -24,10 +24,25 @@ Research nodes connected to [[concepts/Hashem|Hashem]].
 
 ## Related Concepts
 
-[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Neshama|Neshama]] [[concepts/Shechinah|Shechinah]] [[concepts/Heart|Heart]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Chassidus|Chassidus]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Arizal|Arizal]]
+[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Neshama|Neshama]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Shechinah|Shechinah]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Heart|Heart]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/241-chaburah-yosef-hatzadik-241-toraso-umanuso-and-individual-tafkid-in-hashem-s-army|Chaburah Yosef HaTzadik (241) Toraso Umanuso and Individual Tafkid in Hashem’s Army]] - Chaburas Yosef HaTzaddik / #241 / Jan 04, 2026
+- [[sources/chaburas-yosef-hatzaddik/239-chaburah-yosef-hatzadik-239-serving-hashem-in-all-aspects-of-life|Chaburah Yosef HaTzadik (239) Serving Hashem in All Aspects of Life]] - Chaburas Yosef HaTzaddik / #239 / Dec 21, 2025
+- [[sources/chaburas-yosef-hatzaddik/227-chaburah-yosef-hatzadik-227-the-warrior-within-empowered-by-hashem|Chaburah Yosef HaTzadik (227) The Warrior Within - Empowered by Hashem]] - Chaburas Yosef HaTzaddik / #227 / May 04, 2025
+- [[sources/chaburas-yosef-hatzaddik/198-chaburah-yosef-hatzadik-198-living-in-hashem-s-gravitational-orbit|Chaburah Yosef HaTzadik (198) Living in Hashem's Gravitational Orbit]] - Chaburas Yosef HaTzaddik / #198 / Mar 10, 2024
+- [[sources/chaburas-yosef-hatzaddik/164-chaburah-yosef-hatzadik-164-first-step-in-avodas-hashem-purifying-the-eyes|Chaburah Yosef HaTzadik (164) First Step In Avodas Hashem - Purifying The Eyes]] - Chaburas Yosef HaTzaddik / #164 / Nov 27, 2022
+- [[sources/chaburas-yosef-hatzaddik/158-chaburah-yosef-hatzadik-158-the-connection-between-us-and-hashem-runs-very-deep|Chaburah Yosef HaTzadik (158) The Connection Between Us and Hashem Runs Very Deep]] - Chaburas Yosef HaTzaddik / #158 / May 29, 2022
+- [[sources/chaburas-yosef-hatzaddik/157-chaburah-yosef-hatzadik-157-a-jew-can-never-walk-away-from-hashem|Chaburah Yosef HaTzadik (157) A Jew Can Never Walk Away From Hashem]] - Chaburas Yosef HaTzaddik / #157 / May 22, 2022
+- [[sources/chaburas-yosef-hatzaddik/117-chaburah-yosef-hatzadik-117-from-dream-to-reality-thirsting-for-hashem-in-the-darkest-exile|Chaburah Yosef HaTzadik (117) From Dream to Reality - Thirsting for Hashem in the Darkest Exile]] - Chaburas Yosef HaTzaddik / #117 / Dec 20, 2020
+- [[sources/chaburas-yosef-hatzaddik/116-chaburah-yosef-hatzadik-116-having-a-constant-thirst-for-hashem|Chaburah Yosef HaTzadik (116) Having a Constant Thirst for Hashem]] - Chaburas Yosef HaTzaddik / #116 / Dec 06, 2020
+- [[sources/chaburas-yosef-hatzaddik/092-chaburah-yosef-hatzadik-92-hashem-s-beautiful-warriors|Chaburah Yosef HaTzadik (92) Hashem's Beautiful Warriors]] - Chaburas Yosef HaTzaddik / #92 / Apr 19, 2020
+- [[sources/chaburas-yosef-hatzaddik/081-chaburah-yosef-hatzadik-81-revealing-hashem-s-light-in-the-darkest-places|Chaburah Yosef HaTzadik (81) Revealing Hashem's Light In the Darkest Places]] - Chaburas Yosef HaTzaddik / #81 / Nov 24, 2019
+- [[sources/chaburas-yosef-hatzaddik/080-chaburah-yosef-hatzadik-80-the-lower-worlds-contain-more-of-hashem-s-presence|Chaburah Yosef HaTzadik (80) The Lower Worlds Contain More of Hashem's Presence]] - Chaburas Yosef HaTzaddik / #80 / Nov 17, 2019
+- [[sources/chaburas-yosef-hatzaddik/079-chaburah-yosef-hatzadik-79-hashem-desires-to-dwell-in-our-low-world|Chaburah Yosef HaTzadik (79) Hashem Desires to Dwell in Our Low World]] - Chaburas Yosef HaTzaddik / #79 / Nov 10, 2019
+- [[sources/chaburas-yosef-hatzaddik/074-chaburah-yosef-hatzadik-74-in-the-belly-of-the-fish-hashem-doesn-t-laugh|Chaburah Yosef HaTzadik (74) In the Belly of the Fish, Hashem Doesn't Laugh]] - Chaburas Yosef HaTzaddik / #74 / Jun 16, 2019
+- [[sources/chaburas-yosef-hatzaddik/059-chaburah-yosef-hatzadik-59-hashem-has-a-special-affection-for-a-shomer-habris|Chaburah Yosef HaTzadik (59) Hashem Has a Special Affection For a Shomer Habris]] - Chaburas Yosef HaTzaddik / #59 / Dec 30, 2018
 - [[sources/sugyas-in-chassidus-2015/044-sugyas-in-chassidus-44-holding-hands-with-the-torah|Sugyas In Chassidus (44) Holding Hands With The Torah]] - Sugyas in Chassidus 2015 / #44 / Feb 17, 2017
 - [[sources/sugyas-in-chassidus-2015/043-sugyas-in-chassidus-43|Sugyas In Chassidus (43)]] - Sugyas in Chassidus 2015 / #43 / Feb 10, 2017
 - [[sources/sugyas-in-chassidus-2015/042-sugyas-in-chassidus-42-the-light-within-shines-bright|Sugyas In Chassidus (42) The Light Within Shines Bright]] - Sugyas in Chassidus 2015 / #42 / Feb 03, 2017
@@ -41,6 +56,7 @@ Research nodes connected to [[concepts/Hashem|Hashem]].
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-in-the-darkness-you-will-find-me|Sugyas In Chassidus (34) In The Darkness You Will Find Me]] - Sugyas in Chassidus 2015 / #34 / Nov 04, 2016
 - [[sources/sugyas-in-chassidus-2015/032-sugyas-in-chassidus-32-the-coldness-of-a-jew|Sugyas In Chassidus (32) The Coldness Of A Jew]] - Sugyas in Chassidus 2015 / #32 / Sep 16, 2016
 - [[sources/sugyas-in-chassidus-2015/031-sugyas-in-chassidus-31-through-the-eyes-of-reb-chaim|Sugyas In Chassidus (31) Through The Eyes Of Reb Chaim]] - Sugyas in Chassidus 2015 / #31 / Sep 09, 2016
+- [[sources/chaburas-yosef-hatzaddik/014-chaburah-yosef-hatzadik-14-chinuch-training-children-to-become-devout-servants-of-hashem|Chaburah Yosef HaTzadik (14) Chinuch: Training children to become devout servants of Hashem]] - Chaburas Yosef HaTzaddik / #14 / Jun 05, 2016
 - [[sources/sugyas-in-chassidus-2015/030-sugyas-in-chassidus-30-tzimtzum-shelo-kepshuto-3|Sugyas In Chassidus (30) Tzimtzum Shelo Kepshuto (3)]] - Sugyas in Chassidus 2015 / #30 / Jun 03, 2016
 - [[sources/sugyas-in-chassidus-2015/029-sugyas-in-chassidus-29-tzimtzum-shelo-kepshuto-2|Sugyas In Chassidus (29) Tzimtzum Shelo Kepshuto (2)]] - Sugyas in Chassidus 2015 / #29 / May 27, 2016
 - [[sources/sugyas-in-chassidus-2015/028-sugyas-in-chassidus-28-tzimtzum-shelo-kepshuto-1|Sugyas In Chassidus (28) Tzimtzum Shelo Kepshuto (1)]] - Sugyas in Chassidus 2015 / #28 / May 20, 2016
@@ -50,9 +66,13 @@ Research nodes connected to [[concepts/Hashem|Hashem]].
 - [[sources/sugyas-in-chassidus-2015/024-sugyas-in-chassidus-24-a-perfect-place-in-our-soul|Sugyas In Chassidus (24) A Perfect Place In Our Soul]] - Sugyas in Chassidus 2015 / #24 / Apr 01, 2016
 - [[sources/sugyas-in-chassidus-2015/023-sugyas-in-chassidus-23-connecting-the-kri-and-the-ksiv|Sugyas In Chassidus (23) Connecting The Kri And The Ksiv]] - Sugyas in Chassidus 2015 / #23 / Mar 18, 2016
 - [[sources/sugyas-in-chassidus-2015/022-sugyas-in-chassidus-22-the-quintessential-point|Sugyas In Chassidus (22) The Quintessential Point]] - Sugyas in Chassidus 2015 / #22 / Mar 11, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
 - [[sources/sugyas-in-chassidus-2015/021-sugyas-in-chassidus-21-through-my-flesh-i-perceive-g-d|Sugyas In Chassidus (21) Through My Flesh I Perceive G-d]] - Sugyas in Chassidus 2015 / #21 / Mar 04, 2016
+- [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Chaburas Yosef HaTzaddik / #4 / Feb 28, 2016
 - [[sources/sugyas-in-chassidus-2015/020-sugyas-in-chassidus-20-what-is-chassidus|Sugyas In Chassidus (20) What Is Chassidus?]] - Sugyas in Chassidus 2015 / #20 / Feb 26, 2016
+- [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Chaburas Yosef HaTzaddik / #3 / Feb 14, 2016
 - [[sources/sugyas-in-chassidus-2015/019-sugyas-in-chassidus-19-haikar-chaser-min-hasefer|Sugyas In Chassidus (19) HaIkar Chaser Min HaSefer]] - Sugyas in Chassidus 2015 / #19 / Feb 05, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Sugyas in Chassidus 2015 / #16 / Jan 01, 2016
 - [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Sugyas in Chassidus 2015 / #15 / Dec 25, 2015
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Sugyas in Chassidus 2015 / #14 / Dec 18, 2015
@@ -93,7 +113,11 @@ Research nodes connected to [[concepts/Hashem|Hashem]].
 - [[sources/biographies-of-tzadikim/017-r-tzadok-hakohen-17-everything-is-in-the-hands-of-hashem-except-fear-of-hashem|R. Tzadok Hakohen (17) Everything Is In The Hands Of Hashem Except Fear Of Hashem]] - Rav Tzadok HaKohen / #17 / Dec 16, 1996
 - [[sources/biographies-of-tzadikim/016-r-tzadok-hakohen-16-forging-a-permanent-connection-to-holiness-through-fear-of-hashem|R. Tzadok Hakohen (16) Forging A Permanent Connection To Holiness Through Fear Of Hashem]] - Rav Tzadok HaKohen / #16 / Dec 09, 1996
 - [[sources/biographies-of-tzadikim/010-tzemach-tzeddek-10-meditating-on-hashem-s-greatness|Tzemach Tzeddek (10) Meditating On Hashem's Greatness]] - Tzemach Tzedek / #10 / Jul 01, 1996
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995

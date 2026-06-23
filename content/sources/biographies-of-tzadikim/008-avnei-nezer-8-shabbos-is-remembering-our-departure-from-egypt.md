@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Avnei Nezer
+- Collection: [[collections/avnei-nezer|Avnei Nezer]]
 - Item number: 8
 - Shiur ID: 823482
 - Date: May 05, 1997

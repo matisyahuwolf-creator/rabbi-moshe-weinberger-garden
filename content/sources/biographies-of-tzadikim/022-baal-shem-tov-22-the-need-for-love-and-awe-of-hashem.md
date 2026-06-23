@@ -26,7 +26,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Baal Shem Tov
+- Collection: [[collections/baal-shem-tov|Baal Shem Tov]]
 - Item number: 22
 - Shiur ID: 823538
 - Date: Feb 07, 2000

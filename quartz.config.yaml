@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Rabbi Moshe Weinberger Garden
-  pageTitleSuffix: " / Networked Torah Research"
+  pageTitle: "Matisyahu's Torah Research Garden"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   locale: en-US
@@ -196,6 +196,7 @@ plugins:
     enabled: true
     options:
       links:
+        Torah Atlas: /maps/research-garden-atlas
         YUTorah: https://www.yutorah.org/
         Quartz: https://quartz.jzhao.xyz/
   - source: github:quartz-community/recent-notes

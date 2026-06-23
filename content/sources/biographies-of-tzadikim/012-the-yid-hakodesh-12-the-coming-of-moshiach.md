@@ -20,7 +20,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Yid HaKodesh
+- Collection: [[collections/yid-hakodesh|Yid HaKodesh]]
 - Item number: 12
 - Shiur ID: 824149
 - Date: Jun 11, 2001

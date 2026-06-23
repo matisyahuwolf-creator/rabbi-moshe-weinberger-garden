@@ -30,6 +30,8 @@ Research nodes connected to [[concepts/Avodas Hashem|Avodas Hashem]].
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/164-chaburah-yosef-hatzadik-164-first-step-in-avodas-hashem-purifying-the-eyes|Chaburah Yosef HaTzadik (164) First Step In Avodas Hashem - Purifying The Eyes]] - Chaburas Yosef HaTzaddik / #164 / Nov 27, 2022
+- [[sources/chaburas-yosef-hatzaddik/163-chaburah-yosef-hatzadik-163-our-daily-yom-kippur-avodah|Chaburah Yosef HaTzadik (163) Our Daily Yom Kippur Avodah]] - Chaburas Yosef HaTzaddik / #163 / Nov 06, 2022
 - [[sources/sugyas-in-chassidus-2015/107-sugyas-in-chassidus-107-keser-shem-tov-60-61|Sugyas In Chassidus (107) Keser Shem Tov #60 & #61]] - Sugyas in Chassidus 2015 / #107 / Dec 13, 2019
 - [[sources/sugyas-in-chassidus-2015/106-sugyas-in-chassidus-106-keser-shem-tov-58-59|Sugyas In Chassidus (106) Keser Shem Tov #58 & #59]] - Sugyas in Chassidus 2015 / #106 / Nov 29, 2019
 - [[sources/sugyas-in-chassidus-2015/105-sugyas-in-chassidus-105-keser-shem-tov-55-56-57|Sugyas In Chassidus (105) Keser Shem Tov #55 & #56 & #57]] - Sugyas in Chassidus 2015 / #105 / Nov 22, 2019
@@ -72,5 +74,6 @@ Research nodes connected to [[concepts/Avodas Hashem|Avodas Hashem]].
 - [[sources/sugyas-in-chassidus-2015/052-sugyas-in-chassidus-52-what-it-is-a-chassid-part-3|Sugyas In Chassidus (52) What it is a Chassid? [PART 3]]] - Sugyas in Chassidus 2015 / #52 / May 05, 2017
 - [[sources/sugyas-in-chassidus-2015/051-sugyas-in-chassidus-51-what-it-is-a-chassid-part-2|Sugyas In Chassidus (51) What it is a Chassid? [PART 2]]] - Sugyas in Chassidus 2015 / #51 / Apr 28, 2017
 - [[sources/sugyas-in-chassidus-2015/050-sugyas-in-chassidus-50-what-it-is-a-chassid-part-1|Sugyas In Chassidus (50) What it is a Chassid? [PART 1]]] - Sugyas in Chassidus 2015 / #50 / Apr 21, 2017
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Sugyas in Chassidus 2015 / #14 / Dec 18, 2015
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995

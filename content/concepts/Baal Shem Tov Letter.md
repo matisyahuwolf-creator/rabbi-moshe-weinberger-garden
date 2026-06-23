@@ -21,7 +21,7 @@ The Baal Shem Tov's letter and ascent of the soul as a root text for the mission
 
 ## Related Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Emunah|Emunah]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Kri and Ksiv|Kri and Ksiv]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Tafkid|Tafkid]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Emunah|Emunah]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]]
 
 ## Connected Sources
 

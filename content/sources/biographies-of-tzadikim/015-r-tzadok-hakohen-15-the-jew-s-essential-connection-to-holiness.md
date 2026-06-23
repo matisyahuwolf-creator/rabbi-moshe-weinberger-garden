@@ -6,6 +6,7 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "kedusha"
 aliases:
   - "824102"
   - "shiur 824102"
@@ -18,7 +19,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Rav Tzadok HaKohen
+- Collection: [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]
 - Item number: 15
 - Shiur ID: 824102
 - Date: Nov 25, 1996
@@ -26,8 +27,13 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/824102](https://www.yutorah.org/lectures/824102)
 - Audio: [https://shiurim.yutorah.net/1996/1053/824102.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/1996/1053/824102.MP3?redirect=download.yutorah.org)
 
+## Concepts
+
+[[concepts/Kedusha|Kedusha]]
+
 ## Related Sources
 
+- [[sources/biographies-of-tzadikim/016-r-tzadok-hakohen-16-forging-a-permanent-connection-to-holiness-through-fear-of-hashem|R. Tzadok Hakohen (16) Forging A Permanent Connection To Holiness Through Fear Of Hashem]] - Kedusha
 - [[sources/biographies-of-tzadikim/014-baal-shem-tov-14-clinging-to-hashem-ii|Baal Shem Tov (14) Clinging To Hashem (Ii)]]
 - [[sources/biographies-of-tzadikim/014-kedushas-levi-14-the-sweetest-word-in-the-jewish-vocabulary|Kedushas Levi (14) The Sweetest Word In The Jewish Vocabulary]]
 - [[sources/biographies-of-tzadikim/014-no-am-elimelech-14-the-mitzvah-of-struggling|No’am Elimelech (14) The Mitzvah Of Struggling]]
@@ -35,7 +41,6 @@ aliases:
 - [[sources/biographies-of-tzadikim/014-reb-leibele-eiger-14-the-root-of-all-redemption|Reb Leibele Eiger (14) The Root Of All Redemption]]
 - [[sources/biographies-of-tzadikim/014-reb-simcha-bunim-of-pshischa-14-purim-is-a-holiday-for-the-exile|Reb Simcha Bunim Of Pshischa (14) Purim Is A Holiday For The Exile]]
 - [[sources/biographies-of-tzadikim/014-the-be-er-mayim-chaim-14-dying-for-hashem-daily|The Be'er Mayim Chaim (14) Dying For Hashem Daily]]
-- [[sources/biographies-of-tzadikim/016-baal-shem-tov-16-serving-g-d-through-our-true-being|Baal Shem Tov (16) Serving G-D Through Our True Being]]
 
 ## Transcript
 

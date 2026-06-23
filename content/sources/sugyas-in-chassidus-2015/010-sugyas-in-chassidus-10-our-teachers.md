@@ -20,6 +20,7 @@ tags:
   - "rebbe-nachman"
   - "shechinah"
   - "simcha"
+  - "tafkid"
   - "torah"
   - "tzaddik"
   - "yichud"
@@ -35,7 +36,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 10
 - Shiur ID: 845344
 - Date: Nov 20, 2015
@@ -51,7 +52,7 @@ aliases:
 
 ## Concepts
 
-[[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Hiskashrus|Hiskashrus]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Shechinah|Shechinah]] [[concepts/Simcha|Simcha]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yichud|Yichud]]
+[[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Hiskashrus|Hiskashrus]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Shechinah|Shechinah]] [[concepts/Simcha|Simcha]] [[concepts/Tafkid|Tafkid]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yichud|Yichud]]
 
 ## Related Sources
 

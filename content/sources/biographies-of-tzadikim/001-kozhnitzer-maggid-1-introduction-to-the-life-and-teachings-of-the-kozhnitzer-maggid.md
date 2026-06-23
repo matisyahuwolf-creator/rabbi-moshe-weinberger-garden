@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kozhnitzer Maggid
+- Collection: [[collections/kozhnitzer-maggid|Kozhnitzer Maggid]]
 - Item number: 1
 - Shiur ID: 823624
 - Date: Aug 03, 1998

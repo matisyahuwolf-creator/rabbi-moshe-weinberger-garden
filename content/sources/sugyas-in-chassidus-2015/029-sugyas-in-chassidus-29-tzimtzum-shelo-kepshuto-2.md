@@ -25,7 +25,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 29
 - Shiur ID: 858134
 - Date: May 27, 2016
@@ -52,7 +52,7 @@ aliases:
 - [[sources/sugyas-in-chassidus-2015/031-sugyas-in-chassidus-31-through-the-eyes-of-reb-chaim|Sugyas In Chassidus (31) Through The Eyes Of Reb Chaim]] - Deveikus, Ein Od Milvado, Ein Od Milvado and Tzimtzum, Hashem
 - [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Deveikus, Hashem, Shechinah
 - [[sources/sugyas-in-chassidus-2015/032-sugyas-in-chassidus-32-the-coldness-of-a-jew|Sugyas In Chassidus (32) The Coldness Of A Jew]] - Hashem, Shechinah
-- [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Hashem, Shechinah
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Ein Od Milvado, Ein Od Milvado and Tzimtzum, Hashem
 
 ## Transcript
 

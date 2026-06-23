@@ -15,6 +15,7 @@ tags:
   - "kri-and-ksiv"
   - "mitzvos"
   - "moshiach"
+  - "tafkid"
   - "torah"
 aliases:
   - "841314"
@@ -28,7 +29,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 3
 - Shiur ID: 841314
 - Date: Sep 18, 2015
@@ -44,7 +45,7 @@ aliases:
 
 ## Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Kri and Ksiv|Kri and Ksiv]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Kri and Ksiv|Kri and Ksiv]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Tafkid|Tafkid]] [[concepts/Torah|Torah]]
 
 ## Related Sources
 
@@ -53,9 +54,9 @@ aliases:
 - [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Mitzvos
 - [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Moshiach
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Chassidus, Foundations of Chassidus
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Baal Shem Tov and Moshiach, Mitzvos, Moshiach, Torah
 - [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Chassidus, Foundations of Chassidus, Torah
 - [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Chassidus, Foundations of Chassidus, Moshiach, Torah
-- [[sources/sugyas-in-chassidus-2015/022-sugyas-in-chassidus-22-the-quintessential-point|Sugyas In Chassidus (22) The Quintessential Point]] - Chassidus, Chiddush HaBaal Shem Tov, Foundations of Chassidus, Kri and Ksiv
 
 ## Transcript
 

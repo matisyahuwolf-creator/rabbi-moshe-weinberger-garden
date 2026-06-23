@@ -22,7 +22,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Rebbe Nachman of Breslov biography
+- Collection: [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]]
 - Item number: 4
 - Shiur ID: 823746
 - Date: Nov 15, 2004

@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Divrei Chaim of Sanz
+- Collection: [[collections/divrei-chaim-of-sanz|Divrei Chaim of Sanz]]
 - Item number: 1
 - Shiur ID: 823551
 - Date: Feb 21, 2000

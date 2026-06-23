@@ -45,8 +45,12 @@ The Baal Shem Tov's letter, his aliyah, and the mission of spreading the wellspr
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/005-the-be-er-mayim-chaim-5-great-light-of-shabbos|The Be'er Mayim Chaim (5) Great Light Of Shabbos]] - Be'er Mayim Chaim / #5 / Feb 02, 1998
 - [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Baal Shem Tov / #6 / May 31, 1999
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
 - [[sources/biographies-of-tzadikim/008-baal-shem-tov-8-a-new-way-of-understanding-the-world|Baal Shem Tov (8) A New Way Of Understanding The World]] - Baal Shem Tov / #8 / Oct 04, 1999
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Baal Shem Tov / #9 / Oct 11, 1999
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-baal-shem-tov-10-extracting-the-good-from-the-evil|Baal Shem Tov (10) Extracting The Good From The Evil]] - Baal Shem Tov / #10 / Oct 18, 1999
 - [[sources/biographies-of-tzadikim/010-the-toldos-yaakov-yoseph-of-polonoye-10-light-of-moshiach|The Toldos Yaakov Yoseph Of Polonoye (10) Light Of Moshiach]] - Toldos Yaakov Yosef of Polnoye / #10 / Jan 29, 1996
 - [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Baal Shem Tov / #11 / Nov 01, 1999
@@ -58,11 +62,7 @@ The Baal Shem Tov's letter, his aliyah, and the mission of spreading the wellspr
 - [[sources/biographies-of-tzadikim/016-baal-shem-tov-16-serving-g-d-through-our-true-being|Baal Shem Tov (16) Serving G-D Through Our True Being]] - Baal Shem Tov / #16 / Dec 13, 1999
 - [[sources/biographies-of-tzadikim/017-baal-shem-tov-17-attachment-to-hashem-through-prayer|Baal Shem Tov (17) Attachment To Hashem Through Prayer]] - Baal Shem Tov / #17 / Dec 20, 1999
 - [[sources/biographies-of-tzadikim/017-kedushas-levi-17-a-vessel-to-receive-the-light-of-hashem|Kedushas Levi (17) A Vessel To Receive The Light Of Hashem]] - Kedushas Levi / #17 / Jan 06, 2003
-- [[sources/biographies-of-tzadikim/018-baal-shem-tov-18-the-power-of-speech-and-the-power-of-prayer|Baal Shem Tov (18) The Power Of Speech And The Power Of Prayer]] - Baal Shem Tov / #18 / Jan 03, 2000
-- [[sources/biographies-of-tzadikim/019-baal-shem-tov-19-channeling-things-towards-good-or-bad-part-i|Baal Shem Tov (19) Channeling Things Towards Good Or Bad (Part I)]] - Baal Shem Tov / #19 / Jan 10, 2000
-- [[sources/biographies-of-tzadikim/020-baal-shem-tov-20-channeling-things-towards-good-or-bad-part-ii|Baal Shem Tov (20) Channeling Things Towards Good Or Bad (Part Ii)]] - Baal Shem Tov / #20 / Jan 17, 2000
-- [[sources/biographies-of-tzadikim/021-baal-shem-tov-21-how-can-we-reveal-g-d-through-all-aspects-of-life|Baal Shem Tov (21) How Can We Reveal G-D Through All Aspects Of Life?]] - Baal Shem Tov / #21 / Jan 31, 2000
-- 2 additional archive sources connect through this theme.
+- 15 additional archive sources connect through this theme.
 
 ## Network Map
 

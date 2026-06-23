@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Simcha Bunim of Peshischa
+- Collection: [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]
 - Item number: 14
 - Shiur ID: 823904
 - Date: Feb 11, 2002

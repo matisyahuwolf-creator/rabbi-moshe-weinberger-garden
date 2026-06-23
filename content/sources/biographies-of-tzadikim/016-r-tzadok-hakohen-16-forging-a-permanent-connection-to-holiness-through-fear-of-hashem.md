@@ -9,6 +9,7 @@ tags:
   - "ein-od-milvado-and-tzimtzum"
   - "finding-hashem-everywhere"
   - "hashem"
+  - "kedusha"
 aliases:
   - "824103"
   - "shiur 824103"
@@ -21,7 +22,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Rav Tzadok HaKohen
+- Collection: [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]
 - Item number: 16
 - Shiur ID: 824103
 - Date: Dec 09, 1996
@@ -31,18 +32,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Hashem|Hashem]]
+[[concepts/Hashem|Hashem]] [[concepts/Kedusha|Kedusha]]
 
 ## Related Sources
 
 - [[sources/biographies-of-tzadikim/017-baal-shem-tov-17-attachment-to-hashem-through-prayer|Baal Shem Tov (17) Attachment To Hashem Through Prayer]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/017-kedushas-levi-17-a-vessel-to-receive-the-light-of-hashem|Kedushas Levi (17) A Vessel To Receive The Light Of Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/017-r-tzadok-hakohen-17-everything-is-in-the-hands-of-hashem-except-fear-of-hashem|R. Tzadok Hakohen (17) Everything Is In The Hands Of Hashem Except Fear Of Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Kedusha
 - [[sources/biographies-of-tzadikim/013-baal-shem-tov-13-clinging-to-hashem|Baal Shem Tov (13) Clinging To Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/013-kedushas-levi-13-hashem-s-love-for-his-children|Kedushas Levi (13) Hashem's Love For His Children]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/013-the-be-er-mayim-chaim-13-visualizing-kiddush-hashem|The Be'er Mayim Chaim (13) Visualizing Kiddush Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/014-baal-shem-tov-14-clinging-to-hashem-ii|Baal Shem Tov (14) Clinging To Hashem (Ii)]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/014-the-be-er-mayim-chaim-14-dying-for-hashem-daily|The Be'er Mayim Chaim (14) Dying For Hashem Daily]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

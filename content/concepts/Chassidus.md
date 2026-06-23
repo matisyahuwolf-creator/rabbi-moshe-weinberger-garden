@@ -26,7 +26,7 @@ Research nodes connected to [[concepts/Chassidus|Chassidus]].
 
 ## Related Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Neshama|Neshama]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Hashem|Hashem]] [[concepts/Emunah|Emunah]] [[concepts/Torah|Torah]] [[concepts/Or|Or]] [[concepts/Yirah|Yirah]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Keser Shem Tov|Keser Shem Tov]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Neshama|Neshama]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Hashem|Hashem]] [[concepts/Torah|Torah]] [[concepts/Emunah|Emunah]] [[concepts/Or|Or]] [[concepts/Yirah|Yirah]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Keser Shem Tov|Keser Shem Tov]]
 
 ## Connected Sources
 
@@ -66,4 +66,5 @@ Research nodes connected to [[concepts/Chassidus|Chassidus]].
 - [[sources/biographies-of-tzadikim/003-noam-elimelech-3-the-journey-to-chassidus|Noam Elimelech (3) The Journey To Chassidus]] - Noam Elimelech / #3 / Sep 22, 2003
 - [[sources/biographies-of-tzadikim/002-no-am-elimelech-2-the-flourishing-of-chassidus|No’am Elimelech (2) The Flourishing Of Chassidus]] - Noam Elimelech / #2 / Sep 15, 2003
 - [[sources/biographies-of-tzadikim/001-reb-leibele-eiger-1-a-chassid-who-emerged-from-a-family-of-misnagdim|Reb Leibele Eiger (1) A Chassid Who Emerged From A Family Of Misnagdim]] - Reb Leibele Eiger / #1 / Sep 11, 2000
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Reb Mordechai Yosef of Izhbitz / #1 / Jun 14, 1995

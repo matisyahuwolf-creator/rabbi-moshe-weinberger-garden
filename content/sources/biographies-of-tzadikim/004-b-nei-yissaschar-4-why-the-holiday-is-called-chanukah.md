@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Bnei Yissaschar
+- Collection: [[collections/bnei-yissaschar|Bnei Yissaschar]]
 - Item number: 4
 - Shiur ID: 823543
 - Date: Dec 14, 1998

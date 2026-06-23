@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Tzemach Tzedek
+- Collection: [[collections/tzemach-tzedek|Tzemach Tzedek]]
 - Item number: 5
 - Shiur ID: 824120
 - Date: Apr 22, 1996

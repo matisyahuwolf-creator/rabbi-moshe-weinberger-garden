@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kedushas Levi
+- Collection: [[collections/kedushas-levi|Kedushas Levi]]
 - Item number: 22
 - Shiur ID: 823616
 - Date: Feb 24, 2003

@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Leibele Eiger
+- Collection: [[collections/reb-leibele-eiger|Reb Leibele Eiger]]
 - Item number: 7
 - Shiur ID: 823707
 - Date: Nov 20, 2000
@@ -35,14 +35,14 @@ aliases:
 
 ## Related Sources
 
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/005-b-nei-yissaschar-5-a-truthful-prolific-writer-and-a-giant-torah-scholar|B'nei Yissaschar (5) A Truthful, Prolific Writer And A Giant Torah Scholar]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/010-avnei-nezer-10-learning-to-recreate-receiving-torah|Avnei Nezer (10) Learning To Recreate Receiving Torah]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/006-reb-areleh-roth-6-kavanah-one-thing-at-a-time|Reb Areleh Roth (6) Kavanah - One Thing At A Time]] - Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/008-b-nei-yissaschar-8-the-chassidic-debate-over-kabbalah|B'nei Yissaschar (8) The Chassidic Debate Over Kabbalah]] - Torah, Speech, and Revelation
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 
 ## Transcript
 

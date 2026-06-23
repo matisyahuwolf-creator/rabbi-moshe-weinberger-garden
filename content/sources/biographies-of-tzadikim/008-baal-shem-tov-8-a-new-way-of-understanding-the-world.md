@@ -23,7 +23,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Baal Shem Tov
+- Collection: [[collections/baal-shem-tov|Baal Shem Tov]]
 - Item number: 8
 - Shiur ID: 823524
 - Date: Oct 04, 1999
@@ -42,9 +42,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 - [[sources/biographies-of-tzadikim/010-baal-shem-tov-10-extracting-the-good-from-the-evil|Baal Shem Tov (10) Extracting The Good From The Evil]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 - [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Baal Shem Tov and Moshiach, Foundations of Chassidus, Mesorah of Tzaddikim
 - [[sources/biographies-of-tzadikim/001-baal-shem-tov-1-biographical-background-as-reported-by-his-students|Baal Shem Tov (1) Biographical Background As Reported By His Students]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
-- [[sources/biographies-of-tzadikim/001-the-toldos-yaakov-yoseph-of-polonoye-1-the-first-meeting-with-the-baal-shem-tov|The Toldos Yaakov Yoseph Of Polonoye (1) The First Meeting With The Baal Shem Tov]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Keser Shem Tov Textual Cycle
 
 ## Transcript
 

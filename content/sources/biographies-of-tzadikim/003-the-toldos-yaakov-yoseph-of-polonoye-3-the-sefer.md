@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Toldos Yaakov Yosef of Polnoye
+- Collection: [[collections/toldos-yaakov-yosef-of-polnoye|Toldos Yaakov Yosef of Polnoye]]
 - Item number: 3
 - Shiur ID: 824128
 - Date: Feb 11, 1996

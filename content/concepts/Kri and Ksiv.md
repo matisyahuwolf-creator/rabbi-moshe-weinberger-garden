@@ -22,7 +22,7 @@ The gap and connection between how Torah is written and how it is read, as an im
 
 ## Related Concepts
 
-[[concepts/Chassidus|Chassidus]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Hashem|Hashem]] [[concepts/Neshama|Neshama]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]]
+[[concepts/Chassidus|Chassidus]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Hashem|Hashem]] [[concepts/Neshama|Neshama]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Tafkid|Tafkid]] [[concepts/Torah|Torah]]
 
 ## Connected Sources
 

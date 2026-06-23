@@ -18,7 +18,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 47
 - Shiur ID: 875564
 - Date: Mar 17, 2017

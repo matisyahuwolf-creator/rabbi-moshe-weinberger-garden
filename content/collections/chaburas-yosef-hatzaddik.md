@@ -1,0 +1,314 @@
+---
+title: "Chaburas Yosef HaTzaddik"
+description: "260 indexed sources in Chaburas Yosef HaTzaddik."
+tags:
+  - "collection"
+  - "chaburas-yosef-hatzaddik"
+---
+
+
+# Chaburas Yosef HaTzaddik
+
+260 sources are indexed here; 5 currently have transcript text in the garden.
+
+## Top Concepts
+
+- [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] - 260 sources
+- [[concepts/Hashem|Hashem]] - 20 sources
+- [[concepts/Chinuch|Chinuch]] - 10 sources
+- [[concepts/Kedusha|Kedusha]] - 9 sources
+- [[concepts/Tzaddik|Tzaddik]] - 8 sources
+- [[concepts/Emunah|Emunah]] - 7 sources
+- [[concepts/Or|Or]] - 7 sources
+- [[concepts/Torah|Torah]] - 6 sources
+- [[concepts/Tafkid|Tafkid]] - 5 sources
+- [[concepts/Mitzvos|Mitzvos]] - 4 sources
+- [[concepts/Neshama|Neshama]] - 4 sources
+- [[concepts/Avodas Hashem|Avodas Hashem]] - 3 sources
+- [[concepts/Hiskashrus|Hiskashrus]] - 3 sources
+- [[concepts/Heart|Heart]] - 2 sources
+- [[concepts/Mesorah|Mesorah]] - 2 sources
+- [[concepts/Moshiach|Moshiach]] - 2 sources
+- [[concepts/Ein Od Milvado|Ein Od Milvado]] - 1 sources
+- [[concepts/Shechinah|Shechinah]] - 1 sources
+- [[concepts/Simcha|Simcha]] - 1 sources
+
+## Theme Links
+
+- [[themes/finding-hashem-everywhere|Finding Hashem Everywhere]] - 25 sources
+- [[themes/ein-od-milvado-and-tzimtzum|Ein Od Milvado and Tzimtzum]] - 21 sources
+- [[themes/the-shape-of-a-chassid|The Shape of a Chassid]] - 16 sources
+- [[themes/the-inner-soul-of-a-jew|The Inner Soul of a Jew]] - 13 sources
+- [[themes/baal-shem-tov-and-moshiach|Baal Shem Tov and Moshiach]] - 9 sources
+- [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]] - 9 sources
+- [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]] - 9 sources
+- [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]] - 7 sources
+- [[themes/kabbalah-brought-into-avodah|Kabbalah Brought into Avodah]] - 4 sources
+- [[themes/keser-shem-tov-textual-cycle|Keser Shem Tov Textual Cycle]] - 3 sources
+
+## Sources
+
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Chaburas Yosef HaTzaddik / #2 / Feb 07, 2016
+- [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Chaburas Yosef HaTzaddik / #3 / Feb 14, 2016
+- [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Chaburas Yosef HaTzaddik / #4 / Feb 28, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/006-chaburas-yosef-hatzaddik-6-trying-to-find-themselves|Chaburas Yosef HaTzaddik (6) Trying To Find Themselves]] - Chaburas Yosef HaTzaddik / #6 / Mar 13, 2016
+- [[sources/chaburas-yosef-hatzaddik/007-chaburas-yosef-hatzaddik-7-a-crisis-that-builds|Chaburas Yosef HaTzaddik (7) A Crisis That Builds]] - Chaburas Yosef HaTzaddik / #7 / Mar 20, 2016
+- [[sources/chaburas-yosef-hatzaddik/008-chaburah-yosef-hatzadik-8-the-adolescents-social-circle|Chaburah Yosef HaTzadik (8) The Adolescents Social Circle]] - Chaburas Yosef HaTzaddik / #8 / Mar 27, 2016
+- [[sources/chaburas-yosef-hatzaddik/009-chaburas-yosef-hatzaddik-9-kedushas-habris|Chaburas Yosef HaTzaddik (9) Kedushas HaBris]] - Chaburas Yosef HaTzaddik / #9 / Apr 03, 2016
+- [[sources/chaburas-yosef-hatzaddik/010-chaburah-yosef-hatzadik-10-the-parents-belief-in-the-child|Chaburah Yosef HaTzadik (10) The Parents Belief in the Child]] - Chaburas Yosef HaTzaddik / #10 / Apr 10, 2016
+- [[sources/chaburas-yosef-hatzaddik/011-chaburas-yosef-hatzaddik-11-seeing-the-good-in-your-child|Chaburas Yosef HaTzaddik (11) Seeing The Good In Your Child]] - Chaburas Yosef HaTzaddik / #11 / May 01, 2016
+- [[sources/chaburas-yosef-hatzaddik/012-chaburas-yosef-hatzaddik-12-faith-in-our-children|Chaburas Yosef HaTzaddik (12) Faith In Our Children]] - Chaburas Yosef HaTzaddik / #12 / May 22, 2016
+- [[sources/chaburas-yosef-hatzaddik/013-chaburas-yosef-hatzaddik-13-believing-in-the-depth-behind-concealment|Chaburas Yosef HaTzaddik (13) Believing In The Depth Behind Concealment]] - Chaburas Yosef HaTzaddik / #13 / May 29, 2016
+- [[sources/chaburas-yosef-hatzaddik/014-chaburah-yosef-hatzadik-14-chinuch-training-children-to-become-devout-servants-of-hashem|Chaburah Yosef HaTzadik (14) Chinuch: Training children to become devout servants of Hashem]] - Chaburas Yosef HaTzaddik / #14 / Jun 05, 2016
+- [[sources/chaburas-yosef-hatzaddik/015-chaburah-yosef-hatzadik-15-healthy-borders|Chaburah Yosef HaTzadik (15) - Healthy Borders]] - Chaburas Yosef HaTzaddik / #15 / Sep 11, 2016
+- [[sources/chaburas-yosef-hatzaddik/016-chaburah-yosef-hatzadik-16-the-secret-of-hide-seek|Chaburah Yosef HaTzadik (16)- The Secret of Hide & Seek]] - Chaburas Yosef HaTzaddik / #16 / Sep 18, 2016
+- [[sources/chaburas-yosef-hatzaddik/017-chaburah-yosef-hatzadik-17-loading-unloading|Chaburah Yosef HaTzadik (17) Loading & Unloading]] - Chaburas Yosef HaTzaddik / #17 / Sep 25, 2016
+- [[sources/chaburas-yosef-hatzaddik/018-chaburah-yosef-hatzadik-18-the-transitional-state-of-darkness-light-mixed-together|Chaburah Yosef HaTzadik (18) The Transitional State of Darkness & Light Mixed Together]] - Chaburas Yosef HaTzaddik / #18 / Oct 30, 2016
+- [[sources/chaburas-yosef-hatzaddik/019-chaburah-yosef-hatzadik-19-what-happened-to-the-seven-worlds-that-were-destroyed|Chaburah Yosef HaTzadik (19) What Happened to the Seven Worlds that Were Destroyed]] - Chaburas Yosef HaTzaddik / #19 / Nov 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/020-chaburah-yosef-hatzadik-20|Chaburah Yosef HaTzadik (20)]] - Chaburas Yosef HaTzaddik / #20 / Nov 13, 2016
+- [[sources/chaburas-yosef-hatzaddik/021-chaburah-yosef-hatzadik-21-souls-from-the-world-of-destruction-part-1|Chaburah Yosef HaTzadik (21) - Souls From The World Of Destruction - Part 1]] - Chaburas Yosef HaTzaddik / #21 / Nov 20, 2016
+- [[sources/chaburas-yosef-hatzaddik/022-chaburah-yosef-hatzadik-22-souls-from-the-world-of-destruction|Chaburah Yosef HaTzadik (22) Souls From The World Of Destruction]] - Chaburas Yosef HaTzaddik / #22 / Nov 27, 2016
+- [[sources/chaburas-yosef-hatzaddik/023-chaburah-yosef-hatzadik-23-souls-from-the-world-of-destruction-part-2|Chaburah Yosef HaTzadik (23) Souls From The World Of Destruction (Part 2)]] - Chaburas Yosef HaTzaddik / #23 / Dec 04, 2016
+- [[sources/chaburas-yosef-hatzaddik/024-chaburah-yosef-hatzadik-24-a-life-of-continuous-rebuilding|Chaburah Yosef HaTzadik (24) A Life Of Continuous Rebuilding]] - Chaburas Yosef HaTzaddik / #24 / Dec 11, 2016
+- [[sources/chaburas-yosef-hatzaddik/025-chaburah-yosef-hatzadik-25-the-world-of-yaakov-eisav|Chaburah Yosef HaTzadik (25) The World of Yaakov & Eisav]] - Chaburas Yosef HaTzaddik / #25 / Dec 18, 2016
+- [[sources/chaburas-yosef-hatzaddik/026-chaburah-yosef-hatzadik-26|Chaburah Yosef HaTzadik (26)]] - Chaburas Yosef HaTzaddik / #26 / Jan 22, 2017
+- [[sources/chaburas-yosef-hatzaddik/027-chaburah-yosef-hatzadik-27-i-am-here-with-you|Chaburah Yosef HaTzadik (27) I Am Here With You]] - Chaburas Yosef HaTzaddik / #27 / Feb 05, 2017
+- [[sources/chaburas-yosef-hatzaddik/028-chaburah-yosef-hatzadik-28-going-down-to-pick-the-other-one-up|Chaburah Yosef HaTzadik (28) Going Down To Pick The Other One Up]] - Chaburas Yosef HaTzaddik / #28 / Feb 12, 2017
+- [[sources/chaburas-yosef-hatzaddik/029-chaburah-yosef-hatzadik-29-approaching-our-children-with-empathy|Chaburah Yosef HaTzadik (29) Approaching our Children with Empathy]] - Chaburas Yosef HaTzaddik / #29 / Feb 19, 2017
+- [[sources/chaburas-yosef-hatzaddik/030-chaburah-yosef-hatzadik-30|Chaburah Yosef HaTzadik (30)]] - Chaburas Yosef HaTzaddik / #30 / Feb 26, 2017
+- [[sources/chaburas-yosef-hatzaddik/031-chaburah-yosef-hatzadik-31-healing-the-pain-with-empathy|Chaburah Yosef HaTzadik (31) Healing the Pain with Empathy]] - Chaburas Yosef HaTzaddik / #31 / Mar 26, 2017
+- [[sources/chaburas-yosef-hatzaddik/032-chaburah-yosef-hatzadik-32-the-unasked-questions|Chaburah Yosef HaTzadik (32) The Unasked Questions]] - Chaburas Yosef HaTzaddik / #32 / Apr 02, 2017
+- [[sources/chaburas-yosef-hatzaddik/033-chaburah-yosef-hatzadik-33-working-on-our-generations-main-struggle|Chaburah Yosef HaTzadik (33) Working On Our Generations Main Struggle]] - Chaburas Yosef HaTzaddik / #33 / Apr 23, 2017
+- [[sources/chaburas-yosef-hatzaddik/034-chaburah-yosef-hatzadik-34-the-connection-between-purity-faith|Chaburah Yosef HaTzadik (34) The Connection Between Purity & Faith]] - Chaburas Yosef HaTzaddik / #34 / May 07, 2017
+- [[sources/chaburas-yosef-hatzaddik/035-chaburah-yosef-hatzadik-35-getting-to-the-source|Chaburah Yosef HaTzadik (35) Getting To The Source]] - Chaburas Yosef HaTzaddik / #35 / May 14, 2017
+- [[sources/chaburas-yosef-hatzaddik/036-chaburah-yosef-hatzadik-36-so-severe-yet-so-curable|Chaburah Yosef HaTzadik (36) So Severe, Yet So Curable]] - Chaburas Yosef HaTzaddik / #36 / May 21, 2017
+- [[sources/chaburas-yosef-hatzaddik/037-chaburah-yosef-hatzadik-37|Chaburah Yosef HaTzadik (37)]] - Chaburas Yosef HaTzaddik / #37 / May 28, 2017
+- [[sources/chaburas-yosef-hatzaddik/038-chaburah-yosef-hatzadik-38-the-longer-shorter-way|Chaburah Yosef HaTzadik (38) The Longer Shorter Way]] - Chaburas Yosef HaTzaddik / #38 / Sep 10, 2017
+- [[sources/chaburas-yosef-hatzaddik/039-chaburah-yosef-hatzadik-39-yosef-a-tzadik-who-fails|Chaburah Yosef HaTzadik (39) - Yosef A Tzadik Who Fails]] - Chaburas Yosef HaTzaddik / #39 / Sep 17, 2017
+- [[sources/chaburas-yosef-hatzaddik/040-chaburah-yosef-hatzadik-40-guarding-the-bris-covenant|Chaburah Yosef HaTzadik (40) - Guarding the Bris-Covenant]] - Chaburas Yosef HaTzaddik / #40 / Oct 29, 2017
+- [[sources/chaburas-yosef-hatzaddik/041-chaburah-yosef-hatzadik-41-skeletons-in-the-closet-a-prerequisite-for-leadership|Chaburah Yosef HaTzadik (41) - Skeletons in the Closet: A Prerequisite for Leadership]] - Chaburas Yosef HaTzaddik / #41 / Nov 05, 2017
+- [[sources/chaburas-yosef-hatzaddik/042-chaburah-yosef-hatzadik-42-the-white-spaces-say-it-all|Chaburah Yosef HaTzadik (42) The White Spaces Say It All]] - Chaburas Yosef HaTzaddik / #42 / Feb 11, 2018
+- [[sources/chaburas-yosef-hatzaddik/043-chaburah-yosef-hatzadik-43-the-cry-from-within-the-home|Chaburah Yosef HaTzadik (43) The Cry From Within The Home]] - Chaburas Yosef HaTzaddik / #43 / Feb 25, 2018
+- [[sources/chaburas-yosef-hatzaddik/044-chaburah-yosef-hatzadik-44-the-cry-from-within-the-home-2|Chaburah Yosef HaTzadik (44) The Cry From Within The Home [2]]] - Chaburas Yosef HaTzaddik / #44 / Mar 04, 2018
+- [[sources/chaburas-yosef-hatzaddik/045-chaburah-yosef-hatzadik-45-the-most-painful-decision-of-all|Chaburah Yosef HaTzadik (45) The Most Painful Decision of All]] - Chaburas Yosef HaTzaddik / #45 / Mar 11, 2018
+- [[sources/chaburas-yosef-hatzaddik/046-chaburah-yosef-hatzadik-46-affection-the-language-of-the-generation|Chaburah Yosef HaTzadik (46) Affection the Language of the Generation]] - Chaburas Yosef HaTzaddik / #46 / Mar 18, 2018
+- [[sources/chaburas-yosef-hatzaddik/047-chaburah-yosef-hatzadik-47-knowing-the-other-opponent|Chaburah Yosef HaTzadik (47) Knowing The Other Opponent]] - Chaburas Yosef HaTzaddik / #47 / Apr 15, 2018
+- [[sources/chaburas-yosef-hatzaddik/048-chaburah-yosef-hatzadik-48-the-cornerstone-of-our-foundation|Chaburah Yosef HaTzadik (48) The Cornerstone Of Our Foundation]] - Chaburas Yosef HaTzaddik / #48 / Apr 22, 2018
+- [[sources/chaburas-yosef-hatzaddik/049-chaburah-yosef-hatzadik-49-understanding-the-halachos-of-shichfas-zehra-l-vatala|Chaburah Yosef HaTzadik (49) Understanding the Halachos of Shichfas Zehra L'vatala]] - Chaburas Yosef HaTzaddik / #49 / May 06, 2018
+- [[sources/chaburas-yosef-hatzaddik/050-chaburah-yosef-hatzadik-50-how-to-take-responsibility|Chaburah Yosef HaTzadik (50) How to Take Responsibility]] - Chaburas Yosef HaTzaddik / #50 / Oct 07, 2018
+- [[sources/chaburas-yosef-hatzaddik/051-chaburah-yosef-hatzadik-51-taking-ownership-of-our-shortcomings|Chaburah Yosef HaTzadik (51) Taking Ownership of Our Shortcomings]] - Chaburas Yosef HaTzaddik / #51 / Oct 14, 2018
+- [[sources/chaburas-yosef-hatzaddik/052-chaburah-yosef-hatzadik-52-the-critical-moment-of-deep-emptiness|Chaburah Yosef HaTzadik (52) The Critical Moment of Deep Emptiness]] - Chaburas Yosef HaTzaddik / #52 / Oct 21, 2018
+- [[sources/chaburas-yosef-hatzaddik/053-chaburah-yosef-hatzadik-53-the-beauty-of-our-generation-s-struggles|Chaburah Yosef HaTzadik (53) The Beauty Of Our Generation’s Struggles]] - Chaburas Yosef HaTzaddik / #53 / Oct 28, 2018
+- [[sources/chaburas-yosef-hatzaddik/054-chaburah-yosef-hatzadik-54-middas-yesod-the-elephant-in-the-room|Chaburah Yosef HaTzadik (54) Middas Yesod - The Elephant In The Room]] - Chaburas Yosef HaTzaddik / #54 / Nov 04, 2018
+- [[sources/chaburas-yosef-hatzaddik/055-chaburah-yosef-hatzadik-55-the-inevitable-displacement-that-follows-p-gam-habris|Chaburah Yosef HaTzadik (55) The Inevitable Displacement That Follows P'gam Habris]] - Chaburas Yosef HaTzaddik / #55 / Nov 11, 2018
+- [[sources/chaburas-yosef-hatzaddik/056-chaburah-yosef-hatzadik-56-guarding-the-bris-elevates-a-jew-above-nature|Chaburah Yosef HaTzadik (56) Guarding The Bris Elevates a Jew Above Nature]] - Chaburas Yosef HaTzaddik / #56 / Nov 18, 2018
+- [[sources/chaburas-yosef-hatzaddik/057-chaburah-yosef-hatzadik-57-galus-yavan-our-lonely-battle-with-false-beauty|Chaburah Yosef HaTzadik (57) Galus Yavan - Our Lonely Battle with False Beauty]] - Chaburas Yosef HaTzaddik / #57 / Dec 09, 2018
+- [[sources/chaburas-yosef-hatzaddik/058-chaburah-yosef-hatzadik-58-prioritizing-kedusha-a-prerequisite-for-spiritual-growth|Chaburah Yosef HaTzadik (58) Prioritizing Kedusha a Prerequisite for Spiritual Growth]] - Chaburas Yosef HaTzaddik / #58 / Dec 23, 2018
+- [[sources/chaburas-yosef-hatzaddik/059-chaburah-yosef-hatzadik-59-hashem-has-a-special-affection-for-a-shomer-habris|Chaburah Yosef HaTzadik (59) Hashem Has a Special Affection For a Shomer Habris]] - Chaburas Yosef HaTzaddik / #59 / Dec 30, 2018
+- [[sources/chaburas-yosef-hatzaddik/060-chaburah-yosef-hatzadik-60-how-to-start-again-after-failure|Chaburah Yosef HaTzadik (60) How to Start Again After Failure]] - Chaburas Yosef HaTzaddik / #60 / Jan 06, 2019
+- [[sources/chaburas-yosef-hatzaddik/061-chaburah-yosef-hatzadik-61-understanding-both-the-severity-of-the-sin-the-power-of-teshuva|Chaburah Yosef HaTzadik (61) Understanding Both The Severity Of The Sin & The Power Of Teshuva]] - Chaburas Yosef HaTzaddik / #61 / Jan 13, 2019
+- [[sources/chaburas-yosef-hatzaddik/062-chaburah-yosef-hatzadik-62-emunah-and-shmiras-bris-two-main-doors-to-yiddishkeit|Chaburah Yosef HaTzadik (62) Emunah and Shmiras Bris, Two Main Doors to Yiddishkeit]] - Chaburas Yosef HaTzaddik / #62 / Jan 20, 2019
+- [[sources/chaburas-yosef-hatzaddik/063-chaburah-yosef-hatzadik-63-a-jew-is-always-circumcised|Chaburah Yosef HaTzadik (63) A Jew Is Always Circumcised]] - Chaburas Yosef HaTzaddik / #63 / Feb 03, 2019
+- [[sources/chaburas-yosef-hatzaddik/064-chaburah-yosef-hatzadik-64-is-my-life-real-or-a-purim-shpiel|Chaburah Yosef HaTzadik (64) Is My Life Real or a Purim Shpiel]] - Chaburas Yosef HaTzaddik / #64 / Feb 10, 2019
+- [[sources/chaburas-yosef-hatzaddik/065-chaburah-yosef-hatzadik-65-esav-s-sincerity-fill-me-up-with-this-world|Chaburah Yosef HaTzadik (65) Esav's Sincerity, Fill Me Up With This World]] - Chaburas Yosef HaTzaddik / #65 / Feb 24, 2019
+- [[sources/chaburas-yosef-hatzaddik/066-chaburah-yosef-hatzadik-66-identity-every-jew-is-a-shomer-habris|Chaburah Yosef HaTzadik (66) Identity - Every Jew Is a Shomer Habris]] - Chaburas Yosef HaTzaddik / #66 / Mar 03, 2019
+- [[sources/chaburas-yosef-hatzaddik/067-chaburah-yosef-hatzadik-67-a-jew-has-to-always-act-like-royalty|Chaburah Yosef HaTzadik (67) A Jew Has To Always Act Like Royalty]] - Chaburas Yosef HaTzaddik / #67 / Mar 10, 2019
+- [[sources/chaburas-yosef-hatzaddik/068-chaburah-yosef-hatzadik-68-amalek-survival-101-yiddishkeit-on-fire|Chaburah Yosef HaTzadik (68) Amalek Survival 101 - Yiddishkeit On Fire]] - Chaburas Yosef HaTzaddik / #68 / Mar 17, 2019
+- [[sources/chaburas-yosef-hatzaddik/069-chaburah-yosef-hatzadik-69-is-it-possible-to-go-back-into-gan-eden|Chaburah Yosef HaTzadik (69) Is It Possible To Go Back Into Gan Eden]] - Chaburas Yosef HaTzaddik / #69 / Mar 24, 2019
+- [[sources/chaburas-yosef-hatzaddik/070-chaburah-yosef-hatzadik-70-our-avoda-outside-of-gan-eden|Chaburah Yosef HaTzadik (70) Our Avoda Outside Of Gan Eden]] - Chaburas Yosef HaTzaddik / #70 / Apr 07, 2019
+- [[sources/chaburas-yosef-hatzaddik/071-chaburah-yosef-hatzadik-71-accepting-that-it-was-predestined|Chaburah Yosef HaTzadik (71) Accepting That It Was Predestined]] - Chaburas Yosef HaTzaddik / #71 / May 05, 2019
+- [[sources/chaburas-yosef-hatzaddik/072-chaburah-yosef-hatzadik-72-it-s-all-about-winning-in-the-moment|Chaburah Yosef HaTzadik (72) It's All About Winning In The Moment]] - Chaburas Yosef HaTzaddik / #72 / May 12, 2019
+- [[sources/chaburas-yosef-hatzaddik/073-chaburah-yosef-hatzadik-73-yes-i-failed-but-i-m-still-yosef|Chaburah Yosef HaTzadik (73) Yes I Failed But I'm Still Yosef]] - Chaburas Yosef HaTzaddik / #73 / May 19, 2019
+- [[sources/chaburas-yosef-hatzaddik/074-chaburah-yosef-hatzadik-74-in-the-belly-of-the-fish-hashem-doesn-t-laugh|Chaburah Yosef HaTzadik (74) In the Belly of the Fish, Hashem Doesn't Laugh]] - Chaburas Yosef HaTzaddik / #74 / Jun 16, 2019
+- [[sources/chaburas-yosef-hatzaddik/075-chaburah-yosef-hatzadik-75-no-such-thing-as-a-bad-jew|Chaburah Yosef HaTzadik (75) No Such Thing as a Bad Jew]] - Chaburas Yosef HaTzaddik / #75 / Jun 23, 2019
+- [[sources/chaburas-yosef-hatzaddik/076-chaburah-yosef-hatzadik-76-bittersweet-our-paradoxical-generation|Chaburah Yosef HaTzadik (76) Bittersweet - Our Paradoxical Generation]] - Chaburas Yosef HaTzaddik / #76 / Sep 08, 2019
+- [[sources/chaburas-yosef-hatzaddik/077-chaburah-yosef-hatzadik-77-unlocking-the-mystery-of-the-generation|Chaburah Yosef HaTzadik (77) Unlocking the Mystery of the Generation]] - Chaburas Yosef HaTzaddik / #77 / Sep 15, 2019
+- [[sources/chaburas-yosef-hatzaddik/078-chaburah-yosef-hatzadik-78-a-generation-emanating-from-the-heels-of-adam-harishon|Chaburah Yosef HaTzadik (78) A Generation Emanating From The Heels Of Adam Harishon]] - Chaburas Yosef HaTzaddik / #78 / Sep 22, 2019
+- [[sources/chaburas-yosef-hatzaddik/079-chaburah-yosef-hatzadik-79-hashem-desires-to-dwell-in-our-low-world|Chaburah Yosef HaTzadik (79) Hashem Desires to Dwell in Our Low World]] - Chaburas Yosef HaTzaddik / #79 / Nov 10, 2019
+- [[sources/chaburas-yosef-hatzaddik/080-chaburah-yosef-hatzadik-80-the-lower-worlds-contain-more-of-hashem-s-presence|Chaburah Yosef HaTzadik (80) The Lower Worlds Contain More of Hashem's Presence]] - Chaburas Yosef HaTzaddik / #80 / Nov 17, 2019
+- [[sources/chaburas-yosef-hatzaddik/081-chaburah-yosef-hatzadik-81-revealing-hashem-s-light-in-the-darkest-places|Chaburah Yosef HaTzadik (81) Revealing Hashem's Light In the Darkest Places]] - Chaburas Yosef HaTzaddik / #81 / Nov 24, 2019
+- [[sources/chaburas-yosef-hatzaddik/082-chaburah-yosef-hatzadik-82-today-s-generation-higher-than-dor-hamidbar|Chaburah Yosef HaTzadik (82) Today's Generation Higher Than Dor Hamidbar]] - Chaburas Yosef HaTzaddik / #82 / Dec 08, 2019
+- [[sources/chaburas-yosef-hatzaddik/083-chaburah-yosef-hatzadik-83-finally-placing-the-jewel-in-the-crown|Chaburah Yosef HaTzadik (83) Finally Placing The Jewel in the Crown]] - Chaburas Yosef HaTzaddik / #83 / Dec 15, 2019
+- [[sources/chaburas-yosef-hatzaddik/084-chaburah-yosef-hatzadik-84-the-deepest-light-revealed-in-the-lowest-places|Chaburah Yosef HaTzadik (84) The Deepest Light Revealed In the Lowest Places]] - Chaburas Yosef HaTzaddik / #84 / Dec 22, 2019
+- [[sources/chaburas-yosef-hatzaddik/085-chaburah-yosef-hatzadik-85-to-bring-forth-precious-from-worthless|Chaburah Yosef HaTzadik (85) To Bring Forth Precious From Worthless]] - Chaburas Yosef HaTzaddik / #85 / Dec 29, 2019
+- [[sources/chaburas-yosef-hatzaddik/086-chaburah-yosef-hatzadik-86-in-the-deepest-darkness-moshiach-s-generation|Chaburah Yosef HaTzadik (86) In The Deepest Darkness - Moshiach's Generation]] - Chaburas Yosef HaTzaddik / #86 / Jan 05, 2020
+- [[sources/chaburas-yosef-hatzaddik/087-chaburah-yosef-hatzadik-87-last-generations-at-the-bottom-of-the-barrel|Chaburah Yosef HaTzadik (87) Last Generations At the Bottom of the Barrel]] - Chaburas Yosef HaTzaddik / #87 / Jan 19, 2020
+- [[sources/chaburas-yosef-hatzaddik/088-chaburah-yosef-hatzadik-88-the-most-beloved-generation|Chaburah Yosef HaTzadik (88) The Most Beloved Generation]] - Chaburas Yosef HaTzaddik / #88 / Feb 23, 2020
+- [[sources/chaburas-yosef-hatzaddik/089-chaburah-yosef-hatzadik-89-the-tainted-rose-will-be-pure-again|Chaburah Yosef HaTzadik (89) The Tainted Rose Will Be Pure Again]] - Chaburas Yosef HaTzaddik / #89 / Mar 01, 2020
+- [[sources/chaburas-yosef-hatzaddik/090-chaburah-yosef-hatzadik-90-behind-enemy-lines-part-1|Chaburah Yosef HaTzadik (90) Behind Enemy Lines (Part 1)]] - Chaburas Yosef HaTzaddik / #90 / Mar 08, 2020
+- [[sources/chaburas-yosef-hatzaddik/091-chaburah-yosef-hatzadik-91-behind-enemy-lines-part-2|Chaburah Yosef HaTzadik (91) Behind Enemy Lines (Part 2)]] - Chaburas Yosef HaTzaddik / #91 / Mar 29, 2020
+- [[sources/chaburas-yosef-hatzaddik/092-chaburah-yosef-hatzadik-92-hashem-s-beautiful-warriors|Chaburah Yosef HaTzadik (92) Hashem's Beautiful Warriors]] - Chaburas Yosef HaTzaddik / #92 / Apr 19, 2020
+- [[sources/chaburas-yosef-hatzaddik/093-chaburah-yosef-hatzadik-93-yesod-s-mission-to-egypt-through-the-awakening-of-tiferes|Chaburah Yosef HaTzadik (93) Yesod's Mission To Egypt - Through The Awakening of Tiferes]] - Chaburas Yosef HaTzaddik / #93 / Apr 26, 2020
+- [[sources/chaburas-yosef-hatzaddik/094-chaburah-yosef-hatzadik-94-the-final-redemption-getting-everyone-on-board|Chaburah Yosef HaTzadik (94) The Final Redemption - Getting Everyone On Board]] - Chaburas Yosef HaTzaddik / #94 / May 03, 2020
+- [[sources/chaburas-yosef-hatzaddik/095-chaburah-yosef-hatzadik-95-during-pekidah-restrained-souls-are-infused-with-the-light-of-moshiach|Chaburah Yosef HaTzadik (95) During Pekidah Restrained Souls Are Infused with The Light of Moshiach]] - Chaburas Yosef HaTzaddik / #95 / May 10, 2020
+- [[sources/chaburas-yosef-hatzaddik/096-chaburah-yosef-hatzadik-96-undercover-agents-who-infiltrate-exile-to-eliminate-the-snake|Chaburah Yosef HaTzadik (96) Undercover Agents Who Infiltrate Exile to Eliminate the Snake]] - Chaburas Yosef HaTzaddik / #96 / May 24, 2020
+- [[sources/chaburas-yosef-hatzaddik/097-chaburah-yosef-hatzadik-97-each-jew-on-their-very-own-mission|Chaburah Yosef HaTzadik (97) Each Jew On Their Very Own Mission]] - Chaburas Yosef HaTzaddik / #97 / May 31, 2020
+- [[sources/chaburas-yosef-hatzaddik/098-chaburah-yosef-hatzadik-98-appreciating-the-concealed-beautiful-world-of-teshuvah|Chaburah Yosef HaTzadik (98) Appreciating The Concealed Beautiful World of Teshuvah]] - Chaburas Yosef HaTzaddik / #98 / Jun 07, 2020
+- [[sources/chaburas-yosef-hatzaddik/099-chaburah-yosef-hatzadik-99-imperfect-kids-produce-the-most-precious-innovations|Chaburah Yosef HaTzadik (99) Imperfect Kids Produce The Most Precious Innovations]] - Chaburas Yosef HaTzaddik / #99 / Jun 14, 2020
+- [[sources/chaburas-yosef-hatzaddik/100-chaburah-yosef-hatzadik-100-it-is-possible-to-fix-laws-of-shmiras-habris-1|Chaburah Yosef HaTzadik (100) It Is Possible To Fix - Laws of Shmiras Habris #1]] - Chaburas Yosef HaTzaddik / #100 / Jun 21, 2020
+- [[sources/chaburas-yosef-hatzaddik/101-chaburah-yosef-hatzadik-101-laws-of-shmiras-habris-2|Chaburah Yosef HaTzadik (101) Laws of Shmiras Habris #2]] - Chaburas Yosef HaTzaddik / #101 / Jun 28, 2020
+- [[sources/chaburas-yosef-hatzaddik/102-chaburah-yosef-hatzadik-102-laws-of-shmiras-habris-3|Chaburah Yosef HaTzadik (102) Laws of Shmiras Habris #3]] - Chaburas Yosef HaTzaddik / #102 / Jul 05, 2020
+- [[sources/chaburas-yosef-hatzaddik/103-chaburah-yosef-hatzadik-103-laws-of-shmiras-habris-4|Chaburah Yosef HaTzadik (103) Laws of Shmiras Habris #4]] - Chaburas Yosef HaTzaddik / #103 / Jul 12, 2020
+- [[sources/chaburas-yosef-hatzaddik/104-chaburah-yosef-hatzadik-104-laws-of-shmiras-habris-5|Chaburah Yosef HaTzadik (104) Laws of Shmiras Habris #5]] - Chaburas Yosef HaTzaddik / #104 / Jul 19, 2020
+- [[sources/chaburas-yosef-hatzaddik/105-chaburah-yosef-hatzadik-105-laws-of-shmiras-habris-6|Chaburah Yosef HaTzadik (105) Laws of Shmiras Habris #6]] - Chaburas Yosef HaTzaddik / #105 / Jul 26, 2020
+- [[sources/chaburas-yosef-hatzaddik/106-chaburah-yosef-hatzadik-106-laws-of-shmiras-habris-7|Chaburah Yosef HaTzadik (106) Laws of Shmiras Habris #7]] - Chaburas Yosef HaTzaddik / #106 / Aug 16, 2020
+- [[sources/chaburas-yosef-hatzaddik/107-chaburah-yosef-hatzadik-107-laws-of-shmiras-habris-8|Chaburah Yosef HaTzadik (107) Laws of Shmiras Habris #8]] - Chaburas Yosef HaTzaddik / #107 / Sep 06, 2020
+- [[sources/chaburas-yosef-hatzaddik/108-chaburah-yosef-hatzadik-108-tikkunim-of-shmiras-habris-1|Chaburah Yosef HaTzadik (108) Tikkunim of Shmiras Habris #1]] - Chaburas Yosef HaTzaddik / #108 / Sep 13, 2020
+- [[sources/chaburas-yosef-hatzaddik/109-chaburah-yosef-hatzadik-109-tikkunim-of-shmiras-habris-2|Chaburah Yosef HaTzadik (109) Tikkunim of Shmiras Habris #2]] - Chaburas Yosef HaTzaddik / #109 / Oct 18, 2020
+- [[sources/chaburas-yosef-hatzaddik/110-chaburah-yosef-hatzadik-110-tikkunim-of-shmiras-habris-3|Chaburah Yosef HaTzadik (110) Tikkunim of Shmiras Habris #3]] - Chaburas Yosef HaTzaddik / #110 / Oct 25, 2020
+- [[sources/chaburas-yosef-hatzaddik/111-chaburah-yosef-hatzadik-111-containing-energy-of-tohu-into-vessels-of-tikkun|Chaburah Yosef HaTzadik (111) Containing Energy of Tohu Into Vessels of Tikkun]] - Chaburas Yosef HaTzaddik / #111 / Nov 01, 2020
+- [[sources/chaburas-yosef-hatzaddik/112-chaburah-yosef-hatzadik-112-yesod-appropriate-and-effective-communication|Chaburah Yosef HaTzadik (112) Yesod - Appropriate and Effective Communication]] - Chaburas Yosef HaTzaddik / #112 / Nov 08, 2020
+- [[sources/chaburas-yosef-hatzaddik/113-chaburah-yosef-hatzadik-113-in-control-of-your-energy-having-a-healthy-balance|Chaburah Yosef HaTzadik (113) In Control of Your Energy, Having a Healthy Balance]] - Chaburas Yosef HaTzaddik / #113 / Nov 15, 2020
+- [[sources/chaburas-yosef-hatzaddik/114-chaburah-yosef-hatzadik-114-shalom-aligning-opposites-the-golden-trait-of-yesod|Chaburah Yosef HaTzadik (114) Shalom - Aligning Opposites, The Golden Trait of Yesod]] - Chaburas Yosef HaTzaddik / #114 / Nov 22, 2020
+- [[sources/chaburas-yosef-hatzaddik/115-chaburah-yosef-hatzadik-115-restraint-and-balance-becoming-a-master-of-focus|Chaburah Yosef HaTzadik (115) Restraint and Balance - Becoming a Master of Focus]] - Chaburas Yosef HaTzaddik / #115 / Nov 29, 2020
+- [[sources/chaburas-yosef-hatzaddik/116-chaburah-yosef-hatzadik-116-having-a-constant-thirst-for-hashem|Chaburah Yosef HaTzadik (116) Having a Constant Thirst for Hashem]] - Chaburas Yosef HaTzaddik / #116 / Dec 06, 2020
+- [[sources/chaburas-yosef-hatzaddik/117-chaburah-yosef-hatzadik-117-from-dream-to-reality-thirsting-for-hashem-in-the-darkest-exile|Chaburah Yosef HaTzadik (117) From Dream to Reality - Thirsting for Hashem in the Darkest Exile]] - Chaburas Yosef HaTzaddik / #117 / Dec 20, 2020
+- [[sources/chaburas-yosef-hatzaddik/118-chaburah-yosef-hatzadik-118-the-tzadik-s-fire-that-consumes-all-other-fires|Chaburah Yosef HaTzadik (118) The Tzadik's Fire that Consumes all other Fires]] - Chaburas Yosef HaTzaddik / #118 / Jan 03, 2021
+- [[sources/chaburas-yosef-hatzaddik/119-chaburah-yosef-hatzadik-119-staying-fixed-on-your-central-path-of-choice|Chaburah Yosef HaTzadik (119) Staying Fixed on Your Central Path of Choice]] - Chaburas Yosef HaTzaddik / #119 / Jan 10, 2021
+- [[sources/chaburas-yosef-hatzaddik/120-chaburah-yosef-hatzadik-120-focusing-on-the-content-not-on-the-container|Chaburah Yosef HaTzadik (120) Focusing On The Content Not On The Container]] - Chaburas Yosef HaTzaddik / #120 / Jan 17, 2021
+- [[sources/chaburas-yosef-hatzaddik/121-chaburah-yosef-hatzadik-121-weighing-life-decisions-on-our-internal-scale-of-yesod|Chaburah Yosef HaTzadik (121) Weighing Life Decisions On Our Internal Scale of Yesod]] - Chaburas Yosef HaTzaddik / #121 / Feb 14, 2021
+- [[sources/chaburas-yosef-hatzaddik/122-chaburah-yosef-hatzadik-122-using-clarity-of-daas-to-calibrate-the-scale-of-yesod|Chaburah Yosef HaTzadik (122) Using Clarity of Daas to Calibrate The Scale of Yesod]] - Chaburas Yosef HaTzaddik / #122 / Feb 21, 2021
+- [[sources/chaburas-yosef-hatzaddik/123-chaburah-yosef-hatzadik-123-priorities-in-life-according-to-the-scale-of-yesod|Chaburah Yosef HaTzadik (123) Priorities In Life According to the Scale of Yesod]] - Chaburas Yosef HaTzaddik / #123 / Feb 28, 2021
+- [[sources/chaburas-yosef-hatzaddik/124-chaburah-yosef-hatzadik-124-the-ten-step-process-from-potential-to-actual|Chaburah Yosef HaTzadik (124) The Ten-Step Process From Potential To Actual]] - Chaburas Yosef HaTzaddik / #124 / Mar 07, 2021
+- [[sources/chaburas-yosef-hatzaddik/125-chaburah-yosef-hatzadik-125-an-ish-matzliach-stays-focused-on-the-goal-of-life|Chaburah Yosef HaTzadik (125) An Ish Matzliach Stays Focused on the Goal of Life]] - Chaburas Yosef HaTzaddik / #125 / Apr 11, 2021
+- [[sources/chaburas-yosef-hatzaddik/126-chaburah-yosef-hatzadik-126-disconnected-and-out-of-balance|Chaburah Yosef HaTzadik (126) Disconnected and Out of Balance]] - Chaburas Yosef HaTzaddik / #126 / Apr 18, 2021
+- [[sources/chaburas-yosef-hatzaddik/127-chaburah-yosef-hatzadik-127-growing-up-with-an-organized-structure|Chaburah Yosef HaTzadik (127) Growing Up with an Organized Structure]] - Chaburas Yosef HaTzaddik / #127 / Apr 25, 2021
+- [[sources/chaburas-yosef-hatzaddik/128-chaburah-yosef-hatzadik-128-being-a-foundational-person|Chaburah Yosef HaTzadik (128) Being a Foundational Person]] - Chaburas Yosef HaTzaddik / #128 / May 02, 2021
+- [[sources/chaburas-yosef-hatzaddik/129-chaburah-yosef-hatzadik-129-business-approach-torah-learning-by-an-ish-yesodi|Chaburah Yosef HaTzadik (129) Business Approach & Torah Learning By An Ish Yesodi]] - Chaburas Yosef HaTzaddik / #129 / May 09, 2021
+- [[sources/chaburas-yosef-hatzaddik/130-chaburah-yosef-hatzadik-130-living-a-connected-grounded-yiddishkeit|Chaburah Yosef HaTzadik (130) Living a Connected Grounded Yiddishkeit]] - Chaburas Yosef HaTzaddik / #130 / May 23, 2021
+- [[sources/chaburas-yosef-hatzaddik/131-chaburah-yosef-hatzadik-131-the-fundamental-approach-to-torah-learning|Chaburah Yosef HaTzadik (131) The Fundamental Approach To Torah Learning]] - Chaburas Yosef HaTzaddik / #131 / May 30, 2021
+- [[sources/chaburas-yosef-hatzaddik/132-chaburah-yosef-hatzadik-132-the-significance-of-being-connected-to-a-place|Chaburah Yosef HaTzadik (132) The Significance of Being Connected to a Place]] - Chaburas Yosef HaTzaddik / #132 / Jun 13, 2021
+- [[sources/chaburas-yosef-hatzaddik/133-chaburah-yosef-hatzadik-133-consistent-connected-and-on-time|Chaburah Yosef HaTzadik (133) Consistent, Connected and On Time]] - Chaburas Yosef HaTzaddik / #133 / Jun 20, 2021
+- [[sources/chaburas-yosef-hatzaddik/134-chaburah-yosef-hatzadik-134-constant-renewal-of-emunah|Chaburah Yosef HaTzadik (134) Constant Renewal of Emunah]] - Chaburas Yosef HaTzaddik / #134 / Oct 03, 2021
+- [[sources/chaburas-yosef-hatzaddik/135-chaburah-yosef-hatzadik-135-nothing-exists-outside-of-this-moment|Chaburah Yosef HaTzadik (135) Nothing Exists Outside Of This Moment]] - Chaburas Yosef HaTzaddik / #135 / Oct 10, 2021
+- [[sources/chaburas-yosef-hatzaddik/136-chaburah-yosef-hatzadik-136-hiskashrus-living-with-a-strong-connection|Chaburah Yosef HaTzadik (136) Hiskashrus - Living With a Strong Connection]] - Chaburas Yosef HaTzaddik / #136 / Oct 17, 2021
+- [[sources/chaburas-yosef-hatzaddik/137-chaburah-yosef-hatzadik-137-developing-a-strong-kesher-with-kids-and-students|Chaburah Yosef HaTzadik (137) Developing a Strong Kesher with Kids and Students]] - Chaburas Yosef HaTzaddik / #137 / Oct 24, 2021
+- [[sources/chaburas-yosef-hatzaddik/138-chaburah-yosef-hatzadik-138-centrality-of-yesod-to-keep-our-lives-real|Chaburah Yosef HaTzadik (138) Centrality of Yesod To Keep Our Lives Real]] - Chaburas Yosef HaTzaddik / #138 / Nov 07, 2021
+- [[sources/chaburas-yosef-hatzaddik/139-chaburah-yosef-hatzadik-139-the-missing-ingredient-in-our-yeshiva-system|Chaburah Yosef HaTzadik (139) The Missing Ingredient In Our Yeshiva System]] - Chaburas Yosef HaTzaddik / #139 / Nov 14, 2021
+- [[sources/chaburas-yosef-hatzaddik/140-chaburah-yosef-hatzadik-140-a-person-living-with-yesod-is-not-distracted-by-illusions|Chaburah Yosef HaTzadik (140) A Person Living With Yesod, Is Not Distracted By Illusions]] - Chaburas Yosef HaTzaddik / #140 / Nov 28, 2021
+- [[sources/chaburas-yosef-hatzaddik/141-chaburah-yosef-hatzadik-141-no-distractions-staying-on-course-at-all-time|Chaburah Yosef HaTzadik (141) No Distractions - Staying On Course At All Time]] - Chaburas Yosef HaTzaddik / #141 / Dec 05, 2021
+- [[sources/chaburas-yosef-hatzaddik/142-chaburah-yosef-hatzadik-142-intently-and-always-connected-to-the-goal|Chaburah Yosef HaTzadik (142) Intently and Always Connected To The Goal]] - Chaburas Yosef HaTzaddik / #142 / Dec 12, 2021
+- [[sources/chaburas-yosef-hatzaddik/143-chaburah-yosef-hatzadik-143-having-a-powerful-connection-to-holiness|Chaburah Yosef HaTzadik (143) Having a Powerful Connection To Holiness]] - Chaburas Yosef HaTzaddik / #143 / Dec 26, 2021
+- [[sources/chaburas-yosef-hatzaddik/144-chaburah-yosef-hatzadik-144-living-life-not-just-surviving|Chaburah Yosef HaTzadik (144) Living Life Not Just Surviving]] - Chaburas Yosef HaTzaddik / #144 / Jan 02, 2022
+- [[sources/chaburas-yosef-hatzaddik/145-chaburah-yosef-hatzadik-145-the-challenge-always-begins-now|Chaburah Yosef HaTzadik (145) The Challenge Always Begins Now]] - Chaburas Yosef HaTzaddik / #145 / Jan 09, 2022
+- [[sources/chaburas-yosef-hatzaddik/146-chaburah-yosef-hatzadik-146-the-ability-to-discern-depends-on-a-strong-foundation|Chaburah Yosef HaTzadik (146) The Ability to Discern Depends On a Strong Foundation]] - Chaburas Yosef HaTzaddik / #146 / Jan 16, 2022
+- [[sources/chaburas-yosef-hatzaddik/147-chaburah-yosef-hatzadik-147-living-a-zevulun-diga-life-is-lekatchila|Chaburah Yosef HaTzadik (147) Living a Zevulun'diga Life Is Lekatchila]] - Chaburas Yosef HaTzaddik / #147 / Jan 30, 2022
+- [[sources/chaburas-yosef-hatzaddik/148-chaburah-yosef-hatzadik-148-living-in-two-places-at-the-same-time|Chaburah Yosef HaTzadik (148) Living In Two Places At the Same Time]] - Chaburas Yosef HaTzaddik / #148 / Feb 06, 2022
+- [[sources/chaburas-yosef-hatzaddik/149-chaburah-yosef-hatzadik-149-you-are-who-you-praise|Chaburah Yosef HaTzadik (149) You Are Who You Praise]] - Chaburas Yosef HaTzaddik / #149 / Feb 13, 2022
+- [[sources/chaburas-yosef-hatzaddik/150-chaburah-yosef-hatzadik-150-what-is-most-important-in-your-life|Chaburah Yosef HaTzadik (150) What Is Most Important In Your Life]] - Chaburas Yosef HaTzaddik / #150 / Feb 20, 2022
+- [[sources/chaburas-yosef-hatzaddik/151-chaburah-yosef-hatzadik-151-your-perspective-is-your-essence|Chaburah Yosef HaTzadik (151) Your Perspective Is Your Essence]] - Chaburas Yosef HaTzaddik / #151 / Mar 13, 2022
+- [[sources/chaburas-yosef-hatzaddik/152-chaburah-yosef-hatzadik-152-ah-mechayeh-what-brings-you-liveliness|Chaburah Yosef HaTzadik (152) Ah Mechayeh! What Brings You Liveliness]] - Chaburas Yosef HaTzaddik / #152 / Mar 20, 2022
+- [[sources/chaburas-yosef-hatzaddik/153-chaburah-yosef-hatzadik-153-being-alive-with-yiddishkeit|Chaburah Yosef HaTzadik (153) Being Alive With Yiddishkeit]] - Chaburas Yosef HaTzaddik / #153 / Apr 03, 2022
+- [[sources/chaburas-yosef-hatzaddik/154-chaburah-yosef-hatzadik-154-guard-of-the-bris-the-essence-of-a-jew|Chaburah Yosef HaTzadik (154) Guard of The Bris - The Essence of a Jew]] - Chaburas Yosef HaTzaddik / #154 / May 01, 2022
+- [[sources/chaburas-yosef-hatzaddik/155-chaburah-yosef-hatzadik-155-all-jews-are-inherently-good|Chaburah Yosef HaTzadik (155) All Jews Are Inherently Good]] - Chaburas Yosef HaTzaddik / #155 / May 08, 2022
+- [[sources/chaburas-yosef-hatzaddik/156-chaburah-yosef-hatzadik-156-locating-our-lost-self|Chaburah Yosef HaTzadik (156) Locating Our Lost Self]] - Chaburas Yosef HaTzaddik / #156 / May 15, 2022
+- [[sources/chaburas-yosef-hatzaddik/157-chaburah-yosef-hatzadik-157-a-jew-can-never-walk-away-from-hashem|Chaburah Yosef HaTzadik (157) A Jew Can Never Walk Away From Hashem]] - Chaburas Yosef HaTzaddik / #157 / May 22, 2022
+- [[sources/chaburas-yosef-hatzaddik/158-chaburah-yosef-hatzadik-158-the-connection-between-us-and-hashem-runs-very-deep|Chaburah Yosef HaTzadik (158) The Connection Between Us and Hashem Runs Very Deep]] - Chaburas Yosef HaTzaddik / #158 / May 29, 2022
+- [[sources/chaburas-yosef-hatzaddik/159-chaburah-yosef-hatzadik-159-yosef-the-rebbe-of-all-the-wicked|Chaburah Yosef HaTzadik (159) Yosef The Rebbe of All The Wicked]] - Chaburas Yosef HaTzaddik / #159 / Sep 11, 2022
+- [[sources/chaburas-yosef-hatzaddik/160-chaburah-yosef-hatzadik-160-revealing-divine-presence-in-the-darkest-places|Chaburah Yosef HaTzadik (160) Revealing Divine Presence In The Darkest Places]] - Chaburas Yosef HaTzaddik / #160 / Sep 18, 2022
+- [[sources/chaburas-yosef-hatzaddik/161-chaburah-yosef-hatzadik-161-the-beinoni-s-constant-struggle|Chaburah Yosef HaTzadik (161) The Beinoni's Constant Struggle]] - Chaburas Yosef HaTzaddik / #161 / Oct 23, 2022
+- [[sources/chaburas-yosef-hatzaddik/162-chaburah-yosef-hatzadik-162-the-beinoni-draws-down-a-higher-level-of-godliness|Chaburah Yosef HaTzadik (162) The Beinoni Draws Down a Higher Level of Godliness]] - Chaburas Yosef HaTzaddik / #162 / Oct 30, 2022
+- [[sources/chaburas-yosef-hatzaddik/163-chaburah-yosef-hatzadik-163-our-daily-yom-kippur-avodah|Chaburah Yosef HaTzadik (163) Our Daily Yom Kippur Avodah]] - Chaburas Yosef HaTzaddik / #163 / Nov 06, 2022
+- [[sources/chaburas-yosef-hatzaddik/164-chaburah-yosef-hatzadik-164-first-step-in-avodas-hashem-purifying-the-eyes|Chaburah Yosef HaTzadik (164) First Step In Avodas Hashem - Purifying The Eyes]] - Chaburas Yosef HaTzaddik / #164 / Nov 27, 2022
+- [[sources/chaburas-yosef-hatzaddik/165-chaburah-yosef-hatzadik-165-having-beautiful-pure-eyes|Chaburah Yosef HaTzadik (165) Having Beautiful Pure Eyes]] - Chaburas Yosef HaTzaddik / #165 / Dec 11, 2022
+- [[sources/chaburas-yosef-hatzaddik/166-chaburah-yosef-hatzadik-166-reuven-s-eyes-saving-the-child-within|Chaburah Yosef HaTzadik (166) Reuven's Eyes Saving The Child Within]] - Chaburas Yosef HaTzaddik / #166 / Dec 18, 2022
+- [[sources/chaburas-yosef-hatzaddik/167-chaburah-yosef-hatzadik-167-constant-elevation-of-the-eyes|Chaburah Yosef HaTzadik (167) Constant Elevation of The Eyes]] - Chaburas Yosef HaTzaddik / #167 / Jan 01, 2023
+- [[sources/chaburas-yosef-hatzaddik/168-chaburah-yosef-hatzadik-168-leaving-mitzrayim-on-a-daily-basis|Chaburah Yosef HaTzadik (168) Leaving Mitzrayim On a Daily Basis]] - Chaburas Yosef HaTzaddik / #168 / Jan 08, 2023
+- [[sources/chaburas-yosef-hatzaddik/169-chaburah-yosef-hatzadik-169-lifting-up-our-eyes-in-purity|Chaburah Yosef HaTzadik (169) Lifting Up Our Eyes In Purity]] - Chaburas Yosef HaTzaddik / #169 / Jan 15, 2023
+- [[sources/chaburas-yosef-hatzaddik/170-chaburah-yosef-hatzadik-170-sparkling-clean-windows-of-the-soul|Chaburah Yosef HaTzadik (170) Sparkling Clean Windows of The Soul]] - Chaburas Yosef HaTzaddik / #170 / Jan 22, 2023
+- [[sources/chaburas-yosef-hatzaddik/171-chaburah-yosef-hatzadik-171-anticipating-the-future-with-a-fire|Chaburah Yosef HaTzadik (171) Anticipating the Future with a Fire]] - Chaburas Yosef HaTzaddik / #171 / Feb 05, 2023
+- [[sources/chaburas-yosef-hatzaddik/172-chaburah-yosef-hatzadik-172-clear-vision-and-pure-longing|Chaburah Yosef HaTzadik (172) Clear Vision and Pure Longing]] - Chaburas Yosef HaTzaddik / #172 / Feb 12, 2023
+- [[sources/chaburas-yosef-hatzaddik/173-chaburah-yosef-hatzadik-173-living-with-an-elevated-vision|Chaburah Yosef HaTzadik (173) Living With An Elevated Vision]] - Chaburas Yosef HaTzaddik / #173 / Feb 19, 2023
+- [[sources/chaburas-yosef-hatzaddik/174-chaburah-yosef-hatzadik-174-elevating-our-internal-eyes-not-just-external-guarding|Chaburah Yosef HaTzadik (174) Elevating Our Internal Eyes Not Just External Guarding]] - Chaburas Yosef HaTzaddik / #174 / Feb 26, 2023
+- [[sources/chaburas-yosef-hatzaddik/175-chaburah-yosef-hatzadik-175-seeing-the-higher-world-now|Chaburah Yosef HaTzadik (175) Seeing The Higher World Now]] - Chaburas Yosef HaTzaddik / #175 / Mar 12, 2023
+- [[sources/chaburas-yosef-hatzaddik/176-chaburah-yosef-hatzadik-176-soaring-high-with-eagle-s-wings-of-tzitzis|Chaburah Yosef HaTzadik (176) Soaring High with Eagle's Wings of Tzitzis]] - Chaburas Yosef HaTzaddik / #176 / Mar 19, 2023
+- [[sources/chaburas-yosef-hatzaddik/177-chaburah-yosef-hatzadik-177-stop-living-in-the-past|Chaburah Yosef HaTzadik (177) Stop Living in the Past]] - Chaburas Yosef HaTzaddik / #177 / Apr 23, 2023
+- [[sources/chaburas-yosef-hatzaddik/178-chaburah-yosef-hatzadik-178-every-little-effort-has-tremendous-worth|Chaburah Yosef HaTzadik (178) Every Little Effort Has Tremendous Worth]] - Chaburas Yosef HaTzaddik / #178 / Apr 30, 2023
+- [[sources/chaburas-yosef-hatzaddik/179-chaburah-yosef-hatzadik-179-taking-charge-through-belief-in-constant-renewal|Chaburah Yosef HaTzadik (179) Taking Charge Through Belief In Constant Renewal]] - Chaburas Yosef HaTzaddik / #179 / May 07, 2023
+- [[sources/chaburas-yosef-hatzaddik/180-chaburah-yosef-hatzadik-180-blinded-by-sight|Chaburah Yosef HaTzadik (180) Blinded by Sight]] - Chaburas Yosef HaTzaddik / #180 / May 28, 2023
+- [[sources/chaburas-yosef-hatzaddik/181-chaburah-yosef-hatzadik-181-coming-out-of-distraction|Chaburah Yosef HaTzadik (181) Coming Out of Distraction]] - Chaburas Yosef HaTzaddik / #181 / Sep 10, 2023
+- [[sources/chaburas-yosef-hatzaddik/182-chaburah-yosef-hatzadik-182-suffering-caused-by-yishmael|Chaburah Yosef HaTzadik (182) Suffering Caused by Yishmael]] - Chaburas Yosef HaTzaddik / #182 / Oct 15, 2023
+- [[sources/chaburas-yosef-hatzaddik/183-chaburah-yosef-hatzadik-183-the-polluted-waters-of-yishmael|Chaburah Yosef HaTzadik (183) The Polluted Waters of Yishmael]] - Chaburas Yosef HaTzaddik / #183 / Oct 22, 2023
+- [[sources/chaburas-yosef-hatzaddik/184-chaburah-yosef-hatzadik-184-an-eye-for-an-eye|Chaburah Yosef HaTzadik (184) An Eye for an Eye]] - Chaburas Yosef HaTzaddik / #184 / Oct 29, 2023
+- [[sources/chaburas-yosef-hatzaddik/185-chaburah-yosef-hatzadik-185-halachos-of-shemiras-einayim-part-1|Chaburah Yosef HaTzadik (185) Halachos of Shemiras Einayim - Part 1]] - Chaburas Yosef HaTzaddik / #185 / Nov 12, 2023
+- [[sources/chaburas-yosef-hatzaddik/186-chaburah-yosef-hatzadik-186-halachos-of-shemiras-einayim-part-2|Chaburah Yosef HaTzadik (186) Halachos of Shemiras Einayim - Part 2]] - Chaburas Yosef HaTzaddik / #186 / Nov 26, 2023
+- [[sources/chaburas-yosef-hatzaddik/187-chaburah-yosef-hatzadik-187-halachos-of-shemiras-einayim-part-3|Chaburah Yosef HaTzadik (187) Halachos of Shemiras Einayim - Part 3]] - Chaburas Yosef HaTzaddik / #187 / Dec 03, 2023
+- [[sources/chaburas-yosef-hatzaddik/188-chaburah-yosef-hatzadik-188-halachos-of-shemiras-einayim-part-4|Chaburah Yosef HaTzadik (188) Halachos of Shemiras Einayim - Part 4]] - Chaburas Yosef HaTzaddik / #188 / Dec 17, 2023
+- [[sources/chaburas-yosef-hatzaddik/189-chaburah-yosef-hatzadik-189-halachos-of-shemiras-einayim-part-5|Chaburah Yosef HaTzadik (189) Halachos of Shemiras Einayim - Part 5]] - Chaburas Yosef HaTzaddik / #189 / Dec 24, 2023
+- [[sources/chaburas-yosef-hatzaddik/190-chaburah-yosef-hatzadik-190-the-development-process-of-am-yisrael|Chaburah Yosef HaTzadik (190) The Development Process of Am Yisrael]] - Chaburas Yosef HaTzaddik / #190 / Dec 31, 2023
+- [[sources/chaburas-yosef-hatzaddik/191-chaburah-yosef-hatzadik-191-sustaining-with-restraint|Chaburah Yosef HaTzadik (191) Sustaining with Restraint]] - Chaburas Yosef HaTzaddik / #191 / Jan 07, 2024
+- [[sources/chaburas-yosef-hatzaddik/192-chaburah-yosef-hatzadik-192-measured-abundance-the-kindness-of-holding-back|Chaburah Yosef HaTzadik (192) Measured Abundance – The Kindness of Holding Back]] - Chaburas Yosef HaTzaddik / #192 / Jan 21, 2024
+- [[sources/chaburas-yosef-hatzaddik/193-chaburah-yosef-hatzadik-193-understanding-the-roots-of-evil|Chaburah Yosef HaTzadik (193) Understanding the Roots of Evil]] - Chaburas Yosef HaTzaddik / #193 / Feb 04, 2024
+- [[sources/chaburas-yosef-hatzaddik/194-chaburah-yosef-hatzadik-194-roots-of-evil-the-mind-s-eye|Chaburah Yosef HaTzadik (194) Roots of Evil - The Mind's Eye]] - Chaburas Yosef HaTzaddik / #194 / Feb 11, 2024
+- [[sources/chaburas-yosef-hatzaddik/195-chaburah-yosef-hatzadik-195-infinity-imposters-part-1|Chaburah Yosef HaTzadik (195) Infinity Imposters - Part 1]] - Chaburas Yosef HaTzaddik / #195 / Feb 18, 2024
+- [[sources/chaburas-yosef-hatzaddik/196-chaburah-yosef-hatzadik-196-infinity-imposters-part-2|Chaburah Yosef HaTzadik (196) Infinity Imposters - Part 2]] - Chaburas Yosef HaTzaddik / #196 / Feb 25, 2024
+- [[sources/chaburas-yosef-hatzaddik/197-chaburah-yosef-hatzadik-197-the-roots-of-artificial-intelligence|Chaburah Yosef HaTzadik (197) The Roots of Artificial Intelligence]] - Chaburas Yosef HaTzaddik / #197 / Mar 03, 2024
+- [[sources/chaburas-yosef-hatzaddik/198-chaburah-yosef-hatzadik-198-living-in-hashem-s-gravitational-orbit|Chaburah Yosef HaTzadik (198) Living in Hashem's Gravitational Orbit]] - Chaburas Yosef HaTzaddik / #198 / Mar 10, 2024
+- [[sources/chaburas-yosef-hatzaddik/199-chaburah-yosef-hatzadik-199-a-war-beyond-reason-and-intellect|Chaburah Yosef HaTzadik (199) A War Beyond Reason and Intellect]] - Chaburas Yosef HaTzaddik / #199 / Mar 17, 2024
+- [[sources/chaburas-yosef-hatzaddik/200-chaburah-yosef-hatzadik-200-advanced-weapons-for-advanced-wars|Chaburah Yosef HaTzadik (200) Advanced Weapons for Advanced Wars]] - Chaburas Yosef HaTzaddik / #200 / Mar 31, 2024
+- [[sources/chaburas-yosef-hatzaddik/201-chaburah-yosef-hatzadik-201-turning-inwards-towards-ein-sof|Chaburah Yosef HaTzadik (201) Turning Inwards Towards Ein Sof]] - Chaburas Yosef HaTzaddik / #201 / Apr 07, 2024
+- [[sources/chaburas-yosef-hatzaddik/202-chaburah-yosef-hatzadik-202-living-a-valuable-life-through-patience|Chaburah Yosef HaTzadik (202) Living a Valuable Life Through Patience]] - Chaburas Yosef HaTzaddik / #202 / Jun 02, 2024
+- [[sources/chaburas-yosef-hatzaddik/203-chaburah-yosef-hatzadik-203-holding-back-to-achieve-ultimate-pleasure|Chaburah Yosef HaTzadik (203) Holding Back to Achieve Ultimate Pleasure]] - Chaburas Yosef HaTzaddik / #203 / Jun 09, 2024
+- [[sources/chaburas-yosef-hatzaddik/204-chaburah-yosef-hatzadik-204-an-open-and-honest-conversation-with-our-sons|Chaburah Yosef HaTzadik (204) An Open and Honest Conversation With Our Sons]] - Chaburas Yosef HaTzaddik / #204 / Jun 16, 2024
+- [[sources/chaburas-yosef-hatzaddik/205-chaburah-yosef-hatzadik-205-a-foundational-education-for-the-sanctity-of-marriage|Chaburah Yosef HaTzadik (205) a Foundational Education for the Sanctity of Marriage]] - Chaburas Yosef HaTzaddik / #205 / Jun 23, 2024
+- [[sources/chaburas-yosef-hatzaddik/206-chaburah-yosef-hatzadik-206-the-call-for-choice-resulting-from-shame|Chaburah Yosef HaTzadik (206) The Call for Choice Resulting from Shame]] - Chaburas Yosef HaTzaddik / #206 / Jun 30, 2024
+- [[sources/chaburas-yosef-hatzaddik/207-chaburah-yosef-hatzadik-207-we-may-stumble-and-fall-but-we-rise-again|Chaburah Yosef HaTzadik (207) We May Stumble and Fall but We Rise Again]] - Chaburas Yosef HaTzaddik / #207 / Sep 08, 2024
+- [[sources/chaburas-yosef-hatzaddik/208-chaburah-yosef-hatzadik-208-struggling-is-winning|Chaburah Yosef HaTzadik (208) Struggling Is Winning]] - Chaburas Yosef HaTzaddik / #208 / Sep 15, 2024
+- [[sources/chaburas-yosef-hatzaddik/209-chaburah-yosef-hatzadik-209-emunah-never-letting-go|Chaburah Yosef HaTzadik (209) Emunah, Never Letting Go]] - Chaburas Yosef HaTzaddik / #209 / Sep 22, 2024
+- [[sources/chaburas-yosef-hatzaddik/210-chaburah-yosef-hatzadik-210-being-a-trustworthy-person|Chaburah Yosef HaTzadik (210) Being a Trustworthy Person]] - Chaburas Yosef HaTzaddik / #210 / Sep 29, 2024
+- [[sources/chaburas-yosef-hatzaddik/211-chaburah-yosef-hatzadik-211-a-tefilah-from-imperfect-beings|Chaburah Yosef HaTzadik (211) A Tefilah From Imperfect Beings]] - Chaburas Yosef HaTzaddik / #211 / Oct 27, 2024
+- [[sources/chaburas-yosef-hatzaddik/212-chaburah-yosef-hatzadik-212-a-tefilah-for-kedushas-habris|Chaburah Yosef HaTzadik (212) A Tefilah for Kedushas Habris]] - Chaburas Yosef HaTzaddik / #212 / Nov 03, 2024
+- [[sources/chaburas-yosef-hatzaddik/213-chaburah-yosef-hatzadik-213-avraham-s-power-is-invested-in-our-souls|Chaburah Yosef HaTzadik (213) Avraham’s Power Is Invested in Our Souls]] - Chaburas Yosef HaTzaddik / #213 / Nov 24, 2024
+- [[sources/chaburas-yosef-hatzaddik/214-chaburah-yosef-hatzadik-214-descending-to-help-another-jew|Chaburah Yosef HaTzadik (214) Descending To Help Another Jew]] - Chaburas Yosef HaTzaddik / #214 / Dec 01, 2024
+- [[sources/chaburas-yosef-hatzaddik/215-chaburah-yosef-hatzadik-215-the-greek-long-haul-approach|Chaburah Yosef HaTzadik (215) The Greek Long Haul Approach]] - Chaburas Yosef HaTzaddik / #215 / Dec 29, 2024
+- [[sources/chaburas-yosef-hatzaddik/216-chaburah-yosef-hatzadik-216-yavan-s-war-with-kedusha|Chaburah Yosef HaTzadik (216) Yavan's War with Kedusha]] - Chaburas Yosef HaTzaddik / #216 / Jan 05, 2025
+- [[sources/chaburas-yosef-hatzaddik/217-chaburah-yosef-hatzadik-217-a-taste-of-real-beauty|Chaburah Yosef HaTzadik (217) A Taste of Real Beauty]] - Chaburas Yosef HaTzaddik / #217 / Jan 12, 2025
+- [[sources/chaburas-yosef-hatzaddik/218-chaburah-yosef-hatzadik-218-connection-the-heart-of-yiddishkeit|Chaburah Yosef HaTzadik (218) Connection, the Heart of Yiddishkeit]] - Chaburas Yosef HaTzaddik / #218 / Jan 19, 2025
+- [[sources/chaburas-yosef-hatzaddik/219-chaburah-yosef-hatzadik-219-yiddishkeit-freeze-dried-or-on-fire|Chaburah Yosef HaTzadik (219) Yiddishkeit, Freeze Dried or On-Fire]] - Chaburas Yosef HaTzaddik / #219 / Feb 02, 2025
+- [[sources/chaburas-yosef-hatzaddik/220-chaburah-yosef-hatzadik-220-rekindling-the-extinguished-fire|Chaburah Yosef HaTzadik (220) Rekindling the Extinguished Fire]] - Chaburas Yosef HaTzaddik / #220 / Feb 09, 2025
+- [[sources/chaburas-yosef-hatzaddik/221-chaburah-yosef-hatzadik-221-opening-up-the-conversation-with-our-boys|Chaburah Yosef HaTzadik (221) Opening Up the Conversation With Our Boys]] - Chaburas Yosef HaTzaddik / #221 / Feb 16, 2025
+- [[sources/chaburas-yosef-hatzaddik/222-chaburah-yosef-hatzadik-222-the-age-of-reaching-new-potential|Chaburah Yosef HaTzadik (222) The Age of Reaching New Potential]] - Chaburas Yosef HaTzaddik / #222 / Mar 02, 2025
+- [[sources/chaburas-yosef-hatzaddik/223-chaburah-yosef-hatzadik-223-shmiras-habris-on-the-path-to-adulthood|Chaburah Yosef HaTzadik (223) Shmiras HaBris on the Path to Adulthood]] - Chaburas Yosef HaTzaddik / #223 / Mar 09, 2025
+- [[sources/chaburas-yosef-hatzaddik/224-chaburah-yosef-hatzadik-224-mastering-patience-the-key-to-strength-for-life|Chaburah Yosef HaTzadik (224) Mastering Patience - The Key to Strength for Life]] - Chaburas Yosef HaTzaddik / #224 / Mar 16, 2025
+- [[sources/chaburas-yosef-hatzaddik/225-chaburah-yosef-hatzadik-225-raising-kids-in-purity-navigating-a-world-of-exposure|Chaburah Yosef HaTzadik (225) Raising Kids in Purity - Navigating a World of Exposure]] - Chaburas Yosef HaTzaddik / #225 / Mar 23, 2025
+- [[sources/chaburas-yosef-hatzaddik/226-chaburah-yosef-hatzadik-226-chosen-for-battle-conquering-the-yetzer|Chaburah Yosef HaTzadik (226) Chosen for Battle - Conquering the Yetzer]] - Chaburas Yosef HaTzaddik / #226 / Mar 30, 2025
+- [[sources/chaburas-yosef-hatzaddik/227-chaburah-yosef-hatzadik-227-the-warrior-within-empowered-by-hashem|Chaburah Yosef HaTzadik (227) The Warrior Within - Empowered by Hashem]] - Chaburas Yosef HaTzaddik / #227 / May 04, 2025
+- [[sources/chaburas-yosef-hatzaddik/228-chaburah-yosef-hatzadik-228-true-success-when-victory-meets-humility|Chaburah Yosef HaTzadik (228) True Success - When Victory Meets Humility]] - Chaburas Yosef HaTzaddik / #228 / May 11, 2025
+- [[sources/chaburas-yosef-hatzaddik/229-chaburah-yosef-hatzadik-229-holding-on-to-emunah-when-everything-else-disappears|Chaburah Yosef HaTzadik (229) Holding On to Emunah When Everything Else Disappears]] - Chaburas Yosef HaTzaddik / #229 / Jun 08, 2025
+- [[sources/chaburas-yosef-hatzaddik/230-chaburah-yosef-hatzadik-230-beyond-limits-living-with-emunah|Chaburah Yosef HaTzadik (230) Beyond Limits - Living with Emunah]] - Chaburas Yosef HaTzaddik / #230 / Jun 15, 2025
+- [[sources/chaburas-yosef-hatzaddik/231-chaburah-yosef-hatzadik-231-discovering-purpose-in-your-unique-lot|Chaburah Yosef HaTzadik (231) Discovering Purpose in Your Unique Lot]] - Chaburas Yosef HaTzaddik / #231 / Sep 07, 2025
+- [[sources/chaburas-yosef-hatzaddik/232-chaburah-yosef-hatzadik-232-guiding-each-soul-to-its-inner-core|Chaburah Yosef HaTzadik (232) Guiding Each Soul to Its Inner Core]] - Chaburas Yosef HaTzaddik / #232 / Sep 14, 2025
+- [[sources/chaburas-yosef-hatzaddik/233-chaburah-yosef-hatzadik-233-finding-one-s-place-in-this-world|Chaburah Yosef HaTzadik (233) Finding One’s Place in This World]] - Chaburas Yosef HaTzaddik / #233 / Sep 21, 2025
+- [[sources/chaburas-yosef-hatzaddik/234-chaburah-yosef-hatzadik-234-connecting-to-your-fundamental-energy-of-self|Chaburah Yosef HaTzadik (234) Connecting to Your Fundamental Energy of Self]] - Chaburas Yosef HaTzaddik / #234 / Oct 19, 2025
+- [[sources/chaburas-yosef-hatzaddik/235-chaburah-yosef-hatzadik-235-staying-vigilant-against-self-betrayal|Chaburah Yosef HaTzadik (235) Staying Vigilant Against Self-Betrayal]] - Chaburas Yosef HaTzaddik / #235 / Oct 26, 2025
+- [[sources/chaburas-yosef-hatzaddik/236-chaburah-yosef-hatzadik-236-standing-strong-against-external-enslavement|Chaburah Yosef HaTzadik (236) Standing Strong Against External Enslavement]] - Chaburas Yosef HaTzaddik / #236 / Nov 02, 2025
+- [[sources/chaburas-yosef-hatzaddik/237-chaburah-yosef-hatzadik-237-detachment-from-your-personal-pipeline-of-purpose|Chaburah Yosef HaTzadik (237) Detachment from Your Personal Pipeline of Purpose]] - Chaburas Yosef HaTzaddik / #237 / Nov 09, 2025
+- [[sources/chaburas-yosef-hatzaddik/238-chaburah-yosef-hatzadik-238-financial-provider-of-the-home-a-husband-s-sacred-role|Chaburah Yosef HaTzadik (238) Financial Provider of the Home – a Husband’s Sacred Role]] - Chaburas Yosef HaTzaddik / #238 / Dec 14, 2025
+- [[sources/chaburas-yosef-hatzaddik/239-chaburah-yosef-hatzadik-239-serving-hashem-in-all-aspects-of-life|Chaburah Yosef HaTzadik (239) Serving Hashem in All Aspects of Life]] - Chaburas Yosef HaTzaddik / #239 / Dec 21, 2025
+- [[sources/chaburas-yosef-hatzaddik/240-chaburah-yosef-hatzadik-240-drawing-higher-reality-into-the-mundane-daily-life|Chaburah Yosef HaTzadik (240) Drawing Higher Reality Into the Mundane Daily Life]] - Chaburas Yosef HaTzaddik / #240 / Dec 28, 2025
+- [[sources/chaburas-yosef-hatzaddik/241-chaburah-yosef-hatzadik-241-toraso-umanuso-and-individual-tafkid-in-hashem-s-army|Chaburah Yosef HaTzadik (241) Toraso Umanuso and Individual Tafkid in Hashem’s Army]] - Chaburas Yosef HaTzaddik / #241 / Jan 04, 2026
+- [[sources/chaburas-yosef-hatzaddik/242-chaburah-yosef-hatzadik-242-transforming-life-not-escaping-it|Chaburah Yosef HaTzadik (242) Transforming Life Not Escaping It]] - Chaburas Yosef HaTzaddik / #242 / Jan 18, 2026
+- [[sources/chaburas-yosef-hatzaddik/243-chaburah-yosef-hatzadik-243-uniting-higher-and-lower-worlds-through-everyday-life|Chaburah Yosef HaTzadik (243) Uniting Higher and Lower Worlds Through Everyday Life]] - Chaburas Yosef HaTzaddik / #243 / Feb 01, 2026
+- [[sources/chaburas-yosef-hatzaddik/244-chaburah-yosef-hatzadik-244|Chaburah Yosef HaTzadik (244)]] - Chaburas Yosef HaTzaddik / #244 / Feb 08, 2026
+- [[sources/chaburas-yosef-hatzaddik/245-chaburah-yosef-hatzadik-245|Chaburah Yosef HaTzadik (245)]] - Chaburas Yosef HaTzaddik / #245 / Feb 15, 2026
+- [[sources/chaburas-yosef-hatzaddik/246-chaburah-yosef-hatzadik-246|Chaburah Yosef HaTzadik (246)]] - Chaburas Yosef HaTzaddik / #246 / Feb 22, 2026
+- [[sources/chaburas-yosef-hatzaddik/247-chaburah-yosef-hatzadik-247|Chaburah Yosef HaTzadik (247)]] - Chaburas Yosef HaTzaddik / #247 / Mar 01, 2026
+- [[sources/chaburas-yosef-hatzaddik/248-chaburah-yosef-hatzadik-248|Chaburah Yosef HaTzadik (248)]] - Chaburas Yosef HaTzaddik / #248 / Mar 08, 2026
+- [[sources/chaburas-yosef-hatzaddik/249-chaburah-yosef-hatzadik-249|Chaburah Yosef HaTzadik (249)]] - Chaburas Yosef HaTzaddik / #249 / Mar 15, 2026
+- [[sources/chaburas-yosef-hatzaddik/250-chaburah-yosef-hatzadik-250|Chaburah Yosef HaTzadik (250)]] - Chaburas Yosef HaTzaddik / #250 / Mar 22, 2026
+- [[sources/chaburas-yosef-hatzaddik/251-chaburah-yosef-hatzadik-251|Chaburah Yosef HaTzadik (251)]] - Chaburas Yosef HaTzaddik / #251 / Apr 19, 2026
+- [[sources/chaburas-yosef-hatzaddik/252-chaburah-yosef-hatzadik-252|Chaburah Yosef HaTzadik (252)]] - Chaburas Yosef HaTzaddik / #252 / Apr 26, 2026
+- [[sources/chaburas-yosef-hatzaddik/253-chaburah-yosef-hatzadik-253|Chaburah Yosef HaTzadik (253)]] - Chaburas Yosef HaTzaddik / #253 / May 03, 2026
+- [[sources/chaburas-yosef-hatzaddik/254-chaburah-yosef-hatzadik-254|Chaburah Yosef HaTzadik (254)]] - Chaburas Yosef HaTzaddik / #254 / May 24, 2026
+- [[sources/chaburas-yosef-hatzaddik/255-chaburah-yosef-hatzadik-255|Chaburah Yosef HaTzadik (255)]] - Chaburas Yosef HaTzaddik / #255 / May 31, 2026
+- [[sources/chaburas-yosef-hatzaddik/256-chaburah-yosef-hatzadik-256-olo-na-aleh-going-up-the-ladder-through-work-and-eretz-yisroel|Chaburah Yosef HaTzadik (256) Olo Na’aleh — Going Up the Ladder Through Work and Eretz Yisroel]] - Chaburas Yosef HaTzaddik / #256 / Jun 07, 2026
+- [[sources/chaburas-yosef-hatzaddik/257-chaburah-yosef-hatzadik-257|Chaburah Yosef HaTzadik (257)]] - Chaburas Yosef HaTzaddik / #257 / Jun 14, 2026
+- [[sources/chaburas-yosef-hatzaddik/49a-chaburah-yosef-hatzadik-49a|Chaburah Yosef HaTzadik (49a)]] - Chaburas Yosef HaTzaddik / #49a / May 12, 2018
+- [[sources/chaburas-yosef-hatzaddik/49b-chaburah-yosef-hatzadik-49b|Chaburah Yosef HaTzadik (49b)]] - Chaburas Yosef HaTzaddik / #49b / Jun 09, 2018
+- [[sources/chaburas-yosef-hatzaddik/49c-chaburah-yosef-hatzadik-49c|Chaburah Yosef HaTzadik (49c)]] - Chaburas Yosef HaTzaddik / #49c / Jun 23, 2018
+
+## Collection Index
+
+- Return to [[collections/index|Source Collections]]

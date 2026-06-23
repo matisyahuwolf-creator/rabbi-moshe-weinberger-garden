@@ -13,6 +13,7 @@ tags:
   - "the-shape-of-a-chassid"
   - "torah-speech-and-revelation"
   - "yichud-kavanah-and-mitzvos"
+  - "chinuch"
   - "hashem"
   - "izhbitz"
   - "or"
@@ -30,7 +31,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Mordechai Yosef of Izhbitz
+- Collection: [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]
 - Item number: 5
 - Shiur ID: 823590
 - Date: Jul 17, 1995
@@ -40,18 +41,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]]
+[[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]]
 
 ## Related Sources
 
-- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Hashem, Mesorah of Tzaddikim, Or, Torah
-- [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]] - Hashem, Mesorah of Tzaddikim, Or, Torah
-- [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] - Hashem, Mesorah of Tzaddikim, Or, Torah
-- [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Hashem, Mesorah of Tzaddikim, Or, Torah
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

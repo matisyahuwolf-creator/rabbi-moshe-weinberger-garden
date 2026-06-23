@@ -16,11 +16,13 @@ tags:
   - "torah-speech-and-revelation"
   - "yichud-kavanah-and-mitzvos"
   - "avodas-hashem"
+  - "chinuch"
   - "hashem"
   - "heart"
   - "izhbitz"
   - "or"
   - "ratzon"
+  - "tafkid"
   - "torah"
   - "tzaddik"
   - "tzaddikim"
@@ -36,7 +38,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Reb Mordechai Yosef of Izhbitz
+- Collection: [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]
 - Item number: 3
 - Shiur ID: 823588
 - Date: Jul 03, 1995
@@ -46,18 +48,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Or|Or]] [[concepts/Ratzon|Ratzon]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
+[[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Or|Or]] [[concepts/Ratzon|Ratzon]] [[concepts/Tafkid|Tafkid]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
 
 ## Related Sources
 
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
-- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Hashem, Heart, Or, Torah
-- [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Hashem, Heart, Mesorah of Tzaddikim, Or
-- [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Avodas Hashem, Hashem, Mesorah of Tzaddikim, Or
-- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Hashem, Mesorah of Tzaddikim, Or, Torah
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Baal Shem Tov and Moshiach, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Avodas Hashem, Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Baal Shem Tov and Moshiach, Chinuch, Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere
 
 ## Transcript
 

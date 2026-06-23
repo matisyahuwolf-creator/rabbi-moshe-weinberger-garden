@@ -12,3 +12,5 @@ tags:
 Research nodes connected to [[concepts/Transcription|Transcription]].
 
 ## Connected Sources
+
+No sources are connected yet.

@@ -13,7 +13,7 @@ Research nodes connected to [[concepts/Izhbitz|Izhbitz]].
 
 ## Related Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Kotzk|Kotzk]] [[concepts/Simcha|Simcha]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Heart|Heart]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Kabbalah|Kabbalah]]
+[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chinuch|Chinuch]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Ratzon|Ratzon]] [[concepts/Kotzk|Kotzk]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Simcha|Simcha]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]]
 
 ## Connected Sources
 

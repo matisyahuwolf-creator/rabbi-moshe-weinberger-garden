@@ -22,10 +22,11 @@ Research nodes connected to [[concepts/Heart|Heart]].
 
 ## Related Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Neshama|Neshama]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chassidus|Chassidus]] [[concepts/Tanya|Tanya]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]]
+[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Neshama|Neshama]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Tanya|Tanya]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Arizal|Arizal]]
 
 ## Connected Sources
 
+- [[sources/chaburas-yosef-hatzaddik/218-chaburah-yosef-hatzadik-218-connection-the-heart-of-yiddishkeit|Chaburah Yosef HaTzadik (218) Connection, the Heart of Yiddishkeit]] - Chaburas Yosef HaTzaddik / #218 / Jan 19, 2025
 - [[sources/sugyas-in-chassidus-2015/044-sugyas-in-chassidus-44-holding-hands-with-the-torah|Sugyas In Chassidus (44) Holding Hands With The Torah]] - Sugyas in Chassidus 2015 / #44 / Feb 17, 2017
 - [[sources/sugyas-in-chassidus-2015/043-sugyas-in-chassidus-43|Sugyas In Chassidus (43)]] - Sugyas in Chassidus 2015 / #43 / Feb 10, 2017
 - [[sources/sugyas-in-chassidus-2015/042-sugyas-in-chassidus-42-the-light-within-shines-bright|Sugyas In Chassidus (42) The Light Within Shines Bright]] - Sugyas in Chassidus 2015 / #42 / Feb 03, 2017
@@ -38,6 +39,7 @@ Research nodes connected to [[concepts/Heart|Heart]].
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-walking-with-hashem-through-the-journey-of-life|Sugyas In Chassidus (34) Walking With Hashem Through The Journey Of Life]] - Sugyas in Chassidus 2015 / #34 / Nov 11, 2016
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-in-the-darkness-you-will-find-me|Sugyas In Chassidus (34) In The Darkness You Will Find Me]] - Sugyas in Chassidus 2015 / #34 / Nov 04, 2016
 - [[sources/sugyas-in-chassidus-2015/032-sugyas-in-chassidus-32-the-coldness-of-a-jew|Sugyas In Chassidus (32) The Coldness Of A Jew]] - Sugyas in Chassidus 2015 / #32 / Sep 16, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Sugyas in Chassidus 2015 / #13 / Dec 11, 2015
 - [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Sugyas in Chassidus 2015 / #8 / Nov 06, 2015
 - [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Sugyas in Chassidus 2015 / #7 / Oct 30, 2015

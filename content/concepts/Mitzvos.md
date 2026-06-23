@@ -22,7 +22,7 @@ Research nodes connected to [[concepts/Mitzvos|Mitzvos]].
 
 ## Related Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Keser Shem Tov|Keser Shem Tov]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tefillah|Tefillah]] [[concepts/Torah|Torah]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Tanya|Tanya]] [[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Keser Shem Tov|Keser Shem Tov]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tefillah|Tefillah]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Kedusha|Kedusha]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Izhbitz|Izhbitz]]
 
 ## Connected Sources
 
@@ -41,9 +41,15 @@ Research nodes connected to [[concepts/Mitzvos|Mitzvos]].
 - [[sources/sugyas-in-chassidus-2015/082-sugyas-in-chassidus-82-keser-shem-tov-33|Sugyas In Chassidus (82) Keser Shem Tov #33]] - Sugyas in Chassidus 2015 / #82 / Nov 16, 2018
 - [[sources/sugyas-in-chassidus-2015/081-sugyas-in-chassidus-81-keser-shem-tov-32-a-b|Sugyas In Chassidus (81) Keser Shem Tov #32[a][b]]] - Sugyas in Chassidus 2015 / #81 / Nov 09, 2018
 - [[sources/sugyas-in-chassidus-2015/080-sugyas-in-chassidus-80-keser-shem-tov-31|Sugyas In Chassidus (80) Keser Shem Tov #31]] - Sugyas in Chassidus 2015 / #80 / Nov 02, 2018
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Chaburas Yosef HaTzaddik / #3 / Feb 14, 2016
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Chaburas Yosef HaTzaddik / #2 / Feb 07, 2016
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
 - [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Sugyas in Chassidus 2015 / #4 / Oct 09, 2015
 - [[sources/sugyas-in-chassidus-2015/003-sugyas-in-chassidus-3-the-baal-shem-tov-s-letter|Sugyas In Chassidus (3) The Baal Shem Tov's Letter]] - Sugyas in Chassidus 2015 / #3 / Sep 18, 2015
 - [[sources/biographies-of-tzadikim/014-no-am-elimelech-14-the-mitzvah-of-struggling|No’am Elimelech (14) The Mitzvah Of Struggling]] - Noam Elimelech / #14 / Jan 05, 2004
 - [[sources/biographies-of-tzadikim/026-kedushas-levi-26-kedusha-through-mitzvos|Kedushas Levi (26) Kedusha Through Mitzvos]] - Kedushas Levi / #26 / Apr 28, 2003
 - [[sources/biographies-of-tzadikim/005-reb-leibele-eiger-5-preparation-before-doing-mitzvos|Reb Leibele Eiger (5) Preparation Before Doing Mitzvos]] - Reb Leibele Eiger / #5 / Nov 06, 2000
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995

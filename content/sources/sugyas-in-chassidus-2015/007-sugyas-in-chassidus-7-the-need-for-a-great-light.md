@@ -11,6 +11,7 @@ tags:
   - "torah-speech-and-revelation"
   - "arizal"
   - "chassidus"
+  - "chinuch"
   - "hashem"
   - "heart"
   - "kabbalah"
@@ -32,7 +33,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 7
 - Shiur ID: 843517
 - Date: Oct 30, 2015
@@ -48,18 +49,18 @@ aliases:
 
 ## Concepts
 
-[[concepts/Arizal|Arizal]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
+[[concepts/Arizal|Arizal]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
 
 ## Related Sources
 
 - [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
 - [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
-- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
-- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Arizal, Chassidus, Chinuch, Foundations of Chassidus
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Chassidus, Chinuch, Foundations of Chassidus
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Chinuch, Foundations of Chassidus, Hashem, Kabbalah Brought into Avodah
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Chinuch, Hashem, Kabbalah
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Chassidus, Foundations of Chassidus, Hashem, Heart
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Foundations of Chassidus, Hashem, Kabbalah, Kabbalah Brought into Avodah
-- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Foundations of Chassidus, Hashem, Kabbalah Brought into Avodah, Or
-- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Hashem, Kabbalah, Or
 
 ## Transcript
 

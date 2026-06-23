@@ -21,7 +21,7 @@ Research nodes connected to [[concepts/Tanya|Tanya]].
 
 ## Related Concepts
 
-[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Arizal|Arizal]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Moshiach|Moshiach]] [[concepts/Heart|Heart]]
+[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Chassidus|Chassidus]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Arizal|Arizal]] [[concepts/Chinuch|Chinuch]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Moshiach|Moshiach]]
 
 ## Connected Sources
 
@@ -32,4 +32,5 @@ Research nodes connected to [[concepts/Tanya|Tanya]].
 - [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Sugyas in Chassidus 2015 / #5 / Oct 16, 2015
 - [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Sugyas in Chassidus 2015 / #4 / Oct 09, 2015
 - [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Sugyas in Chassidus 2015 / #1 / Sep 04, 2015
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995

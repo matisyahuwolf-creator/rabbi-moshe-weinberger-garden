@@ -17,6 +17,7 @@ tags:
   - "neshama"
   - "or"
   - "simcha"
+  - "tafkid"
   - "torah"
 aliases:
   - "841105"
@@ -30,7 +31,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Sugyas in Chassidus 2015
+- Collection: [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]
 - Item number: 2
 - Shiur ID: 841105
 - Date: Sep 11, 2015
@@ -46,7 +47,7 @@ aliases:
 
 ## Concepts
 
-[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Torah|Torah]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Tafkid|Tafkid]] [[concepts/Torah|Torah]]
 
 ## Related Sources
 
@@ -56,8 +57,8 @@ aliases:
 - [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Kabbalah
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Chassidus, Foundations of Chassidus
 - [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Foundations of Chassidus, Kabbalah
+- [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Kabbalah, Moshiach, Or, Simcha
 - [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Chassidus, Kabbalah, Moshiach, Neshama
-- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Chassidus, Foundations of Chassidus, Kabbalah, Moshiach
 
 ## Transcript
 

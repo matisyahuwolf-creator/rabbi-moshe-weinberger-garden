@@ -21,7 +21,7 @@ The sugya of there being no existence outside Hashem, and the avodah implication
 
 ## Related Concepts
 
-[[concepts/Deveikus|Deveikus]] [[concepts/Hashem|Hashem]] [[concepts/Hashgacha Pratis|Hashgacha Pratis]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzimtzum|Tzimtzum]]
+[[concepts/Hashem|Hashem]] [[concepts/Deveikus|Deveikus]] [[concepts/Hashgacha Pratis|Hashgacha Pratis]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzimtzum|Tzimtzum]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Chinuch|Chinuch]] [[concepts/Emunah|Emunah]] [[concepts/Hiskashrus|Hiskashrus]] [[concepts/Kedusha|Kedusha]] [[concepts/Mesorah|Mesorah]] [[concepts/Mitzvos|Mitzvos]]
 
 ## Connected Sources
 
@@ -31,3 +31,4 @@ The sugya of there being no existence outside Hashem, and the avodah implication
 - [[sources/sugyas-in-chassidus-2015/028-sugyas-in-chassidus-28-tzimtzum-shelo-kepshuto-1|Sugyas In Chassidus (28) Tzimtzum Shelo Kepshuto (1)]] - Sugyas in Chassidus 2015 / #28 / May 20, 2016
 - [[sources/sugyas-in-chassidus-2015/027-sugyas-in-chassidus-27-hashem-s-presence|Sugyas In Chassidus (27) Hashem's Presence]] - Sugyas in Chassidus 2015 / #27 / May 13, 2016
 - [[sources/sugyas-in-chassidus-2015/026-sugyas-in-chassidus-26-sugya-of-ein-od-milvado|Sugyas In Chassidus (26) Sugya of Ein Od Milvado]] - Sugyas in Chassidus 2015 / #26 / May 06, 2016
+- [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016

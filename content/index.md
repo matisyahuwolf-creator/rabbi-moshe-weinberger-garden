@@ -1,32 +1,55 @@
 ---
-title: "Networked Torah Research"
-description: "A Quartz digital garden for Rabbi Moshe Weinberger research notes, shiurim, transcripts, and concepts."
+title: "Matisyahu's Torah Research Garden"
+description: "A personal hypertext garden for Torah research, Chassidus, Sefer HaArachim, the Lubavitcher Rebbe's letters, source work, concepts, and curated learning paths."
 tags:
   - "index"
 ---
 
 
-# Networked Torah Research
+# Matisyahu's Torah Research Garden
 
-A Quartz garden for Rabbi Moshe Weinberger research notes, shiurim, transcripts, and concepts.
+Welcome. This is a living hypertext garden for Torah research: Chassidus, Sefer HaArachim, the Lubavitcher Rebbe's letters, source work, concept maps, shiurim, sefarim, tzaddikim, avodah, and curated learning paths.
 
-## Start Here
+For now, this site is intentionally scoped to Torah. The Rabbi Moshe Weinberger archive is a central beis midrash wing, alongside Chabad concept work, Igros Kodesh/letters research, and your own Torah notes.
 
-- [[structures/heichal-hachassidus|Heichal HaChassidus]]
-- [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]]
-- [[notes/research-map|Research Map]]
-- [[notes/transcription-review|Transcription Review]]
-- [[themes/foundations-of-chassidus|Foundations of Chassidus]]
-- [[themes/ein-od-milvado-and-tzimtzum|Ein Od Milvado and Tzimtzum]]
-- [[themes/keser-shem-tov-textual-cycle|Keser Shem Tov Textual Cycle]]
-- [[concepts/Baal Shem Tov|Baal Shem Tov]]
-- [[concepts/Chassidus|Chassidus]]
+If this is your first walk through, start with one of these doors:
+
+- The main beis midrash: [[areas/torah-and-chassidus|Torah and Chassidus]], [[structures/heichal-hachassidus|Heichal HaChassidus]], and [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]].
+- The Chabad concept workroom: [[areas/sefer-haarachim-garden|Sefer HaArachim Garden]], [[garden/sefer-haarachim/sefer-haarachim-garden|Sefer HaArachim Garden Note]], and [[concepts/Sefer HaArachim|Sefer HaArachim]].
+- The letters table: [[areas/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]], [[garden/lubavitcher-rebbe-letters/lubavitcher-rebbe-letters-garden|Letters Garden Note]], and [[concepts/Igros Kodesh|Igros Kodesh]].
+- The sefarim table: [[areas/sefarim-and-text-cycles|Sefarim and Text Cycles]], [[themes/keser-shem-tov-textual-cycle|Keser Shem Tov Textual Cycle]], and [[concepts/Baal Shem Tov|Baal Shem Tov]].
+- The mesorah wall: [[areas/tzaddikim-and-mesorah|Tzaddikim and Mesorah]], [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]], and [[collections/biographies-of-tzadikim|Biographies of Tzadikim]].
+- The avodah path: [[areas/yosef-hatzaddik-and-kedusha|Yosef HaTzaddik and Kedusha]], [[areas/avodah-and-inner-work|Avodah and Inner Work]], and [[collections/chaburas-yosef-hatzaddik|Chaburas Yosef HaTzaddik]].
+
+## Selected Paths
+
+- [[maps/research-garden-atlas|Torah Research Atlas]] - the map of the Torah garden.
+- [[structures/research-garden-blueprint|Torah Research Blueprint]] - the growth pattern for the site.
+- [[areas/torah-and-chassidus|Torah and Chassidus]] - the main Torah doorway.
+- [[areas/sefer-haarachim-garden|Sefer HaArachim Garden]] - Chabad concept entries and source trails.
+- [[areas/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]] - Igros Kodesh, horaos, and applied Torah guidance.
+- [[collections/index|Source Collections]] - the indexed shiurim and source corpora.
+- [[areas/torah-source-library|Torah Source Library]] - captured Torah sources and review work.
+
+## Open Threads
+
+- [[garden/sefer-haarachim/sefer-haarachim-garden|Sefer HaArachim Garden]]
+- [[garden/lubavitcher-rebbe-letters/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]]
+- [[garden/torah-and-chassidus/torah-knowledge-graph|Torah Knowledge Graph]]
+- [[garden/torah-and-chassidus/torah-and-chassidus-graph|Torah and Chassidus Graph]]
+- [[garden/torah-and-chassidus/seder-hishtalshelus|Seder Hishtalshelus]]
+- [[garden/torah-and-chassidus/tzimtzum|Tzimtzum]]
+- [[garden/torah-and-chassidus/tanya|Tanya]]
+- [[garden/torah-and-chassidus/ohr-and-keili|Ohr and Keili]]
 
 ## Archive Status
 
-- Cataloged sources: 372
-- Transcript-backed sources: 21
-- Concept nodes: 48
+- Personal Torah notes: 11
+- Cataloged sources: 632
+- Transcript-backed sources: 30
+- Concept nodes: 56
+- Research areas: 9
+- Source collections: 19
 - Sugyas in Chassidus shiurim: 122
 - Theme hubs: 11
 - Sugya tracks: 12
@@ -47,21 +70,22 @@ A Quartz garden for Rabbi Moshe Weinberger research notes, shiurim, transcripts,
 
 ## Collections
 
-- Avnei Nezer: 11 cataloged / 0 transcribed
-- Baal Shem Tov: 22 cataloged / 0 transcribed
-- Be'er Mayim Chaim: 14 cataloged / 0 transcribed
-- Bnei Yissaschar: 11 cataloged / 0 transcribed
-- Divrei Chaim of Sanz: 9 cataloged / 0 transcribed
-- Kedushas Levi: 28 cataloged / 0 transcribed
-- Kozhnitzer Maggid: 10 cataloged / 0 transcribed
-- Noam Elimelech: 26 cataloged / 0 transcribed
-- Rav Tzadok HaKohen: 28 cataloged / 0 transcribed
-- Reb Areleh Roth: 13 cataloged / 0 transcribed
-- Reb Leibele Eiger: 16 cataloged / 0 transcribed
-- Reb Mordechai Yosef of Izhbitz: 10 cataloged / 5 transcribed
-- Reb Simcha Bunim of Peshischa: 13 cataloged / 0 transcribed
-- Rebbe Nachman of Breslov biography: 5 cataloged / 0 transcribed
-- Sugyas in Chassidus 2015: 122 cataloged / 16 transcribed
-- Toldos Yaakov Yosef of Polnoye: 12 cataloged / 0 transcribed
-- Tzemach Tzedek: 10 cataloged / 0 transcribed
-- Yid HaKodesh: 12 cataloged / 0 transcribed
+- [[collections/avnei-nezer|Avnei Nezer]]: 11 cataloged / 0 transcribed
+- [[collections/baal-shem-tov|Baal Shem Tov]]: 22 cataloged / 0 transcribed
+- [[collections/be-er-mayim-chaim|Be'er Mayim Chaim]]: 14 cataloged / 0 transcribed
+- [[collections/bnei-yissaschar|Bnei Yissaschar]]: 11 cataloged / 0 transcribed
+- [[collections/chaburas-yosef-hatzaddik|Chaburas Yosef HaTzaddik]]: 260 cataloged / 5 transcribed
+- [[collections/divrei-chaim-of-sanz|Divrei Chaim of Sanz]]: 9 cataloged / 0 transcribed
+- [[collections/kedushas-levi|Kedushas Levi]]: 28 cataloged / 0 transcribed
+- [[collections/kozhnitzer-maggid|Kozhnitzer Maggid]]: 10 cataloged / 0 transcribed
+- [[collections/noam-elimelech|Noam Elimelech]]: 26 cataloged / 0 transcribed
+- [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]: 28 cataloged / 0 transcribed
+- [[collections/reb-areleh-roth|Reb Areleh Roth]]: 13 cataloged / 0 transcribed
+- [[collections/reb-leibele-eiger|Reb Leibele Eiger]]: 16 cataloged / 0 transcribed
+- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]: 10 cataloged / 9 transcribed
+- [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]: 13 cataloged / 0 transcribed
+- [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]]: 5 cataloged / 0 transcribed
+- [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]: 122 cataloged / 16 transcribed
+- [[collections/toldos-yaakov-yosef-of-polnoye|Toldos Yaakov Yosef of Polnoye]]: 12 cataloged / 0 transcribed
+- [[collections/tzemach-tzedek|Tzemach Tzedek]]: 10 cataloged / 0 transcribed
+- [[collections/yid-hakodesh|Yid HaKodesh]]: 12 cataloged / 0 transcribed

@@ -43,10 +43,14 @@ The philosophical and devotional center of the series: Hashem's oneness, tzimtzu
 - [[sources/biographies-of-tzadikim/005-kedushas-levi-5-why-we-have-to-go-through-darkness-before-attaining-hashem-s-light|Kedushas Levi (5) Why We Have To Go Through Darkness Before Attaining Hashem’s Light]] - Kedushas Levi / #5 / Sep 09, 2002
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/005-the-divrei-chaim-of-sanz-5-emulating-hashem|The Divrei Chaim Of Sanz (5) Emulating Hashem]] - Divrei Chaim of Sanz / #5 / May 01, 2000
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Reb Mordechai Yosef of Izhbitz / #6 / Jul 24, 1995
 - [[sources/biographies-of-tzadikim/007-kozhnitzer-maggid-7-face-to-face-with-hashem|Kozhnitzer Maggid (7) Face To Face With Hashem]] - Kozhnitzer Maggid / #7 / Oct 19, 1998
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Reb Mordechai Yosef of Izhbitz / #7 / Aug 07, 1995
 - [[sources/biographies-of-tzadikim/007-the-be-er-mayim-chaim-7-overflowing-love-of-hashem-on-shabbos|The Be'er Mayim Chaim (7) Overflowing Love Of Hashem On Shabbos]] - Be'er Mayim Chaim / #7 / Feb 23, 1998
 - [[sources/biographies-of-tzadikim/008-reb-leibele-eiger-8-the-everlasting-nature-of-hashem-s-covenant-with-us|Reb Leibele Eiger (8) The Everlasting Nature Of Hashem's Covenant With Us]] - Reb Leibele Eiger / #8 / Nov 27, 2000
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Reb Mordechai Yosef of Izhbitz / #8 / Aug 14, 1995
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Baal Shem Tov / #9 / Oct 11, 1999
+- [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-tzemach-tzeddek-10-meditating-on-hashem-s-greatness|Tzemach Tzeddek (10) Meditating On Hashem's Greatness]] - Tzemach Tzedek / #10 / Jul 01, 1996
 - [[sources/biographies-of-tzadikim/011-avnei-nezer-11-developing-our-ability-to-receive-what-hashem-is-giving-us|Avnei Nezer (11) Developing Our Ability To Receive What Hashem Is Giving Us]] - Avnei Nezer / #11 / May 26, 1997
@@ -61,11 +65,7 @@ The philosophical and devotional center of the series: Hashem's oneness, tzimtzu
 - [[sources/biographies-of-tzadikim/017-kedushas-levi-17-a-vessel-to-receive-the-light-of-hashem|Kedushas Levi (17) A Vessel To Receive The Light Of Hashem]] - Kedushas Levi / #17 / Jan 06, 2003
 - [[sources/biographies-of-tzadikim/017-r-tzadok-hakohen-17-everything-is-in-the-hands-of-hashem-except-fear-of-hashem|R. Tzadok Hakohen (17) Everything Is In The Hands Of Hashem Except Fear Of Hashem]] - Rav Tzadok HaKohen / #17 / Dec 16, 1996
 - [[sources/biographies-of-tzadikim/018-kedushas-levi-18-hashem-s-happiness|Kedushas Levi (18) Hashem's Happiness]] - Kedushas Levi / #18 / Jan 13, 2003
-- [[sources/biographies-of-tzadikim/022-baal-shem-tov-22-the-need-for-love-and-awe-of-hashem|Baal Shem Tov (22) The Need For Love And Awe Of Hashem]] - Baal Shem Tov / #22 / Feb 07, 2000
-- [[sources/biographies-of-tzadikim/022-kedushas-levi-22-hashem-s-ability-to-weigh-and-exchange|Kedushas Levi (22) Hashem's Ability To Weigh And Exchange]] - Kedushas Levi / #22 / Feb 24, 2003
-- [[sources/biographies-of-tzadikim/022-no-am-elimelech-22-hashem-is-always-with-us-in-the-highest-and-lowest-places|No’am Elimelech (22) Hashem Is Always With Us In The Highest And Lowest Places]] - Noam Elimelech / #22 / Apr 26, 2004
-- [[sources/biographies-of-tzadikim/023-baal-shem-tov-23-the-different-paths-in-serving-hashem|Baal Shem Tov (23) The Different Paths In Serving Hashem]] - Baal Shem Tov / #23 / Feb 14, 2000
-- 3 additional archive sources connect through this theme.
+- 28 additional archive sources connect through this theme.
 
 ## Network Map
 

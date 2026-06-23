@@ -22,7 +22,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 1
 - Shiur ID: 823717
 - Date: Sep 08, 2003

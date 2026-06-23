@@ -22,7 +22,7 @@ The inner novelty of the Baal Shem Tov: not only new teachings, but a new revela
 
 ## Related Concepts
 
-[[concepts/Chassidus|Chassidus]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Kri and Ksiv|Kri and Ksiv]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Emunah|Emunah]] [[concepts/Hashem|Hashem]]
+[[concepts/Chassidus|Chassidus]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Kri and Ksiv|Kri and Ksiv]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Simcha|Simcha]] [[concepts/Tafkid|Tafkid]] [[concepts/Emunah|Emunah]]
 
 ## Connected Sources
 

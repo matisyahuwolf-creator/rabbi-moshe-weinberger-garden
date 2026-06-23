@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Noam Elimelech
+- Collection: [[collections/noam-elimelech|Noam Elimelech]]
 - Item number: 14
 - Shiur ID: 823730
 - Date: Jan 05, 2004
@@ -38,11 +38,11 @@ aliases:
 - [[sources/biographies-of-tzadikim/013-reb-simcha-bunim-of-pshischa-13-accepting-the-torah-through-difficulty|Reb Simcha Bunim Of Pshischa (13) Accepting The Torah Through Difficulty]] - Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/005-reb-leibele-eiger-5-preparation-before-doing-mitzvos|Reb Leibele Eiger (5) Preparation Before Doing Mitzvos]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/026-kedushas-levi-26-kedusha-through-mitzvos|Kedushas Levi (26) Kedusha Through Mitzvos]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/013-baal-shem-tov-13-clinging-to-hashem|Baal Shem Tov (13) Clinging To Hashem]]
-- [[sources/biographies-of-tzadikim/013-kedushas-levi-13-hashem-s-love-for-his-children|Kedushas Levi (13) Hashem's Love For His Children]]
-- [[sources/biographies-of-tzadikim/013-no-am-elimelech-13-simple-jews-faith-in-their-rebbe|No’am Elimelech (13) Simple Jews' Faith In Their Rebbe]]
-- [[sources/biographies-of-tzadikim/013-r-tzadok-hakohen-13-the-role-of-shabbos-in-jewish-life|R. Tzadok Hakohen (13) The Role Of Shabbos In Jewish Life]]
+- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
+- [[sources/chaburas-yosef-hatzaddik/002-chaburas-yosef-hatzaddik-2|Chaburas Yosef HaTzaddik (2)]] - Kabbalah Brought into Avodah, Mitzvos, Yichud, Kavanah, and Mitzvos
 
 ## Transcript
 

@@ -68,7 +68,7 @@ What it means to become a chassid: avodas Hashem, inwardness, relationship to tz
 - [[sources/biographies-of-tzadikim/005-rebbe-nachman-m-breslov-biography-5-his-early-years|Rebbe Nachman M'Breslov - Biography (5) His Early Years]] - Rebbe Nachman of Breslov biography / #5 / Nov 22, 2004
 - [[sources/biographies-of-tzadikim/005-the-toldos-yaakov-yoseph-of-polonoye-5-the-prototype-of-the-tzaddik-2|The Toldos Yaakov Yoseph Of Polonoye (5) The Prototype Of The Tzaddik (2)]] - Toldos Yaakov Yosef of Polnoye / #5 / Dec 25, 1995
 - [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Bnei Yissaschar / #6 / Dec 28, 1998
-- 24 additional archive sources connect through this theme.
+- 44 additional archive sources connect through this theme.
 
 ## Network Map
 

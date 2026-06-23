@@ -21,7 +21,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Kedushas Levi
+- Collection: [[collections/kedushas-levi|Kedushas Levi]]
 - Item number: 18
 - Shiur ID: 823613
 - Date: Jan 13, 2003

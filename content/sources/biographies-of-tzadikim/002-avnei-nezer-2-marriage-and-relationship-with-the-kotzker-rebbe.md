@@ -22,7 +22,7 @@ aliases:
 
 ## Metadata
 
-- Collection: Avnei Nezer
+- Collection: [[collections/avnei-nezer|Avnei Nezer]]
 - Item number: 2
 - Shiur ID: 823477
 - Date: Feb 24, 1997

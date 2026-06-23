@@ -8,9 +8,17 @@ tags:
 
 # Matisyahu's Torah Research Garden
 
-Welcome. This is a living hypertext garden for Torah research: Chassidus, Sefer HaArachim, the Lubavitcher Rebbe's letters, source work, concept maps, shiurim, sefarim, tzaddikim, avodah, and curated learning paths.
+## Mission
 
-The mission is the Ramchal's garden: to know each Torah idea in its true place, with its parts, relationships, causes, effects, categories, and associations. This site is a set of kelim for that work, not adding to what is, but making the relationships visible until the Torah becomes alive.
+> The mission of this garden is to build the kelim of Torah research: not to add to what is, but to reveal the true place, relationships, divisions, and living structure of what is already there.
+
+This is the Ramchal's garden: to know each Torah idea in its true place, with its parts, relationships, causes, effects, categories, and associations. This site exists to make the relationships visible until the Torah becomes alive.
+
+[[garden/mission/garden-mission|Read the Garden Mission]]
+
+## The Garden
+
+Welcome. This is a living hypertext garden for Torah research: Chassidus, Sefer HaArachim, the Lubavitcher Rebbe's letters, source work, concept maps, shiurim, sefarim, tzaddikim, avodah, and curated learning paths.
 
 For now, this site is intentionally scoped to Torah. The Rabbi Moshe Weinberger archive is a central beis midrash wing, alongside Chabad concept work, Igros Kodesh/letters research, and your own Torah notes.
 

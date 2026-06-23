@@ -29,7 +29,18 @@ aliases:
 
 ## Concepts
 
-[[Izhbitz]]
+[[concepts/Izhbitz|Izhbitz]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Izhbitz
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Izhbitz
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Izhbitz
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Izhbitz
+- [[sources/biographies-of-tzadikim/008-avnei-nezer-8-shabbos-is-remembering-our-departure-from-egypt|Avnei Nezer (8) Shabbos Is Remembering Our Departure From Egypt]]
+- [[sources/biographies-of-tzadikim/008-b-nei-yissaschar-8-the-chassidic-debate-over-kabbalah|B'nei Yissaschar (8) The Chassidic Debate Over Kabbalah]]
+- [[sources/biographies-of-tzadikim/008-baal-shem-tov-8-a-new-way-of-understanding-the-world|Baal Shem Tov (8) A New Way Of Understanding The World]]
+- [[sources/biographies-of-tzadikim/008-kedushas-levi-8-avraham-s-gift|Kedushas Levi (8) Avraham's Gift]]
 
 ## Transcript
 

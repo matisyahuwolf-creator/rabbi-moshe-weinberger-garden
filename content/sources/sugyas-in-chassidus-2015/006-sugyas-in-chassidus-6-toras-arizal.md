@@ -6,9 +6,18 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "foundations-of-chassidus"
+  - "kabbalah-brought-into-avodah"
+  - "torah-speech-and-revelation"
+  - "arizal"
   - "chassidus"
   - "hashem"
+  - "kabbalah"
+  - "or"
+  - "pnimius-hatorah"
+  - "tanya"
   - "torah"
+  - "tzaddik"
   - "tzaddikim"
 aliases:
   - "843013"
@@ -30,9 +39,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/843013](https://www.yutorah.org/lectures/843013)
 - Audio: [https://shiurim.yutorah.net/2015/18705/843013.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/843013.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/secrets-of-torah-and-the-need-for-new-light|Secrets of Torah and the Need for New Light]]
+- Themes: [[themes/foundations-of-chassidus|Foundations of Chassidus]], [[themes/kabbalah-brought-into-avodah|Kabbalah Brought into Avodah]], [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] / Next: [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]]
+
 ## Concepts
 
-[[Chassidus]] [[Hashem]] [[Torah]] [[Tzaddikim]]
+[[concepts/Arizal|Arizal]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Foundations of Chassidus, Hashem, Kabbalah, Kabbalah Brought into Avodah
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Foundations of Chassidus, Hashem, Kabbalah Brought into Avodah, Or
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Hashem, Kabbalah, Or
+- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Chassidus, Foundations of Chassidus, Hashem, Or
 
 ## Transcript
 

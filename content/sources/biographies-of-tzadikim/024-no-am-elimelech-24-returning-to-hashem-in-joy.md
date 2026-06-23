@@ -6,6 +6,10 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "ein-od-milvado-and-tzimtzum"
+  - "finding-hashem-everywhere"
+  - "the-inner-soul-of-a-jew"
+  - "the-shape-of-a-chassid"
   - "hashem"
   - "simcha"
 aliases:
@@ -30,7 +34,18 @@ aliases:
 
 ## Concepts
 
-[[Hashem]] [[Simcha]]
+[[concepts/Hashem|Hashem]] [[concepts/Simcha|Simcha]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Simcha
+- [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Simcha
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Simcha
+- [[sources/biographies-of-tzadikim/023-baal-shem-tov-23-the-different-paths-in-serving-hashem|Baal Shem Tov (23) The Different Paths In Serving Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, The Inner Soul of a Jew
+- [[sources/biographies-of-tzadikim/022-baal-shem-tov-22-the-need-for-love-and-awe-of-hashem|Baal Shem Tov (22) The Need For Love And Awe Of Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/022-kedushas-levi-22-hashem-s-ability-to-weigh-and-exchange|Kedushas Levi (22) Hashem's Ability To Weigh And Exchange]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
+- [[sources/biographies-of-tzadikim/022-no-am-elimelech-22-hashem-is-always-with-us-in-the-highest-and-lowest-places|No’am Elimelech (22) Hashem Is Always With Us In The Highest And Lowest Places]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem
 
 ## Transcript
 

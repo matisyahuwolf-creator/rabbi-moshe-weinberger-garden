@@ -6,11 +6,21 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "foundations-of-chassidus"
+  - "kabbalah-brought-into-avodah"
+  - "torah-speech-and-revelation"
+  - "arizal"
   - "baal-shem-tov"
   - "chassidus"
   - "hashem"
+  - "kabbalah"
   - "keser-shem-tov"
+  - "mitzvos"
   - "moshiach"
+  - "neshama"
+  - "or"
+  - "pnimius-hatorah"
+  - "tanya"
   - "torah"
 aliases:
   - "841950"
@@ -32,9 +42,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/841950](https://www.yutorah.org/lectures/841950)
 - Audio: [https://shiurim.yutorah.net/2015/18705/841950.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/841950.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/secrets-of-torah-and-the-need-for-new-light|Secrets of Torah and the Need for New Light]]
+- Themes: [[themes/foundations-of-chassidus|Foundations of Chassidus]], [[themes/kabbalah-brought-into-avodah|Kabbalah Brought into Avodah]], [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/003-sugyas-in-chassidus-3-the-baal-shem-tov-s-letter|Sugyas In Chassidus (3) The Baal Shem Tov's Letter]] / Next: [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]]
+
 ## Concepts
 
-[[Baal Shem Tov]] [[Chassidus]] [[Hashem]] [[Keser Shem Tov]] [[Moshiach]] [[Torah]]
+[[concepts/Arizal|Arizal]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Keser Shem Tov|Keser Shem Tov]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Neshama|Neshama]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Arizal, Baal Shem Tov, Chassidus, Foundations of Chassidus
+- [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Kabbalah
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Hashem, Kabbalah, Moshiach
+- [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Moshiach
+- [[sources/sugyas-in-chassidus-2015/003-sugyas-in-chassidus-3-the-baal-shem-tov-s-letter|Sugyas In Chassidus (3) The Baal Shem Tov's Letter]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Mitzvos
 
 ## Transcript
 

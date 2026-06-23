@@ -6,12 +6,24 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "mesorah-of-tzaddikim"
+  - "yichud-kavanah-and-mitzvos"
+  - "achdus"
+  - "arizal"
+  - "avodah-begashmius"
   - "baal-shem-tov"
-  - "chassidus"
+  - "five-shepherds"
   - "hashem"
+  - "kabbalah"
+  - "kavanah"
+  - "lishem-yichud"
+  - "mesorah"
   - "moshiach"
+  - "rebbe-nachman"
   - "simcha"
   - "torah"
+  - "tzaddik"
+  - "yichud"
 aliases:
   - "844596"
   - "shiur 844596"
@@ -32,9 +44,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/844596](https://www.yutorah.org/lectures/844596)
 - Audio: [https://shiurim.yutorah.net/2015/18705/844596.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/844596.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/teachers-shepherds-and-yichud|Teachers, Shepherds, and Yichud]]
+- Themes: [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]], [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] / Next: [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]]
+
 ## Concepts
 
-[[Baal Shem Tov]] [[Chassidus]] [[Hashem]] [[Moshiach]] [[Simcha]] [[Torah]]
+[[concepts/Achdus|Achdus]] [[concepts/Arizal|Arizal]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Simcha|Simcha]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yichud|Yichud]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]] - Achdus, Arizal, Five Shepherds, Hashem
+- [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] - Arizal, Five Shepherds, Hashem, Kabbalah
+- [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Arizal, Avodah Begashmius, Baal Shem Tov, Five Shepherds
+- [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Achdus, Avodah Begashmius, Baal Shem Tov, Five Shepherds
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Five Shepherds, Hashem, Kabbalah
+- [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/017-sugyas-in-chassidus-17-rebbe-nachman|Sugyas In Chassidus (17) Rebbe Nachman]] - Five Shepherds, Kavanah, Lishem Yichud, Mesorah
 
 ## Transcript
 

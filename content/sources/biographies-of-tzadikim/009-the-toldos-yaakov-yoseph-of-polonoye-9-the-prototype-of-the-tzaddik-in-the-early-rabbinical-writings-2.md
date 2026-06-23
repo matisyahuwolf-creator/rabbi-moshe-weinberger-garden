@@ -6,6 +6,9 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "mesorah-of-tzaddikim"
+  - "the-shape-of-a-chassid"
+  - "tzaddik"
 aliases:
   - "824134"
   - "shiur 824134"
@@ -25,6 +28,21 @@ aliases:
 - Duration: 52 min
 - YUTorah source: [https://www.yutorah.org/lectures/824134](https://www.yutorah.org/lectures/824134)
 - Audio: [https://shiurim.yutorah.net/1996/1053/824134.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/1996/1053/824134.MP3?redirect=download.yutorah.org)
+
+## Concepts
+
+[[concepts/Tzaddik|Tzaddik]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/008-the-toldos-yaakov-yoseph-of-polonoye-8-the-prototype-of-the-tzaddik-in-the-early-rabbinical-writings-1|The Toldos Yaakov Yoseph Of Polonoye (8) The Prototype Of The Tzaddik In The Early Rabbinical Writings (1)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/010-no-am-elimelech-10-the-attachment-that-a-tzaddik-has-for-a-sinner|No’am Elimelech (10) The Attachment That A Tzaddik Has For A Sinner]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-kozhnitzer-maggid-6-the-belzer-rebbe-comes-to-israel|Kozhnitzer Maggid (6) The Belzer Rebbe Comes To Israel]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-the-toldos-yaakov-yoseph-of-polonoye-6-the-prototype-of-the-tzaddik-3|The Toldos Yaakov Yoseph Of Polonoye (6) The Prototype Of The Tzaddik (3)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/007-no-am-elimelech-7-a-tzaddik-s-responsibility-to-the-world|No’am Elimelech (7) A Tzaddik's Responsibility To The World]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/007-the-toldos-yaakov-yoseph-of-polonoye-7-the-prototype-of-the-tzaddik-4|The Toldos Yaakov Yoseph Of Polonoye (7) The Prototype Of The Tzaddik (4)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 
 ## Transcript
 

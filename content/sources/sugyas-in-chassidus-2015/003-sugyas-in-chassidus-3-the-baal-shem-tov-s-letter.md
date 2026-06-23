@@ -6,8 +6,14 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "baal-shem-tov-and-moshiach"
+  - "foundations-of-chassidus"
   - "baal-shem-tov"
+  - "baal-shem-tov-letter"
   - "chassidus"
+  - "chiddush-habaal-shem-tov"
+  - "kri-and-ksiv"
+  - "mitzvos"
   - "moshiach"
   - "torah"
 aliases:
@@ -30,9 +36,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/841314](https://www.yutorah.org/lectures/841314)
 - Audio: [https://shiurim.yutorah.net/2015/4909/841314.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/4909/841314.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/the-chiddush-of-the-baal-shem-tov|The Chiddush of the Baal Shem Tov]]
+- Themes: [[themes/baal-shem-tov-and-moshiach|Baal Shem Tov and Moshiach]], [[themes/foundations-of-chassidus|Foundations of Chassidus]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] / Next: [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]]
+
 ## Concepts
 
-[[Baal Shem Tov]] [[Chassidus]] [[Moshiach]] [[Torah]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Kri and Ksiv|Kri and Ksiv]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Moshiach|Moshiach]] [[concepts/Torah|Torah]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Baal Shem Tov, Baal Shem Tov Letter, Baal Shem Tov and Moshiach, Chassidus
+- [[sources/sugyas-in-chassidus-2015/001-sugyos-in-chassidus-what-is-the-chiddush-of-the-baal-shem-tov-1|Sugyos in Chassidus: What is the Chiddush of the Baal Shem Tov? (1)]] - Baal Shem Tov, Baal Shem Tov Letter, Baal Shem Tov and Moshiach, Chassidus
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Mitzvos
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Moshiach
+- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Chassidus, Foundations of Chassidus
+- [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Chassidus, Foundations of Chassidus, Torah
+- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Chassidus, Foundations of Chassidus, Moshiach, Torah
+- [[sources/sugyas-in-chassidus-2015/022-sugyas-in-chassidus-22-the-quintessential-point|Sugyas In Chassidus (22) The Quintessential Point]] - Chassidus, Chiddush HaBaal Shem Tov, Foundations of Chassidus, Kri and Ksiv
 
 ## Transcript
 

@@ -9,6 +9,6 @@ tags:
 
 # Glossary
 
-Research nodes connected to [[Glossary]].
+Research nodes connected to [[concepts/Glossary|Glossary]].
 
 ## Connected Sources

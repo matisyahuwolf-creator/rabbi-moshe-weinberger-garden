@@ -6,12 +6,25 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "mesorah-of-tzaddikim"
+  - "yichud-kavanah-and-mitzvos"
+  - "achdus"
+  - "avodah-begashmius"
   - "baal-shem-tov"
   - "chassidus"
+  - "five-shepherds"
   - "hashem"
+  - "heart"
+  - "kavanah"
+  - "lishem-yichud"
+  - "mesorah"
+  - "or"
+  - "rebbe-nachman"
   - "tanya"
   - "tefillah"
   - "torah"
+  - "tzaddik"
+  - "yichud"
 aliases:
   - "846714"
   - "shiur 846714"
@@ -32,9 +45,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/846714](https://www.yutorah.org/lectures/846714)
 - Audio: [https://shiurim.yutorah.net/2015/18705/846714.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/846714.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/teachers-shepherds-and-yichud|Teachers, Shepherds, and Yichud]]
+- Themes: [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]], [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] / Next: [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]]
+
 ## Concepts
 
-[[Baal Shem Tov]] [[Chassidus]] [[Hashem]] [[Tanya]] [[Tefillah]] [[Torah]]
+[[concepts/Achdus|Achdus]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Chassidus|Chassidus]] [[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Tanya|Tanya]] [[concepts/Tefillah|Tefillah]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yichud|Yichud]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Avodah Begashmius, Baal Shem Tov, Five Shepherds, Hashem
+- [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] - Achdus, Avodah Begashmius, Baal Shem Tov, Five Shepherds
+- [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]] - Achdus, Five Shepherds, Hashem, Kavanah
+- [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] - Five Shepherds, Hashem, Kavanah, Lishem Yichud
+- [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Chassidus, Five Shepherds, Hashem, Kavanah
+- [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Five Shepherds, Hashem, Kavanah, Lishem Yichud
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Five Shepherds, Hashem, Kavanah, Lishem Yichud
+- [[sources/sugyas-in-chassidus-2015/017-sugyas-in-chassidus-17-rebbe-nachman|Sugyas In Chassidus (17) Rebbe Nachman]] - Five Shepherds, Kavanah, Lishem Yichud, Mesorah
 
 ## Transcript
 

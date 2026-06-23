@@ -9,6 +9,6 @@ tags:
 
 # Transcription
 
-Research nodes connected to [[Transcription]].
+Research nodes connected to [[concepts/Transcription|Transcription]].
 
 ## Connected Sources

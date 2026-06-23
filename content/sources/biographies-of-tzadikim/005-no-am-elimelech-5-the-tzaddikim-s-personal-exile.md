@@ -6,6 +6,7 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "mesorah-of-tzaddikim"
   - "tzaddikim"
 aliases:
   - "823721"
@@ -29,7 +30,18 @@ aliases:
 
 ## Concepts
 
-[[Tzaddikim]]
+[[concepts/Tzaddikim|Tzaddikim]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Mesorah of Tzaddikim, Tzaddikim
+- [[sources/biographies-of-tzadikim/002-reb-mordechai-yoseph-of-izhbitz-2-the-friction-and-reconciliation-between-kotzk-and-izhbitz|Reb Mordechai Yoseph Of Izhbitz (2) The Friction And Reconciliation Between Kotzk And Izhbitz]] - Mesorah of Tzaddikim, Tzaddikim
+- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Mesorah of Tzaddikim, Tzaddikim
+- [[sources/biographies-of-tzadikim/003-rebbe-nachman-m-breslov-biography-3-understanding-the-value-and-risks-of-stories-of-tzadikim|Rebbe Nachman M'Breslov - Biography (3) Understanding The Value And Risks Of Stories Of Tzadikim]] - Mesorah of Tzaddikim, Tzaddikim
+- [[sources/biographies-of-tzadikim/004-baal-shem-tov-4-achiya-hashiloni-and-the-baal-shem-tov|Baal Shem Tov (4) Achiya Hashiloni And The Baal Shem Tov]] - Mesorah of Tzaddikim
+- [[sources/biographies-of-tzadikim/004-rebbe-nachman-m-breslov-biography-4-rebbe-nachman-s-lineage-birth-and-bris|Rebbe Nachman M'Breslov - Biography (4) Rebbe Nachman's Lineage, Birth, And Bris]] - Mesorah of Tzaddikim
+- [[sources/biographies-of-tzadikim/004-the-toldos-yaakov-yoseph-of-polonoye-4-the-prototype-of-the-tzaddik-2|The Toldos Yaakov Yoseph Of Polonoye (4) The Prototype Of The Tzaddik (2)]] - Mesorah of Tzaddikim
+- [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Mesorah of Tzaddikim
 
 ## Transcript
 

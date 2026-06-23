@@ -6,6 +6,9 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "mesorah-of-tzaddikim"
+  - "the-shape-of-a-chassid"
+  - "tzaddik"
 aliases:
   - "823723"
   - "shiur 823723"
@@ -25,6 +28,21 @@ aliases:
 - Duration: 55 min
 - YUTorah source: [https://www.yutorah.org/lectures/823723](https://www.yutorah.org/lectures/823723)
 - Audio: [https://shiurim.yutorah.net/2003/1053/823723.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2003/1053/823723.MP3?redirect=download.yutorah.org)
+
+## Concepts
+
+[[concepts/Tzaddik|Tzaddik]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-kozhnitzer-maggid-6-the-belzer-rebbe-comes-to-israel|Kozhnitzer Maggid (6) The Belzer Rebbe Comes To Israel]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/006-the-toldos-yaakov-yoseph-of-polonoye-6-the-prototype-of-the-tzaddik-3|The Toldos Yaakov Yoseph Of Polonoye (6) The Prototype Of The Tzaddik (3)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/008-the-toldos-yaakov-yoseph-of-polonoye-8-the-prototype-of-the-tzaddik-in-the-early-rabbinical-writings-1|The Toldos Yaakov Yoseph Of Polonoye (8) The Prototype Of The Tzaddik In The Early Rabbinical Writings (1)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/004-rebbe-nachman-m-breslov-biography-4-rebbe-nachman-s-lineage-birth-and-bris|Rebbe Nachman M'Breslov - Biography (4) Rebbe Nachman's Lineage, Birth, And Bris]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/004-the-toldos-yaakov-yoseph-of-polonoye-4-the-prototype-of-the-tzaddik-2|The Toldos Yaakov Yoseph Of Polonoye (4) The Prototype Of The Tzaddik (2)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 
 ## Transcript
 

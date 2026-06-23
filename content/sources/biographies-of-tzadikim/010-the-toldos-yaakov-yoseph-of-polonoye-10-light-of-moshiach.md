@@ -6,6 +6,7 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "baal-shem-tov-and-moshiach"
   - "moshiach"
 aliases:
   - "824135"
@@ -29,7 +30,18 @@ aliases:
 
 ## Concepts
 
-[[Moshiach]]
+[[concepts/Moshiach|Moshiach]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Baal Shem Tov and Moshiach
+- [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Baal Shem Tov and Moshiach
+- [[sources/biographies-of-tzadikim/012-the-yid-hakodesh-12-the-coming-of-moshiach|The Yid Hakodesh (12) The Coming Of Moshiach]] - Baal Shem Tov and Moshiach, Moshiach
+- [[sources/biographies-of-tzadikim/009-avnei-nezer-9-shabbos-and-eretz-yisrael|Avnei Nezer (9) Shabbos And Eretz Yisrael]]
+- [[sources/biographies-of-tzadikim/009-b-nei-yissaschar-9-connecting-to-g-d-through-mesiras-nefesh|B'nei Yissaschar (9) Connecting To G-D Through Mesiras Nefesh]]
+- [[sources/biographies-of-tzadikim/009-kedushas-levi-9-our-need-to-get-beyond-the-self|Kedushas Levi (9) Our Need To Get Beyond The Self]]
+- [[sources/biographies-of-tzadikim/009-kozhnitzer-maggid-9-harnessing-the-evil-inclination|Kozhnitzer Maggid (9) Harnessing The Evil Inclination]]
+- [[sources/biographies-of-tzadikim/009-no-am-elimelech-9-stories-of-his-personal-exile|No’am Elimelech (9) Stories Of His Personal Exile]]
 
 ## Transcript
 

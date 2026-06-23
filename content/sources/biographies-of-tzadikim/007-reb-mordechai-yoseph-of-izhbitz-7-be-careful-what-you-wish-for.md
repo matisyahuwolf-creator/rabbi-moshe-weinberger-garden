@@ -29,7 +29,18 @@ aliases:
 
 ## Concepts
 
-[[Izhbitz]]
+[[concepts/Izhbitz|Izhbitz]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/006-reb-mordechai-yoseph-of-izhbitz-6-teachings-on-how-to-refine-our-actions|Reb Mordechai Yoseph Of Izhbitz (6) Teachings On How To Refine Our Actions]] - Izhbitz
+- [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Izhbitz
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Izhbitz
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Izhbitz
+- [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]]
+- [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]]
+- [[sources/biographies-of-tzadikim/006-kozhnitzer-maggid-6-the-belzer-rebbe-comes-to-israel|Kozhnitzer Maggid (6) The Belzer Rebbe Comes To Israel]]
+- [[sources/biographies-of-tzadikim/006-noam-elimelech-6-the-suffering-of-the-noam-elimelech-and-reb-zusha-in-galus|Noam Elimelech (6) The Suffering Of The Noam Elimelech And Reb Zusha In Galus]]
 
 ## Transcript
 

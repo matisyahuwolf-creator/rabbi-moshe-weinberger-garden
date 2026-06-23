@@ -29,7 +29,18 @@ aliases:
 
 ## Concepts
 
-[[Izhbitz]]
+[[concepts/Izhbitz|Izhbitz]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Izhbitz
+- [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Izhbitz
+- [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Izhbitz
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Izhbitz
+- [[sources/biographies-of-tzadikim/005-avnei-nezer-5-pnimius-versus-externalities|Avnei Nezer (5) Pnimius Versus Externalities]]
+- [[sources/biographies-of-tzadikim/005-b-nei-yissaschar-5-a-truthful-prolific-writer-and-a-giant-torah-scholar|B'nei Yissaschar (5) A Truthful, Prolific Writer And A Giant Torah Scholar]]
+- [[sources/biographies-of-tzadikim/005-baal-shem-tov-5-the-every-jew-is-exceptional|Baal Shem Tov (5) The Every Jew Is Exceptional]]
+- [[sources/biographies-of-tzadikim/005-kedushas-levi-5-why-we-have-to-go-through-darkness-before-attaining-hashem-s-light|Kedushas Levi (5) Why We Have To Go Through Darkness Before Attaining Hashem’s Light]]
 
 ## Transcript
 

@@ -6,6 +6,9 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "kabbalah-brought-into-avodah"
+  - "yichud-kavanah-and-mitzvos"
+  - "kavanah"
 aliases:
   - "823492"
   - "shiur 823492"
@@ -25,6 +28,21 @@ aliases:
 - Duration: 48 min
 - YUTorah source: [https://www.yutorah.org/lectures/823492](https://www.yutorah.org/lectures/823492)
 - Audio: [https://shiurim.yutorah.net/1997/1053/823492.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/1997/1053/823492.MP3?redirect=download.yutorah.org)
+
+## Concepts
+
+[[concepts/Kavanah|Kavanah]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Kabbalah Brought into Avodah, Kavanah, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/005-reb-leibele-eiger-5-preparation-before-doing-mitzvos|Reb Leibele Eiger (5) Preparation Before Doing Mitzvos]] - Kabbalah Brought into Avodah, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/005-b-nei-yissaschar-5-a-truthful-prolific-writer-and-a-giant-torah-scholar|B'nei Yissaschar (5) A Truthful, Prolific Writer And A Giant Torah Scholar]] - Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/007-reb-leibele-eiger-7-his-tisch-torah-and-levaya|Reb Leibele Eiger (7) His Tisch, Torah And Levaya]] - Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/005-avnei-nezer-5-pnimius-versus-externalities|Avnei Nezer (5) Pnimius Versus Externalities]]
+- [[sources/biographies-of-tzadikim/005-baal-shem-tov-5-the-every-jew-is-exceptional|Baal Shem Tov (5) The Every Jew Is Exceptional]]
 
 ## Transcript
 

@@ -16,11 +16,11 @@ The first-pass transcripts are useful for discovery, but not yet for quotation. 
 
 ## Terms to watch
 
-- [[Baal Shem Tov|Baal Shem Tov]]
-- [[Divrei Elokim Chayim|Divrei Elokim Chayim]]
-- [[Mahapecha|Mahapecha]]
-- [[Tzimtzum|Tzimtzum]]
-- [[Tzaddikim|Tzaddikim]]
+- [[concepts/Baal Shem Tov|Baal Shem Tov]]
+- [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]]
+- [[concepts/Mahapecha|Mahapecha]]
+- [[concepts/Tzimtzum|Tzimtzum]]
+- [[concepts/Tzaddikim|Tzaddikim]]
 
 ## Review path
 

@@ -6,12 +6,21 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "foundations-of-chassidus"
+  - "kabbalah-brought-into-avodah"
+  - "torah-speech-and-revelation"
+  - "arizal"
   - "chassidus"
   - "emunah"
   - "hashem"
+  - "heart"
+  - "kabbalah"
   - "moshiach"
+  - "or"
+  - "pnimius-hatorah"
   - "tanya"
   - "torah"
+  - "tzaddik"
   - "yirah"
 aliases:
   - "844091"
@@ -33,9 +42,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/844091](https://www.yutorah.org/lectures/844091)
 - Audio: [https://shiurim.yutorah.net/2015/18705/844091.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/844091.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/secrets-of-torah-and-the-need-for-new-light|Secrets of Torah and the Need for New Light]]
+- Themes: [[themes/foundations-of-chassidus|Foundations of Chassidus]], [[themes/kabbalah-brought-into-avodah|Kabbalah Brought into Avodah]], [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] / Next: [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]]
+
 ## Concepts
 
-[[Chassidus]] [[Emunah]] [[Hashem]] [[Moshiach]] [[Tanya]] [[Torah]] [[Yirah]]
+[[concepts/Arizal|Arizal]] [[concepts/Chassidus|Chassidus]] [[concepts/Emunah|Emunah]] [[concepts/Hashem|Hashem]] [[concepts/Heart|Heart]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yirah|Yirah]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/007-sugyas-in-chassidus-7-the-need-for-a-great-light|Sugyas In Chassidus (7) The Need For A Great Light]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/006-sugyas-in-chassidus-6-toras-arizal|Sugyas In Chassidus (6) Toras Arizal]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Arizal, Chassidus, Foundations of Chassidus, Hashem
+- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Chassidus, Foundations of Chassidus, Hashem, Heart
+- [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] - Arizal, Hashem, Kabbalah, Moshiach
+- [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]] - Arizal, Hashem, Kabbalah, Moshiach
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Arizal, Hashem, Kabbalah, Moshiach
 
 ## Transcript
 

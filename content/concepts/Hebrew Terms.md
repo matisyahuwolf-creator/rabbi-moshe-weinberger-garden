@@ -9,6 +9,6 @@ tags:
 
 # Hebrew Terms
 
-Research nodes connected to [[Hebrew Terms]].
+Research nodes connected to [[concepts/Hebrew Terms|Hebrew Terms]].
 
 ## Connected Sources

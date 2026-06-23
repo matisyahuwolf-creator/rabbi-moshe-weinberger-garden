@@ -6,16 +6,24 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
+  - "baal-shem-tov-and-moshiach"
+  - "foundations-of-chassidus"
   - "baal-shem-tov"
+  - "baal-shem-tov-letter"
   - "chassidus"
+  - "chiddush-habaal-shem-tov"
   - "divrei-elokim-chayim"
   - "emunah"
+  - "kavanah"
   - "mahapecha"
+  - "moshiach"
   - "nesivos-shalom"
+  - "or"
   - "rebbe-nachman"
   - "simcha"
   - "tanya"
   - "torah"
+  - "tzaddik"
   - "tzaddikim"
 aliases:
   - "840612"
@@ -37,9 +45,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/840612](https://www.yutorah.org/lectures/840612)
 - Audio: [https://shiurim.yutorah.net/2015/18705/840612.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/840612.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/the-chiddush-of-the-baal-shem-tov|The Chiddush of the Baal Shem Tov]]
+- Themes: [[themes/baal-shem-tov-and-moshiach|Baal Shem Tov and Moshiach]], [[themes/foundations-of-chassidus|Foundations of Chassidus]]
+- Sequence: Next: [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]]
+
 ## Concepts
 
-[[Baal Shem Tov]] [[Chassidus]] [[Divrei Elokim Chayim]] [[Emunah]] [[Mahapecha]] [[Nesivos Shalom]] [[Rebbe Nachman]] [[Simcha]] [[Tanya]] [[Torah]] [[Tzaddikim]]
+[[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]] [[concepts/Divrei Elokim Chayim|Divrei Elokim Chayim]] [[concepts/Emunah|Emunah]] [[concepts/Kavanah|Kavanah]] [[concepts/Mahapecha|Mahapecha]] [[concepts/Moshiach|Moshiach]] [[concepts/Nesivos Shalom|Nesivos Shalom]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Simcha|Simcha]] [[concepts/Tanya|Tanya]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Tzaddikim|Tzaddikim]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Baal Shem Tov, Baal Shem Tov Letter, Baal Shem Tov and Moshiach, Chassidus
+- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Baal Shem Tov, Baal Shem Tov and Moshiach, Chassidus, Foundations of Chassidus
+- [[sources/sugyas-in-chassidus-2015/003-sugyas-in-chassidus-3-the-baal-shem-tov-s-letter|Sugyas In Chassidus (3) The Baal Shem Tov's Letter]] - Baal Shem Tov, Baal Shem Tov Letter, Baal Shem Tov and Moshiach, Chassidus
+- [[sources/sugyas-in-chassidus-2015/005-sugyas-in-chassidus-5-chronology-of-the-secrets-of-torah|Sugyas In Chassidus (5) Chronology Of The Secrets Of Torah]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Mahapecha
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Baal Shem Tov and Moshiach, Foundations of Chassidus, Kavanah, Or
+- [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Baal Shem Tov, Chassidus, Kavanah, Or
+- [[sources/sugyas-in-chassidus-2015/004-sugyas-in-chassidus-4-losing-touch-and-feeling|Sugyas In Chassidus (4) Losing Touch And Feeling]] - Baal Shem Tov, Chassidus, Foundations of Chassidus, Moshiach
+- [[sources/sugyas-in-chassidus-2015/008-sugyas-in-chassidus-8-tied-hands|Sugyas In Chassidus (8) Tied Hands]] - Chassidus, Emunah, Foundations of Chassidus, Moshiach
 
 ## Transcript
 

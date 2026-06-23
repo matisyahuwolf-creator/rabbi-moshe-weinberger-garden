@@ -6,6 +6,8 @@ tags:
   - "source"
   - "biographies-of-tzadikim"
   - "cataloged"
+  - "the-inner-soul-of-a-jew"
+  - "the-shape-of-a-chassid"
   - "simcha"
 aliases:
   - "823897"
@@ -29,7 +31,18 @@ aliases:
 
 ## Concepts
 
-[[Simcha]]
+[[concepts/Simcha|Simcha]]
+
+## Related Sources
+
+- [[sources/biographies-of-tzadikim/005-reb-simcha-bunim-of-pshischa-5-from-a-pharmacist-to-a-rebbe|Reb Simcha Bunim Of Pshischa (5) From A Pharmacist To A Rebbe]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/007-reb-simcha-bunim-of-pshischa-7-greatness-as-the-leader-and-his-opposition-2|Reb Simcha Bunim Of Pshischa (7) Greatness As The Leader And His Opposition (2)]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/003-reb-simcha-bunim-of-pshischa-3-story-of-his-wedding-day-and-other-stories|Reb Simcha Bunim Of Pshischa (3) Story Of His Wedding Day And Other Stories]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/004-reb-simcha-bunim-of-pshischa-4-hidden-greatness-before-the-days-of-his-leadership|Reb Simcha Bunim Of Pshischa (4) Hidden Greatness Before The Days Of His Leadership]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/008-reb-simcha-bunim-of-pshischa-8-the-wedding-that-ended-the-opposition|Reb Simcha Bunim Of Pshischa (8) The Wedding That Ended The Opposition]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/009-reb-simcha-bunim-of-pshischa-9-death-and-an-assortment-of-teachings|Reb Simcha Bunim Of Pshischa (9) Death And An Assortment Of Teachings]] - Simcha, The Inner Soul of a Jew, The Shape of a Chassid
+- [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - The Shape of a Chassid
 
 ## Transcript
 

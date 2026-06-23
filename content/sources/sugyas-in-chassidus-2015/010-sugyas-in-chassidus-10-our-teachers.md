@@ -6,11 +6,23 @@ tags:
   - "source"
   - "sugyas-in-chassidus-2015"
   - "transcribed"
-  - "chassidus"
+  - "mesorah-of-tzaddikim"
+  - "yichud-kavanah-and-mitzvos"
+  - "five-shepherds"
   - "hashem"
+  - "hiskashrus"
+  - "kabbalah"
+  - "kavanah"
+  - "lishem-yichud"
+  - "mesorah"
   - "moshiach"
+  - "or"
+  - "rebbe-nachman"
+  - "shechinah"
   - "simcha"
   - "torah"
+  - "tzaddik"
+  - "yichud"
 aliases:
   - "845344"
   - "shiur 845344"
@@ -31,9 +43,26 @@ aliases:
 - YUTorah source: [https://www.yutorah.org/lectures/845344](https://www.yutorah.org/lectures/845344)
 - Audio: [https://shiurim.yutorah.net/2015/18705/845344.MP3?redirect=download.yutorah.org](https://shiurim.yutorah.net/2015/18705/845344.MP3?redirect=download.yutorah.org)
 
+## Network Position
+
+- Sugya track: [[sugyos/teachers-shepherds-and-yichud|Teachers, Shepherds, and Yichud]]
+- Themes: [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]], [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]]
+- Sequence: Previous: [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] / Next: [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]]
+
 ## Concepts
 
-[[Chassidus]] [[Hashem]] [[Moshiach]] [[Simcha]] [[Torah]]
+[[concepts/Five Shepherds|Five Shepherds]] [[concepts/Hashem|Hashem]] [[concepts/Hiskashrus|Hiskashrus]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Kavanah|Kavanah]] [[concepts/Lishem Yichud|Lishem Yichud]] [[concepts/Mesorah|Mesorah]] [[concepts/Moshiach|Moshiach]] [[concepts/Or|Or]] [[concepts/Rebbe Nachman|Rebbe Nachman]] [[concepts/Shechinah|Shechinah]] [[concepts/Simcha|Simcha]] [[concepts/Torah|Torah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Yichud|Yichud]]
+
+## Related Sources
+
+- [[sources/sugyas-in-chassidus-2015/009-sugyas-in-chassidus-9-the-heilege-baal-shem-tov|Sugyas In Chassidus (9) The Heilege Baal Shem Tov]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/011-sugyas-in-chassidus-11-bringing-it-down|Sugyas In Chassidus (11) Bringing It Down]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/012-sugyas-in-chassidus-12-lishem-yichud|Sugyas In Chassidus (12) Lishem Yichud]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/014-sugyas-in-chassidus-14|Sugyas In Chassidus (14)]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/015-sugyas-in-chassidus-15-our-five-shepherds|Sugyas In Chassidus (15) Our Five Shepherds]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/016-sugyas-in-chassidus-16|Sugyas In Chassidus (16)]] - Five Shepherds, Hashem, Kabbalah, Kavanah
+- [[sources/sugyas-in-chassidus-2015/013-sugyas-in-chassidus-13-upper-yichud|Sugyas In Chassidus (13) Upper Yichud]] - Five Shepherds, Hashem, Kavanah, Lishem Yichud
+- [[sources/sugyas-in-chassidus-2015/017-sugyas-in-chassidus-17-rebbe-nachman|Sugyas In Chassidus (17) Rebbe Nachman]] - Five Shepherds, Kavanah, Lishem Yichud, Mesorah
 
 ## Transcript
 

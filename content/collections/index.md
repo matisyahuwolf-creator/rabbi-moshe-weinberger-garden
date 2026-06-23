@@ -26,7 +26,7 @@ Every research source keeps its original collection identity, so the garden can 
 - [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]] - 28 sources / 0 transcript-backed
 - [[collections/reb-areleh-roth|Reb Areleh Roth]] - 13 sources / 0 transcript-backed
 - [[collections/reb-leibele-eiger|Reb Leibele Eiger]] - 16 sources / 0 transcript-backed
-- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 10 sources / 9 transcript-backed
+- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 10 sources / 10 transcript-backed
 - [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]] - 13 sources / 0 transcript-backed
 - [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]] - 5 sources / 0 transcript-backed
 - [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]] - 122 sources / 16 transcript-backed

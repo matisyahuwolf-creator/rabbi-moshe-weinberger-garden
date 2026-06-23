@@ -13,7 +13,7 @@ Holiness in body, imagination, relationship, and daily life, especially around t
 
 ## Related Concepts
 
-[[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Hashem|Hashem]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Or|Or]] [[concepts/Chinuch|Chinuch]] [[concepts/Torah|Torah]] [[concepts/Neshama|Neshama]] [[concepts/Simcha|Simcha]] [[concepts/Tanya|Tanya]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Arizal|Arizal]]
+[[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Mitzvos|Mitzvos]] [[concepts/Torah|Torah]] [[concepts/Chinuch|Chinuch]] [[concepts/Heart|Heart]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Neshama|Neshama]] [[concepts/Simcha|Simcha]] [[concepts/Tanya|Tanya]]
 
 ## Connected Sources
 
@@ -33,4 +33,5 @@ Holiness in body, imagination, relationship, and daily life, especially around t
 - [[sources/biographies-of-tzadikim/016-r-tzadok-hakohen-16-forging-a-permanent-connection-to-holiness-through-fear-of-hashem|R. Tzadok Hakohen (16) Forging A Permanent Connection To Holiness Through Fear Of Hashem]] - Rav Tzadok HaKohen / #16 / Dec 09, 1996
 - [[sources/biographies-of-tzadikim/015-r-tzadok-hakohen-15-the-jew-s-essential-connection-to-holiness|R. Tzadok Hakohen (15) The Jew's Essential Connection To Holiness]] - Rav Tzadok HaKohen / #15 / Nov 25, 1996
 - [[sources/biographies-of-tzadikim/010-r-tzadok-hakohen-10-the-holiness-of-shabbos|R. Tzadok Hakohen (10) The Holiness Of Shabbos]] - Rav Tzadok HaKohen / #10 / Oct 14, 1996
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/004-reb-mordechai-yoseph-of-izhbitz-4-a-parent-s-good-intention|Reb Mordechai Yoseph Of Izhbitz (4) A Parent's Good Intention]] - Reb Mordechai Yosef of Izhbitz / #4 / Jul 10, 1995

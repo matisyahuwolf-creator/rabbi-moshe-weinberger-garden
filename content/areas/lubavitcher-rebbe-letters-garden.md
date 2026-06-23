@@ -40,7 +40,7 @@ A research wing for the Rebbe's letters and Igros Kodesh: guidance, horaos, avod
 - [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]] - 3 connected sources
 - [[collections/reb-areleh-roth|Reb Areleh Roth]] - 1 connected sources
 - [[collections/reb-leibele-eiger|Reb Leibele Eiger]] - 2 connected sources
-- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 9 connected sources
+- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 10 connected sources
 - [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]] - 13 connected sources
 - [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]] - 5 connected sources
 - [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]] - 43 connected sources
@@ -89,7 +89,7 @@ A research wing for the Rebbe's letters and Igros Kodesh: guidance, horaos, avod
 - [[sources/biographies-of-tzadikim/005-no-am-elimelech-5-the-tzaddikim-s-personal-exile|No’am Elimelech (5) The Tzaddikim's Personal Exile]] - Noam Elimelech / #5 / Oct 27, 2003
 - [[sources/biographies-of-tzadikim/005-reb-mordechai-yoseph-of-izhbitz-5-striving-as-an-individual|Reb Mordechai Yoseph Of Izhbitz (5) Striving As An Individual]] - Reb Mordechai Yosef of Izhbitz / #5 / Jul 17, 1995
 - [[sources/biographies-of-tzadikim/005-reb-simcha-bunim-of-pshischa-5-from-a-pharmacist-to-a-rebbe|Reb Simcha Bunim Of Pshischa (5) From A Pharmacist To A Rebbe]] - Reb Simcha Bunim of Peshischa / #5 / Nov 12, 2001
-- 127 additional connected sources.
+- 128 additional connected sources.
 
 ## Wider Map
 

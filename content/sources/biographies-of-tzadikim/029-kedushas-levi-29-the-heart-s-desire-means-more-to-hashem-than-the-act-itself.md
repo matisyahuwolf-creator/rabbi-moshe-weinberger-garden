@@ -43,9 +43,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Ratzon
 - [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Ratzon
 - [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Ratzon
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Heart
 - [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Heart
 - [[sources/sugyas-in-chassidus-2015/032-sugyas-in-chassidus-32-the-coldness-of-a-jew|Sugyas In Chassidus (32) The Coldness Of A Jew]] - Finding Hashem Everywhere, Hashem, Heart, The Inner Soul of a Jew
-- [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-in-the-darkness-you-will-find-me|Sugyas In Chassidus (34) In The Darkness You Will Find Me]] - Finding Hashem Everywhere, Hashem, Heart, The Inner Soul of a Jew
 
 ## Transcript
 

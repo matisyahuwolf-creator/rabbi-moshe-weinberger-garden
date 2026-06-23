@@ -6,6 +6,7 @@ tags:
   - "torah-and-chassidus"
   - "torah-and-chassidus"
   - "chassidus"
+  - "kelim"
   - "tafkid"
 ---
 

@@ -6,6 +6,7 @@ tags:
   - "source"
   - "chaburas-yosef-hatzaddik"
   - "cataloged"
+  - "kelim"
   - "yosef-hatzaddik"
 aliases:
   - "975414"
@@ -29,7 +30,7 @@ aliases:
 
 ## Concepts
 
-[[concepts/Yosef HaTzaddik|Yosef HaTzaddik]]
+[[concepts/Kelim|Kelim]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]]
 
 ## Related Sources
 

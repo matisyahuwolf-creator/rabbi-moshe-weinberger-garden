@@ -24,7 +24,7 @@ Research nodes connected to [[concepts/Hashem|Hashem]].
 
 ## Related Concepts
 
-[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Neshama|Neshama]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Shechinah|Shechinah]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Heart|Heart]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]]
+[[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Neshama|Neshama]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Heart|Heart]] [[concepts/Shechinah|Shechinah]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]]
 
 ## Connected Sources
 

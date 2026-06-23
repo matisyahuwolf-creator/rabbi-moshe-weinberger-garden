@@ -10,10 +10,13 @@ tags:
 
 Welcome. This is a living hypertext garden for Torah research: Chassidus, Sefer HaArachim, the Lubavitcher Rebbe's letters, source work, concept maps, shiurim, sefarim, tzaddikim, avodah, and curated learning paths.
 
+The mission is the Ramchal's garden: to know each Torah idea in its true place, with its parts, relationships, causes, effects, categories, and associations. This site is a set of kelim for that work, not adding to what is, but making the relationships visible until the Torah becomes alive.
+
 For now, this site is intentionally scoped to Torah. The Rabbi Moshe Weinberger archive is a central beis midrash wing, alongside Chabad concept work, Igros Kodesh/letters research, and your own Torah notes.
 
 If this is your first walk through, start with one of these doors:
 
+- The mission: [[garden/mission/garden-mission|Garden Mission]], [[maps/research-garden-atlas|Torah Research Atlas]], and [[structures/research-garden-blueprint|Torah Research Blueprint]].
 - The main beis midrash: [[areas/torah-and-chassidus|Torah and Chassidus]], [[structures/heichal-hachassidus|Heichal HaChassidus]], and [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]].
 - The Chabad concept workroom: [[areas/sefer-haarachim-garden|Sefer HaArachim Garden]], [[garden/sefer-haarachim/sefer-haarachim-garden|Sefer HaArachim Garden Note]], and [[concepts/Sefer HaArachim|Sefer HaArachim]].
 - The letters table: [[areas/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]], [[garden/lubavitcher-rebbe-letters/lubavitcher-rebbe-letters-garden|Letters Garden Note]], and [[concepts/Igros Kodesh|Igros Kodesh]].
@@ -23,6 +26,7 @@ If this is your first walk through, start with one of these doors:
 
 ## Selected Paths
 
+- [[garden/mission/garden-mission|Garden Mission]] - the Ramchal and Basi LeGani frame for the whole garden.
 - [[maps/research-garden-atlas|Torah Research Atlas]] - the map of the Torah garden.
 - [[structures/research-garden-blueprint|Torah Research Blueprint]] - the growth pattern for the site.
 - [[areas/torah-and-chassidus|Torah and Chassidus]] - the main Torah doorway.
@@ -44,10 +48,10 @@ If this is your first walk through, start with one of these doors:
 
 ## Archive Status
 
-- Personal Torah notes: 11
+- Personal Torah notes: 12
 - Cataloged sources: 632
-- Transcript-backed sources: 30
-- Concept nodes: 56
+- Transcript-backed sources: 31
+- Concept nodes: 61
 - Research areas: 9
 - Source collections: 19
 - Sugyas in Chassidus shiurim: 122
@@ -82,7 +86,7 @@ If this is your first walk through, start with one of these doors:
 - [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]]: 28 cataloged / 0 transcribed
 - [[collections/reb-areleh-roth|Reb Areleh Roth]]: 13 cataloged / 0 transcribed
 - [[collections/reb-leibele-eiger|Reb Leibele Eiger]]: 16 cataloged / 0 transcribed
-- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]: 10 cataloged / 9 transcribed
+- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]]: 10 cataloged / 10 transcribed
 - [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]]: 13 cataloged / 0 transcribed
 - [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]]: 5 cataloged / 0 transcribed
 - [[collections/sugyas-in-chassidus-2015|Sugyas in Chassidus 2015]]: 122 cataloged / 16 transcribed

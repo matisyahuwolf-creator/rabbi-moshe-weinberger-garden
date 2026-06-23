@@ -30,6 +30,7 @@ tags:
 - [[concepts/Mesorah|Mesorah]] - 2 sources
 - [[concepts/Moshiach|Moshiach]] - 2 sources
 - [[concepts/Ein Od Milvado|Ein Od Milvado]] - 1 sources
+- [[concepts/Kelim|Kelim]] - 1 sources
 - [[concepts/Shechinah|Shechinah]] - 1 sources
 - [[concepts/Simcha|Simcha]] - 1 sources
 

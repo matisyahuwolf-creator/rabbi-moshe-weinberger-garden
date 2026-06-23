@@ -10,12 +10,13 @@ tags:
 
 # Torah Research Blueprint
 
-This page defines the growth pattern for the Torah research site: raw source material enters as collections, concepts gather repeated language, themes organize meaning, areas provide broad doors, and structures become curated paths.
+This page defines the growth pattern for the Torah research site: raw source material enters as collections, concepts gather repeated language, themes organize meaning, areas provide broad doors, and structures become curated paths. The goal is not to add content for its own sake, but to create kelim that make relationships visible.
 
 ## Layers
 
 | Layer | Folder | Purpose |
 | --- | --- | --- |
+| Mission | `garden/mission/` | State the Ramchal/Basi LeGani method for turning a thicket of information into a living garden. |
 | Personal Torah notes | `garden/` | Your living Torah notes and Torah research threads. |
 | Source collections | `sources/` and `collections/` | Preserve provenance, sequence, audio links, and transcript status. |
 | Concepts | `concepts/` | Give recurring Torah language a stable node. |
@@ -38,6 +39,8 @@ This page defines the growth pattern for the Torah research site: raw source mat
 
 ## Next Deepening Moves
 
+- Make the mission page the test for every new structure: does it reveal true place and relationship?
+- Mark whole/part, category/specific, cause/effect, and subject/association when a note is being clarified.
 - Build pages for non-Weinberger Torah source corpora when they are ready to import.
 - Add text-source notes for sefarim that the shiurim quote repeatedly.
 - Add status fields for raw, reviewed, distilled, and polished research.

@@ -52,6 +52,7 @@ The Baal Shem Tov's letter, his aliyah, and the mission of spreading the wellspr
 - [[sources/biographies-of-tzadikim/009-baal-shem-tov-9-serving-hashem-through-the-way-of-unification|Baal Shem Tov (9) Serving Hashem Through The Way Of Unification]] - Baal Shem Tov / #9 / Oct 11, 1999
 - [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-baal-shem-tov-10-extracting-the-good-from-the-evil|Baal Shem Tov (10) Extracting The Good From The Evil]] - Baal Shem Tov / #10 / Oct 18, 1999
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-the-toldos-yaakov-yoseph-of-polonoye-10-light-of-moshiach|The Toldos Yaakov Yoseph Of Polonoye (10) Light Of Moshiach]] - Toldos Yaakov Yosef of Polnoye / #10 / Jan 29, 1996
 - [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Baal Shem Tov / #11 / Nov 01, 1999
 - [[sources/biographies-of-tzadikim/012-baal-shem-tov-12-the-ten-points-to-serving-hashem|Baal Shem Tov (12) The Ten Points To Serving Hashem]] - Baal Shem Tov / #12 / Nov 15, 1999
@@ -61,8 +62,7 @@ The Baal Shem Tov's letter, his aliyah, and the mission of spreading the wellspr
 - [[sources/biographies-of-tzadikim/015-baal-shem-tov-15-the-evil-inclination-s-battle|Baal Shem Tov (15) The Evil Inclination's Battle]] - Baal Shem Tov / #15 / Dec 06, 1999
 - [[sources/biographies-of-tzadikim/016-baal-shem-tov-16-serving-g-d-through-our-true-being|Baal Shem Tov (16) Serving G-D Through Our True Being]] - Baal Shem Tov / #16 / Dec 13, 1999
 - [[sources/biographies-of-tzadikim/017-baal-shem-tov-17-attachment-to-hashem-through-prayer|Baal Shem Tov (17) Attachment To Hashem Through Prayer]] - Baal Shem Tov / #17 / Dec 20, 1999
-- [[sources/biographies-of-tzadikim/017-kedushas-levi-17-a-vessel-to-receive-the-light-of-hashem|Kedushas Levi (17) A Vessel To Receive The Light Of Hashem]] - Kedushas Levi / #17 / Jan 06, 2003
-- 15 additional archive sources connect through this theme.
+- 16 additional archive sources connect through this theme.
 
 ## Network Map
 

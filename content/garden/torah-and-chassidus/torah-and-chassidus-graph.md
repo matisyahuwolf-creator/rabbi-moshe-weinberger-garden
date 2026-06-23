@@ -7,6 +7,7 @@ tags:
   - "torah-and-chassidus"
   - "avodas-hashem"
   - "chassidus"
+  - "kelim"
   - "tafkid"
   - "tanya"
   - "torah"

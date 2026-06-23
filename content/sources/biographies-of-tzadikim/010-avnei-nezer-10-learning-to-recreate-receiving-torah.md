@@ -41,8 +41,8 @@ aliases:
 - [[sources/biographies-of-tzadikim/007-reb-mordechai-yoseph-of-izhbitz-7-be-careful-what-you-wish-for|Reb Mordechai Yoseph Of Izhbitz (7) Be Careful What You Wish For]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/007-the-divrei-chaim-of-sanz-7-a-prerequisite-for-accepting-the-torah|The Divrei Chaim Of Sanz (7) A Prerequisite For Accepting The Torah]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/008-reb-mordechai-yoseph-of-izhbitz-8-don-t-look-for-trouble|Reb Mordechai Yoseph Of Izhbitz (8) Don't Look For Trouble]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 - [[sources/biographies-of-tzadikim/013-reb-simcha-bunim-of-pshischa-13-accepting-the-torah-through-difficulty|Reb Simcha Bunim Of Pshischa (13) Accepting The Torah Through Difficulty]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
-- [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Torah, Torah, Speech, and Revelation, Yichud, Kavanah, and Mitzvos
 
 ## Transcript
 

@@ -9,41 +9,41 @@ tags:
 
 # Reb Mordechai Yosef of Izhbitz
 
-10 sources are indexed here; 9 currently have transcript text in the garden.
+10 sources are indexed here; 10 currently have transcript text in the garden.
 
 ## Top Concepts
 
 - [[concepts/Hashem|Hashem]] - 10 sources
 - [[concepts/Izhbitz|Izhbitz]] - 10 sources
-- [[concepts/Or|Or]] - 9 sources
-- [[concepts/Torah|Torah]] - 9 sources
-- [[concepts/Tzaddik|Tzaddik]] - 9 sources
+- [[concepts/Or|Or]] - 10 sources
+- [[concepts/Torah|Torah]] - 10 sources
+- [[concepts/Tzaddik|Tzaddik]] - 10 sources
 - [[concepts/Chinuch|Chinuch]] - 5 sources
 - [[concepts/Tzaddikim|Tzaddikim]] - 5 sources
 - [[concepts/Ratzon|Ratzon]] - 4 sources
+- [[concepts/Heart|Heart]] - 3 sources
 - [[concepts/Mitzvos|Mitzvos]] - 3 sources
 - [[concepts/Simcha|Simcha]] - 3 sources
 - [[concepts/Baal Shem Tov|Baal Shem Tov]] - 2 sources
 - [[concepts/Chassidus|Chassidus]] - 2 sources
-- [[concepts/Heart|Heart]] - 2 sources
+- [[concepts/Kedusha|Kedusha]] - 2 sources
 - [[concepts/Kotzk|Kotzk]] - 2 sources
 - [[concepts/Moshiach|Moshiach]] - 2 sources
+- [[concepts/Tafkid|Tafkid]] - 2 sources
 - [[concepts/Tanya|Tanya]] - 2 sources
 - [[concepts/Ahavas Yisrael|Ahavas Yisrael]] - 1 sources
 - [[concepts/Avodah Begashmius|Avodah Begashmius]] - 1 sources
-- [[concepts/Avodas Hashem|Avodas Hashem]] - 1 sources
-- [[concepts/Kabbalah|Kabbalah]] - 1 sources
 
 ## Theme Links
 
+- [[themes/baal-shem-tov-and-moshiach|Baal Shem Tov and Moshiach]] - 10 sources
 - [[themes/ein-od-milvado-and-tzimtzum|Ein Od Milvado and Tzimtzum]] - 10 sources
 - [[themes/finding-hashem-everywhere|Finding Hashem Everywhere]] - 10 sources
-- [[themes/baal-shem-tov-and-moshiach|Baal Shem Tov and Moshiach]] - 9 sources
-- [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]] - 9 sources
-- [[themes/the-shape-of-a-chassid|The Shape of a Chassid]] - 9 sources
-- [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]] - 9 sources
-- [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]] - 9 sources
-- [[themes/the-inner-soul-of-a-jew|The Inner Soul of a Jew]] - 7 sources
+- [[themes/mesorah-of-tzaddikim|Mesorah of Tzaddikim]] - 10 sources
+- [[themes/the-shape-of-a-chassid|The Shape of a Chassid]] - 10 sources
+- [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]] - 10 sources
+- [[themes/yichud-kavanah-and-mitzvos|Yichud, Kavanah, and Mitzvos]] - 10 sources
+- [[themes/the-inner-soul-of-a-jew|The Inner Soul of a Jew]] - 8 sources
 - [[themes/foundations-of-chassidus|Foundations of Chassidus]] - 5 sources
 - [[themes/kabbalah-brought-into-avodah|Kabbalah Brought into Avodah]] - 4 sources
 - [[themes/keser-shem-tov-textual-cycle|Keser Shem Tov Textual Cycle]] - 3 sources

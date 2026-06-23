@@ -22,7 +22,7 @@ Research nodes connected to [[concepts/Heart|Heart]].
 
 ## Related Concepts
 
-[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Neshama|Neshama]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Tanya|Tanya]] [[concepts/Tzaddikim|Tzaddikim]] [[concepts/Arizal|Arizal]]
+[[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Torah|Torah]] [[concepts/Avodah Begashmius|Avodah Begashmius]] [[concepts/Neshama|Neshama]] [[concepts/Shechinah|Shechinah]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Chassidus|Chassidus]] [[concepts/Chinuch|Chinuch]] [[concepts/Izhbitz|Izhbitz]] [[concepts/Tanya|Tanya]] [[concepts/Tzaddikim|Tzaddikim]]
 
 ## Connected Sources
 
@@ -47,5 +47,6 @@ Research nodes connected to [[concepts/Heart|Heart]].
 - [[sources/biographies-of-tzadikim/003-kozhnitzer-maggid-3-his-heart-was-received-from-rebbi-elimelech|Kozhnitzer Maggid (3) His Heart Was Received From Rebbi Elimelech]] - Kozhnitzer Maggid / #3 / Aug 17, 1998
 - [[sources/biographies-of-tzadikim/009-r-tzadok-hakohen-9-what-really-lies-in-the-heart-of-the-wicked|R. Tzadok Hakohen (9) What Really Lies In The Heart Of The Wicked]] - Rav Tzadok HaKohen / #9 / Sep 09, 1996
 - [[sources/biographies-of-tzadikim/006-r-tzadok-hakohen-6-integrating-knowledge-of-the-mind-and-the-heart|R. Tzadok Hakohen (6) Integrating Knowledge Of The Mind And The Heart]] - Rav Tzadok HaKohen / #6 / Aug 19, 1996
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995
 - [[sources/biographies-of-tzadikim/001-reb-mordechai-yoseph-of-izhbitz-1-biographical-information|Reb Mordechai Yoseph Of Izhbitz (1) Biographical Information]] - Reb Mordechai Yosef of Izhbitz / #1 / Jun 14, 1995

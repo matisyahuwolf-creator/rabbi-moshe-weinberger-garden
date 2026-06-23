@@ -5,6 +5,7 @@ tags:
   - "garden-note"
   - "torah-and-chassidus"
   - "torah-and-chassidus"
+  - "kelim"
   - "tafkid"
   - "tzimtzum"
 ---

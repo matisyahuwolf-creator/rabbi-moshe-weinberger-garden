@@ -69,7 +69,7 @@ The teachers and tzaddikim through whom the light of Chassidus is carried, clari
 - [[sources/biographies-of-tzadikim/006-b-nei-yissaschar-6-a-prominent-tzaddik-and-rav-of-ten-communities|B'nei Yissaschar (6) A Prominent Tzaddik And Rav Of Ten Communities]] - Bnei Yissaschar / #6 / Dec 28, 1998
 - [[sources/biographies-of-tzadikim/006-baal-shem-tov-6-the-holiness-of-a-tzaddik-s-burial-place|Baal Shem Tov (6)The Holiness Of A Tzaddik's Burial Place]] - Baal Shem Tov / #6 / May 31, 1999
 - [[sources/biographies-of-tzadikim/006-kozhnitzer-maggid-6-the-belzer-rebbe-comes-to-israel|Kozhnitzer Maggid (6) The Belzer Rebbe Comes To Israel]] - Kozhnitzer Maggid / #6 / Sep 14, 1998
-- 41 additional archive sources connect through this theme.
+- 42 additional archive sources connect through this theme.
 
 ## Network Map
 

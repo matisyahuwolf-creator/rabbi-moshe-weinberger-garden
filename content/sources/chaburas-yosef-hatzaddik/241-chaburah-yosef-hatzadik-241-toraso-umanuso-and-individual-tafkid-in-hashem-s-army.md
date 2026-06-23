@@ -39,12 +39,12 @@ aliases:
 
 - [[sources/chaburas-yosef-hatzaddik/239-chaburah-yosef-hatzadik-239-serving-hashem-in-all-aspects-of-life|Chaburah Yosef HaTzadik (239) Serving Hashem in All Aspects of Life]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Tafkid
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Tafkid
 - [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 - [[sources/chaburas-yosef-hatzaddik/003-chaburas-yosef-hatzaddik-3-from-instinct-to-intellect|Chaburas Yosef HaTzaddik (3) From Instinct To Intellect]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 - [[sources/chaburas-yosef-hatzaddik/004-chaburas-yosef-hatzaddik-4-instincts-and-thought|Chaburas Yosef HaTzaddik (4) Instincts And Thought]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 - [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 - [[sources/chaburas-yosef-hatzaddik/014-chaburah-yosef-hatzadik-14-chinuch-training-children-to-become-devout-servants-of-hashem|Chaburah Yosef HaTzadik (14) Chinuch: Training children to become devout servants of Hashem]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
-- [[sources/chaburas-yosef-hatzaddik/059-chaburah-yosef-hatzadik-59-hashem-has-a-special-affection-for-a-shomer-habris|Chaburah Yosef HaTzadik (59) Hashem Has a Special Affection For a Shomer Habris]] - Ein Od Milvado and Tzimtzum, Finding Hashem Everywhere, Hashem, Yosef HaTzaddik
 
 ## Transcript
 

@@ -13,6 +13,7 @@ The main doorway into the garden: Chassidus, pnimius haTorah, avodas Hashem, sou
 
 ## Entry Points
 
+- [[garden/mission/garden-mission|Garden Mission]]
 - [[structures/heichal-hachassidus|Heichal HaChassidus]]
 - [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]]
 - [[garden/torah-and-chassidus/torah-and-chassidus-moc|Torah and Chassidus MOC]]
@@ -25,7 +26,7 @@ The main doorway into the garden: Chassidus, pnimius haTorah, avodas Hashem, sou
 
 ## Core Concepts
 
-[[concepts/Chassidus|Chassidus]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Torah|Torah]] [[concepts/Tanya|Tanya]]
+[[concepts/Chassidus|Chassidus]] [[concepts/Pnimius HaTorah|Pnimius HaTorah]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Torah|Torah]] [[concepts/Tanya|Tanya]] [[concepts/Garden Mission|Garden Mission]]
 
 ## Primary Source Collections
 
@@ -44,7 +45,7 @@ The main doorway into the garden: Chassidus, pnimius haTorah, avodas Hashem, sou
 - [[collections/noam-elimelech|Noam Elimelech]] - 10 connected sources
 - [[collections/rav-tzadok-hakohen|Rav Tzadok HaKohen]] - 2 connected sources
 - [[collections/reb-leibele-eiger|Reb Leibele Eiger]] - 3 connected sources
-- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 9 connected sources
+- [[collections/reb-mordechai-yosef-of-izhbitz|Reb Mordechai Yosef of Izhbitz]] - 10 connected sources
 - [[collections/reb-simcha-bunim-of-peshischa|Reb Simcha Bunim of Peshischa]] - 13 connected sources
 - [[collections/rebbe-nachman-of-breslov-biography|Rebbe Nachman of Breslov biography]] - 5 connected sources
 - [[collections/toldos-yaakov-yosef-of-polnoye|Toldos Yaakov Yosef of Polnoye]] - 9 connected sources
@@ -100,7 +101,7 @@ The main doorway into the garden: Chassidus, pnimius haTorah, avodas Hashem, sou
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-in-the-darkness-you-will-find-me|Sugyas In Chassidus (34) In The Darkness You Will Find Me]] - Sugyas in Chassidus 2015 / #34 / Nov 04, 2016
 - [[sources/sugyas-in-chassidus-2015/034-sugyas-in-chassidus-34-walking-with-hashem-through-the-journey-of-life|Sugyas In Chassidus (34) Walking With Hashem Through The Journey Of Life]] - Sugyas in Chassidus 2015 / #34 / Nov 11, 2016
 - [[sources/sugyas-in-chassidus-2015/036-sugyas-in-chassidus-36-finding-hashem-in-your-heart|Sugyas In Chassidus (36) Finding Hashem In Your Heart]] - Sugyas in Chassidus 2015 / #36 / Nov 18, 2016
-- 197 additional connected sources.
+- 198 additional connected sources.
 
 ## Wider Map
 

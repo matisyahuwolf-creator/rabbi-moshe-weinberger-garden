@@ -13,7 +13,7 @@ A person's unique assignment in avodas Hashem and the way that mission becomes v
 
 ## Related Concepts
 
-[[concepts/Torah|Torah]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]]
+[[concepts/Torah|Torah]] [[concepts/Hashem|Hashem]] [[concepts/Or|Or]] [[concepts/Yosef HaTzaddik|Yosef HaTzaddik]] [[concepts/Tzaddik|Tzaddik]] [[concepts/Baal Shem Tov|Baal Shem Tov]] [[concepts/Kabbalah|Kabbalah]] [[concepts/Moshiach|Moshiach]] [[concepts/Avodas Hashem|Avodas Hashem]] [[concepts/Baal Shem Tov Letter|Baal Shem Tov Letter]] [[concepts/Chassidus|Chassidus]] [[concepts/Chiddush HaBaal Shem Tov|Chiddush HaBaal Shem Tov]]
 
 ## Connected Sources
 
@@ -26,4 +26,5 @@ A person's unique assignment in avodas Hashem and the way that mission becomes v
 - [[sources/sugyas-in-chassidus-2015/010-sugyas-in-chassidus-10-our-teachers|Sugyas In Chassidus (10) Our Teachers]] - Sugyas in Chassidus 2015 / #10 / Nov 20, 2015
 - [[sources/sugyas-in-chassidus-2015/003-sugyas-in-chassidus-3-the-baal-shem-tov-s-letter|Sugyas In Chassidus (3) The Baal Shem Tov's Letter]] - Sugyas in Chassidus 2015 / #3 / Sep 18, 2015
 - [[sources/sugyas-in-chassidus-2015/002-sugyas-in-chassidus-2-the-baal-shem-tov-s-letter|Sugyas In Chassidus (2) The Baal Shem Tov's Letter]] - Sugyas in Chassidus 2015 / #2 / Sep 11, 2015
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/003-reb-mordechai-yoseph-of-izhbitz-3-do-you-know-your-real-name|Reb Mordechai Yoseph Of Izhbitz (3) Do You Know Your Real Name?]] - Reb Mordechai Yosef of Izhbitz / #3 / Jul 03, 1995

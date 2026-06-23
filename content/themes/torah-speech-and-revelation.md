@@ -71,6 +71,7 @@ Torah as living speech: kri and ksiv, hidden and revealed Torah, and the way wor
 - [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Be'er Mayim Chaim / #9 / Mar 09, 1998
 - [[sources/biographies-of-tzadikim/010-avnei-nezer-10-learning-to-recreate-receiving-torah|Avnei Nezer (10) Learning To Recreate Receiving Torah]] - Avnei Nezer / #10 / May 19, 1997
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/013-reb-simcha-bunim-of-pshischa-13-accepting-the-torah-through-difficulty|Reb Simcha Bunim Of Pshischa (13) Accepting The Torah Through Difficulty]] - Reb Simcha Bunim of Peshischa / #13 / Feb 04, 2002
 - [[sources/biographies-of-tzadikim/017-kedushas-levi-17-a-vessel-to-receive-the-light-of-hashem|Kedushas Levi (17) A Vessel To Receive The Light Of Hashem]] - Kedushas Levi / #17 / Jan 06, 2003
 - [[sources/biographies-of-tzadikim/017-no-am-elimelech-17-defeating-the-other-side-with-more-and-more-torah|No’am Elimelech (17) Defeating The "Other Side" With More And More Torah]] - Noam Elimelech / #17 / Feb 16, 2004
@@ -84,8 +85,7 @@ Torah as living speech: kri and ksiv, hidden and revealed Torah, and the way wor
 - [[sources/chaburas-yosef-hatzaddik/005-chaburas-yosef-hatzaddik-5-connecting-to-the-deepest-instinct-of-a-jew|Chaburas Yosef HaTzaddik (5) Connecting To The Deepest Instinct Of A Jew]] - Chaburas Yosef HaTzaddik / #5 / Mar 06, 2016
 - [[sources/chaburas-yosef-hatzaddik/064-chaburah-yosef-hatzadik-64-is-my-life-real-or-a-purim-shpiel|Chaburah Yosef HaTzadik (64) Is My Life Real or a Purim Shpiel]] - Chaburas Yosef HaTzaddik / #64 / Feb 10, 2019
 - [[sources/chaburas-yosef-hatzaddik/129-chaburah-yosef-hatzadik-129-business-approach-torah-learning-by-an-ish-yesodi|Chaburah Yosef HaTzadik (129) Business Approach & Torah Learning By An Ish Yesodi]] - Chaburas Yosef HaTzaddik / #129 / May 09, 2021
-- [[sources/chaburas-yosef-hatzaddik/131-chaburah-yosef-hatzadik-131-the-fundamental-approach-to-torah-learning|Chaburah Yosef HaTzadik (131) The Fundamental Approach To Torah Learning]] - Chaburas Yosef HaTzaddik / #131 / May 30, 2021
-- 1 additional archive sources connect through this theme.
+- 2 additional archive sources connect through this theme.
 
 ## Network Map
 

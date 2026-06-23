@@ -80,6 +80,7 @@ The essential neshama point: feeling, coldness, life-force, ratzon, and the part
 - [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Reb Mordechai Yosef of Izhbitz / #9 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/009-reb-simcha-bunim-of-pshischa-9-death-and-an-assortment-of-teachings|Reb Simcha Bunim Of Pshischa (9) Death And An Assortment Of Teachings]] - Reb Simcha Bunim of Peshischa / #9 / Jan 07, 2002
 - [[sources/biographies-of-tzadikim/009-the-be-er-mayim-chaim-9-shabbos-leads-to-yearning-for-the-entire-torah|The Be'er Mayim Chaim (9) Shabbos Leads To Yearning For The Entire Torah]] - Be'er Mayim Chaim / #9 / Mar 09, 1998
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Reb Mordechai Yosef of Izhbitz / #10 / Aug 21, 1995
 - [[sources/biographies-of-tzadikim/010-the-be-er-mayim-chaim-10-when-a-soul-is-in-exile|The Be'er Mayim Chaim (10) When A Soul Is In Exile]] - Be'er Mayim Chaim / #10 / Mar 16, 1998
 - [[sources/biographies-of-tzadikim/011-reb-simcha-bunim-of-pshischa-11-importance-of-truth|Reb Simcha Bunim Of Pshischa (11) Importance Of Truth]] - Reb Simcha Bunim of Peshischa / #11 / Jan 21, 2002
 - [[sources/biographies-of-tzadikim/012-reb-simcha-bunim-of-pshischa-12-tzaddik-as-a-spiritual-healer|Reb Simcha Bunim Of Pshischa (12) Tzaddik As A Spiritual Healer]] - Reb Simcha Bunim of Peshischa / #12 / Jan 28, 2002
@@ -88,8 +89,7 @@ The essential neshama point: feeling, coldness, life-force, ratzon, and the part
 - [[sources/biographies-of-tzadikim/020-no-am-elimelech-20-passing-through-difficulties-with-simplicity-and-simcha|No’am Elimelech (20) Passing Through Difficulties With Simplicity And Simcha]] - Noam Elimelech / #20 / Mar 15, 2004
 - [[sources/biographies-of-tzadikim/024-no-am-elimelech-24-returning-to-hashem-in-joy|No’am Elimelech (24) Returning To Hashem In Joy]] - Noam Elimelech / #24 / May 24, 2004
 - [[sources/biographies-of-tzadikim/029-kedushas-levi-29-the-heart-s-desire-means-more-to-hashem-than-the-act-itself|Kedushas Levi (29) The Heart's Desire Means More To Hashem Than The Act Itself]] - Kedushas Levi / #29 / Jun 16, 2003
-- [[sources/chaburas-yosef-hatzaddik/001-chaburas-yosef-hatzaddik-1|Chaburas Yosef HaTzaddik (1)]] - Chaburas Yosef HaTzaddik / #1 / Jan 31, 2016
-- 12 additional archive sources connect through this theme.
+- 13 additional archive sources connect through this theme.
 
 ## Network Map
 

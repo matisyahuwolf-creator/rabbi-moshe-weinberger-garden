@@ -10,13 +10,13 @@ tags:
 
 # Torah Research Atlas
 
-This atlas is the public map of the Torah garden: personal Torah notes, shiurim, source corpora, concept work, theme hubs, and polished paths all connected as one hypertext.
+This atlas is the public map of the Torah garden: personal Torah notes, shiurim, source corpora, concept work, theme hubs, and polished paths all connected as one hypertext. Its mission follows the Ramchal's garden image in Derech Hashem and the Basi LeGani frame: build kelim that reveal the true place and relationships of Torah ideas.
 
 ## Current Shape
 
-- Personal Torah notes: 11
+- Personal Torah notes: 12
 - Indexed sources: 632
-- Transcript-backed sources: 30
+- Transcript-backed sources: 31
 - Research areas: 9
 - Source collections: 19
 - Theme hubs: 11
@@ -24,15 +24,15 @@ This atlas is the public map of the Torah garden: personal Torah notes, shiurim,
 
 ## Research Areas
 
-- [[areas/torah-and-chassidus|Torah and Chassidus]] - 9 Torah notes, 232 connected sources
+- [[areas/torah-and-chassidus|Torah and Chassidus]] - 9 Torah notes, 233 connected sources
 - [[areas/sefer-haarachim-garden|Sefer HaArachim Garden]] - 1 Torah notes, 160 connected sources
-- [[areas/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]] - 1 Torah notes, 162 connected sources
+- [[areas/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]] - 1 Torah notes, 163 connected sources
 - [[areas/sefarim-and-text-cycles|Sefarim and Text Cycles]] - 383 connected sources
 - [[areas/tzaddikim-and-mesorah|Tzaddikim and Mesorah]] - 283 connected sources
 - [[areas/yosef-hatzaddik-and-kedusha|Yosef HaTzaddik and Kedusha]] - 379 connected sources
 - [[areas/avodah-and-inner-work|Avodah and Inner Work]] - 456 connected sources
 - [[areas/torah-source-library|Torah Source Library]] - ready for notes
-- [[areas/torah-research-infrastructure|Torah Research Infrastructure]] - ready for notes
+- [[areas/torah-research-infrastructure|Torah Research Infrastructure]] - 1 Torah notes, 1 connected sources
 
 ## Personal Torah Notes
 
@@ -45,17 +45,20 @@ This atlas is the public map of the Torah garden: personal Torah notes, shiurim,
 - [[garden/torah-and-chassidus/torah-knowledge-graph|Torah Knowledge Graph]] - The goal is to connect concepts, sources, questions, sugyos, maamarim, and personal takeaways. Concepts Sources Questions Sugyos Maamarim Parsha Halacha Avodah Torah and Chassidus Graph [ ] Decide note types. [ ] Create...
 - [[garden/torah-and-chassidus/torah-and-chassidus-graph|Torah and Chassidus Graph]] - This is the map for building a connected Torah and Chassidus knowledge base. The goal is not just to collect vortlach. The goal is to see how concepts connect: Tanya, maamarim, parsha, Gemara, halacha, avodah,...
 - [[garden/torah-and-chassidus/tzimtzum|Tzimtzum]] - This note is for understanding tzimtzum as concealment, structure, and making space. Tzimtzum can explain why powerful ideas must be reduced and organized before they can be useful. Ohr and Keili
+- [[garden/mission/garden-mission|Garden Mission]] - The mission of the Torah research garden: create kelim that reveal the true place, relationships, and living structure of Torah ideas.
 - [[garden/sefer-haarachim/sefer-haarachim-garden|Sefer HaArachim Garden]] - A working garden for concept-by-concept Chabad research: definitions, source trails, contrasts, and cross-links through Sefer HaArachim.
 - [[garden/lubavitcher-rebbe-letters/lubavitcher-rebbe-letters-garden|Lubavitcher Rebbe Letters Garden]] - A working garden for the Lubavitcher Rebbe's letters and Igros Kodesh: guidance, horaos, avodah, chinuch, bitachon, and applied Torah.
 
 ## Source Corpus
 
+- [[garden/mission/garden-mission|Garden Mission]]
 - [[collections/index|Source Collections]]
 - [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]]
 - [[structures/heichal-hachassidus|Heichal HaChassidus]]
 
 ## Growth Lanes
 
+- Ask of each page: is this a whole or part, category or specific, cause or effect, subject or association?
 - Add new audio/text corpora as collections before forcing them into themes.
 - Promote repeated language into concept nodes.
 - Promote concept clusters into area pages.

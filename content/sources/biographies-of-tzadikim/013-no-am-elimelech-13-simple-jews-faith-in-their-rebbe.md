@@ -38,11 +38,11 @@ aliases:
 - [[sources/biographies-of-tzadikim/012-reb-simcha-bunim-of-pshischa-12-tzaddik-as-a-spiritual-healer|Reb Simcha Bunim Of Pshischa (12) Tzaddik As A Spiritual Healer]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/012-the-toldos-yaakov-yoseph-of-polonoye-12-the-descent-of-the-tzaddik|The Toldos Yaakov Yoseph Of Polonoye (12) The Descent Of The Tzaddik]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/010-no-am-elimelech-10-the-attachment-that-a-tzaddik-has-for-a-sinner|No’am Elimelech (10) The Attachment That A Tzaddik Has For A Sinner]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/011-the-toldos-yaakov-yoseph-of-polonoye-11-ascent-of-the-tzaddik|The Toldos Yaakov Yoseph Of Polonoye (11) Ascent Of The Tzaddik]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/015-no-am-elimelech-15-opposition-to-rebbe-elimelech-and-his-reaction|No'am Elimelech (15) Opposition To Rebbe Elimelech And His Reaction]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/012-baal-shem-tov-12-the-ten-points-to-serving-hashem|Baal Shem Tov (12) The Ten Points To Serving Hashem]] - Mesorah of Tzaddikim
 - [[sources/biographies-of-tzadikim/014-baal-shem-tov-14-clinging-to-hashem-ii|Baal Shem Tov (14) Clinging To Hashem (Ii)]] - Mesorah of Tzaddikim
-- [[sources/biographies-of-tzadikim/014-reb-simcha-bunim-of-pshischa-14-purim-is-a-holiday-for-the-exile|Reb Simcha Bunim Of Pshischa (14) Purim Is A Holiday For The Exile]] - The Shape of a Chassid
 
 ## Transcript
 

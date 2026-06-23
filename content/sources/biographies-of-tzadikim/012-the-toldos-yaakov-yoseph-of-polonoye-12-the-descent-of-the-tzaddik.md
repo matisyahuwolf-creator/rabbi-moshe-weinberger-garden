@@ -40,9 +40,9 @@ aliases:
 - [[sources/biographies-of-tzadikim/009-reb-mordechai-yoseph-of-izhbitz-9-becoming-complete-by-following-in-the-footsteps-of-avraham-avinu|Reb Mordechai Yoseph Of Izhbitz (9) Becoming Complete By Following In The Footsteps Of Avraham Avinu]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/009-the-toldos-yaakov-yoseph-of-polonoye-9-the-prototype-of-the-tzaddik-in-the-early-rabbinical-writings-2|The Toldos Yaakov Yoseph Of Polonoye (9) The Prototype Of The Tzaddik In The Early Rabbinical Writings (2)]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/010-no-am-elimelech-10-the-attachment-that-a-tzaddik-has-for-a-sinner|No’am Elimelech (10) The Attachment That A Tzaddik Has For A Sinner]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
+- [[sources/biographies-of-tzadikim/010-reb-mordechai-yoseph-of-izhbitz-10-have-no-fear-hashem-is-here|Reb Mordechai Yoseph Of Izhbitz (10) Have No Fear, Hashem Is Here]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/012-reb-simcha-bunim-of-pshischa-12-tzaddik-as-a-spiritual-healer|Reb Simcha Bunim Of Pshischa (12) Tzaddik As A Spiritual Healer]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
 - [[sources/biographies-of-tzadikim/015-no-am-elimelech-15-opposition-to-rebbe-elimelech-and-his-reaction|No'am Elimelech (15) Opposition To Rebbe Elimelech And His Reaction]] - Mesorah of Tzaddikim, The Shape of a Chassid, Tzaddik
-- [[sources/biographies-of-tzadikim/011-baal-shem-tov-11-a-difference-in-viewing-the-world|Baal Shem Tov (11) A Difference In Viewing The World]] - Mesorah of Tzaddikim
 
 ## Transcript
 

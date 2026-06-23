@@ -12,6 +12,7 @@ A Quartz garden for Rabbi Moshe Weinberger research notes, shiurim, transcripts,
 
 ## Start Here
 
+- [[structures/heichal-hachassidus|Heichal HaChassidus]]
 - [[maps/sugyas-in-chassidus-network|Sugyas in Chassidus Network]]
 - [[notes/research-map|Research Map]]
 - [[notes/transcription-review|Transcription Review]]

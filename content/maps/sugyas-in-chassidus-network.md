@@ -32,6 +32,10 @@ This map organizes the Sugyas in Chassidus shiurim by theme, concept, and learni
 - [[themes/torah-speech-and-revelation|Torah, Speech, and Revelation]] - 24 linked shiurim
 - [[themes/keser-shem-tov-textual-cycle|Keser Shem Tov Textual Cycle]] - 65 linked shiurim
 
+## Built Structure
+
+- [[structures/heichal-hachassidus|Heichal HaChassidus]] - a walkable structure assembled from the themes, concepts, and sugya tracks.
+
 ## Ordered Sugya Tracks
 
 1. [[sugyos/the-chiddush-of-the-baal-shem-tov|The Chiddush of the Baal Shem Tov]] - 3 shiurim
